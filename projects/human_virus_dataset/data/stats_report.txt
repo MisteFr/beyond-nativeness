@@ -1,0 +1,102 @@
+=== UniProt Swiss-Prot (reviewed, human-virus, PE 1-3) ===
+Total proteins         : 6,044
+Length min / P5        : 6 / 90
+Length median          : 353
+Length P95 / max       : 1706 / 7182
+>5% non-standard AA    : 1 (0.02%)
+
+Protein existence levels:
+  Evidence at protein level                           1,604
+  Evidence at transcript level                          416
+  Inferred from homology                              4,024
+  Protein existence                                      12
+
+Top 20 viral families (UniProt lineage):
+  Viruses (no rank), Riboviria (realm), Orthornavirae (kingdom), Negarnaviricota (phylum), Polyploviricotina (subphylum), Insthoviricetes (class), Articulavirales (order), Orthomyxoviridae (family), Alphainfluenzavirus (genus), Alphainfluenzavirus influenzae (species), Influenza A virus (no rank), H1N1 subtype (serotype)    344
+  Viruses (no rank), Varidnaviria (realm), Bamfordvirae (kingdom), Nucleocytoviricota (phylum), Pokkesviricetes (class), Chitovirales (order), Poxviridae (family), Chordopoxvirinae (subfamily), Orthopoxvirus (genus), Vaccinia virus (species)    335
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Betaherpesvirinae (subfamily), Cytomegalovirus (genus), Cytomegalovirus humanbeta5 (species), Human cytomegalovirus (no rank)    327
+  Viruses (no rank), Riboviria (realm), Orthornavirae (kingdom), Negarnaviricota (phylum), Polyploviricotina (subphylum), Insthoviricetes (class), Articulavirales (order), Orthomyxoviridae (family), Alphainfluenzavirus (genus), Alphainfluenzavirus influenzae (species), Influenza A virus (no rank), H3N2 subtype (serotype)    274
+  Viruses (no rank), Riboviria (realm), Orthornavirae (kingdom), Negarnaviricota (phylum), Polyploviricotina (subphylum), Insthoviricetes (class), Articulavirales (order), Orthomyxoviridae (family), Alphainfluenzavirus (genus), Alphainfluenzavirus influenzae (species), Influenza A virus (no rank), Influenza A virus H5N1 (serotype)    224
+  Viruses (no rank), Riboviria (realm), Pararnavirae (kingdom), Artverviricota (phylum), Revtraviricetes (class), Ortervirales (order), Retroviridae (family), Orthoretrovirinae (subfamily), unclassified Orthoretrovirinae (no rank), Lentivirus (genus), Lentivirus humimdef1 (species), Human immunodeficiency virus type 1 (no rank), HIV-1 unknown group (no rank)    191
+  Viruses (no rank), Varidnaviria (realm), Bamfordvirae (kingdom), Nucleocytoviricota (phylum), Pokkesviricetes (class), Chitovirales (order), Poxviridae (family), Chordopoxvirinae (subfamily), Orthopoxvirus (genus), Orthopoxvirus monkeypox (species)    168
+  Viruses (no rank), Varidnaviria (realm), Bamfordvirae (kingdom), Nucleocytoviricota (phylum), Pokkesviricetes (class), Chitovirales (order), Poxviridae (family), Chordopoxvirinae (subfamily), Orthopoxvirus (genus), Orthopoxvirus variola (species), Variola virus (no rank)    158
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Gammaherpesvirinae (subfamily), Lymphocryptovirus (genus), Lymphocryptovirus humangamma4 (species), Epstein-Barr virus (strain GD1) (no rank)    137
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Alphaherpesvirinae (subfamily), Simplexvirus (genus), Simplexvirus humanalpha1 (species), Human herpesvirus 1 (no rank)    121
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Alphaherpesvirinae (subfamily), Varicellovirus (genus), Varicellovirus humanalpha3 (species), Human herpesvirus 3 (no rank)    115
+  Viruses (no rank), Riboviria (realm), Orthornavirae (kingdom), Negarnaviricota (phylum), Polyploviricotina (subphylum), Insthoviricetes (class), Articulavirales (order), Orthomyxoviridae (family), Betainfluenzavirus (genus), Betainfluenzavirus influenzae (species), Influenza B virus (no rank)    114
+  Viruses (no rank), Varidnaviria (realm), Bamfordvirae (kingdom), Nucleocytoviricota (phylum), Pokkesviricetes (class), Chitovirales (order), Poxviridae (family), Chordopoxvirinae (subfamily), Orthopoxvirus (genus), Orthopoxvirus variola (species)    106
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Betaherpesvirinae (subfamily), Roseolovirus (genus), Roseolovirus humanbeta6a (species), Human betaherpesvirus 6A (no rank)     97
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Alphaherpesvirinae (subfamily), Simplexvirus (genus), Simplexvirus humanalpha2 (species), Human herpesvirus 2 (no rank)     91
+  Viruses (no rank), Monodnaviria (realm), Shotokuvirae (kingdom), Cossaviricota (phylum), Papovaviricetes (class), Zurhausenvirales (order), unclassified Zurhausenvirales (no rank), Papillomaviridae (family), Firstpapillomavirinae (subfamily), Betapapillomavirus (genus), Betapapillomavirus 1 (species)     80
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Gammaherpesvirinae (subfamily), Rhadinovirus (genus), Rhadinovirus humangamma8 (species), Human herpesvirus 8 (no rank)     76
+  Viruses (no rank), Duplodnaviria (realm), Heunggongvirae (kingdom), Peploviricota (phylum), Herviviricetes (class), Herpesvirales (order), Orthoherpesviridae (family), Betaherpesvirinae (subfamily), Roseolovirus (genus), Roseolovirus humanbeta6b (species), Human herpesvirus 6B (no rank)     75
+  Viruses (no rank), Varidnaviria (realm), Bamfordvirae (kingdom), Preplasmiviricota (phylum), Polisuviricotina (subphylum), Pharingeaviricetes (class), Rowavirales (order), Adenoviridae (family), Mastadenovirus (genus), Mastadenovirus caesari (species), Human mastadenovirus C (no rank)     74
+  Viruses (no rank), Riboviria (realm), Orthornavirae (kingdom), Negarnaviricota (phylum), Polyploviricotina (subphylum), Insthoviricetes (class), Articulavirales (order), Orthomyxoviridae (family), Alphainfluenzavirus (genus), Alphainfluenzavirus influenzae (species), Influenza A virus (no rank), H2N2 subtype (serotype)     74
+Spot-check UniProt accessions:
+  ✓ P03452
+  ✓ P04585
+  ✓ P0DTC2
+
+=== NCBI RefSeq NP_ (human-virus, manually curated) ===
+Total proteins         : 620
+Length min / P5        : 13 / 73
+Length median          : 295
+Length P95 / max       : 1132 / 7073
+>5% non-standard AA    : 0 (0.00%)
+
+Top 20 organisms (NCBI, genus level):
+  Monkeypox virus                                            191
+  Human betaherpesvirus                                      184
+  Human mastadenovirus                                        92
+  Human alphaherpesvirus                                      70
+  Human immunodeficiency                                      33
+  Severe acute                                                15
+  SARS coronavirus                                            15
+  Aichi virus                                                 11
+  Human erythrovirus                                           6
+  Orthohantavirus sinnombreense                                2
+  Hepacivirus platyrrhini                                      1
+Spot-check NCBI NP_ accessions:
+  ✓ NP_057849
+======================================================================
+CLEANING & NORMALIZATION STATS (05_clean_normalize.py)
+======================================================================
+Input:   6,044 UniProt sequences
+           620 NCBI NP_ sequences
+         6,664 total before deduplication
+
+Deduplication (exact SHA-256):
+  Removed: 849 total
+    Within-UniProt:  474
+    Within-NCBI NP_: 7
+    Cross-source:    368
+
+Final dataset: 5,815 unique sequences
+  UniProt:  5,570
+  NCBI NP_: 245
+
+Length distribution:
+  Min:         6
+  P5:         89
+  Median:    367
+  P95:      2092
+  Max:      7182
+
+Non-standard AA:
+  Sequences with any non-standard AA:    70
+  Sequences with ≥5% non-standard AA:   1
+
+In ESM length range (50–1022 AA): 5,204 / 5,815 (89.5%)
+
+Top 10 organisms:
+    275  Monkeypox virus
+    163  Vaccinia virus (strain Copenhagen)
+    138  Human cytomegalovirus (strain Merlin)
+    132  Human cytomegalovirus (strain AD169)
+    119  Variola virus (isolate Human/India/Ind3/1967)
+     84  Human herpesvirus 6A (strain Uganda-1102)
+     76  Human herpesvirus 8 type P (isolate GK18)
+     73  Epstein-Barr virus (strain B95-8)
+     73  Human herpesvirus 1 (strain 17)
+     71  Human herpesvirus 6B (strain Z29)
+

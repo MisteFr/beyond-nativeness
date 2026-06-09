@@ -1,0 +1,955 @@
+accession	organism_name	organism_id	lineage	protein_name	length	pct_nonstandard
+O39521	Bean yellow dwarf virus (BeYDV)	57119		Replication-associated protein A (RepA) (EC 3.1.21.-)	292	0.0
+P03567	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	352	0.0
+P03588	Brome mosaic virus (BMV)	12302		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	961	0.0
+P0CK09	Tobacco etch virus (TEV)	12227		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	1016	0.0
+P12870	Flock house virus (FHV)	12287		Capsid protein alpha (EC 3.4.23.44) [Cleaved into: Capsid protein beta (Coat protein beta) (Nodavirus endopeptidase); Membrane-lytic peptide gamma (Coat protein gamma)]	407	0.0
+P17519	Potato leafroll virus (strain Potato/Scotland/strain 1/1984) (PLrV)	12046		Protein P1 (69.7 kDa protein) (Genome-linked protein precursor) (Protein ORF1) [Cleaved into: Serine protease (EC 3.4.21.-); VPg/P1-C25]	639	0.0
+Q9IV54	Potato mop-top virus (isolate Potato/Sweden/Sw) (PMTV)	652839		Movement protein TGB1 (EC 3.6.4.-) (P51) (Triple gene block 1 protein) (TGBp1)	463	0.0
+O72157	Southern bean mosaic virus (isolate Bean/United States/Arkansas) (SBMV)	652938		Replicase polyprotein P2AB [Cleaved into: N-terminal protein; Serine protease (EC 3.4.21.-); VPg; RNA-directed RNA polymerase (EC 2.7.7.48) (RdRp)]	962	0.0
+Q0PW25	Cocksfoot mottle virus (isolate Dactylis glomerata/Norway/CfMV-NO/1995) (CfMV)	1005059		Replicase polyprotein P2AB [Cleaved into: N-terminal protein; Serine protease (EC 3.4.21.-); VPg; RNA-directed RNA polymerase (EC 2.7.7.48) (RdRp)]	942	0.0
+Q80874	Barley stripe mosaic virus (BSMV)	12327		Suppressor of RNA silencing (Gamma-B protein) (Gammab protein)	153	0.0
+P09514	Turnip yellows virus (isolate FL-1) (TuYV) (BWYV-FL1)	12043		Readthrough protein P3-RTD (P3-P5 readthrough protein) (P74) (Readthrough protein) (RT protein) [Cleaved into: Minor capsid readthrough protein (Minor capsid RT protein) (54 kDa protein); Cleaved product]	670	0.0
+P22956	Red clover necrotic mosaic virus (RCNMV)	12267		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p88)	767	0.0
+Q89504	Cocksfoot mottle virus (isolate Dactylis glomerata/Norway/CfMV-NO/1995) (CfMV)	1005059		Polyprotein P2A [Cleaved into: N-terminal protein; Serine protease (EC 3.4.21.-); VPg; Putative protein p10; Putative protein p8]	568	0.0
+P03607	Southern cowpea mosaic virus (SCPMV) (Southern bean mosaic virus (strain cowpea))	196398		Capsid protein (Coat protein)	279	0.0
+P21405	Southern cowpea mosaic virus (SCPMV) (Southern bean mosaic virus (strain cowpea))	196398		Replicase polyprotein P2AB [Cleaved into: N-terminal protein; Serine protease (EC 3.4.21.-); VPg; RNA-directed RNA polymerase (EC 2.7.7.48) (RdRp)]	956	0.0
+P21935	Squash leaf curl virus (SLCV)	10829		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P23009	Bean-pod mottle virus (strain Kentucky G7) (BPMV)	31715		RNA2 polyprotein (Genome polyprotein M) (M RNA polyprotein) (Middle component RNA polyprotein) (P2) [Cleaved into: VP58 (P58); Movement protein (MP); Large capsid protein (LCP) (Coat protein VP42) (L subunit) (Large coat protein); Small capsid protein precursor (S subunit); Mature small capsid protein (SCP) (Coat protein VP22) (Small capsid protein, N-terminus part) (Small coat protein, N-terminus part); Small capsid protein C-terminus part (Small coat protein C-terminus part)]	1018	0.0
+P31630	Cowpea severe mosaic virus (strain DG) (CPSMV)	31716		RNA2 polyprotein (Genome polyprotein M) (M RNA polyprotein) (Middle component RNA polyprotein) (P2) [Cleaved into: VP58 (P58); Movement protein (MP); Large capsid protein (LCP) (Coat protein VP37) (L subunit) (Large coat protein); Small capsid protein precursor (S subunit); Mature small capsid protein (SCP) (Coat protein VP23) (Small capsid protein, N-terminus part) (Small coat protein, N-terminus part); Small capsid protein C-terminus part (Small coat protein C-terminus part)]	1002	0.0
+Q91J24	Beet curly top virus (strain California/Logan) (BCTV)	268960		Protein C4 (Protein L4)	85	0.0
+Q9WIJ5	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Master replication protein (M-Rep) (EC 2.7.7.-) (EC 3.1.21.-) (EC 3.6.1.-) (ATP-dependent helicase C2) (Replication-associated protein 2) (Rep2)	286	0.0
+O39522	Bean yellow dwarf virus (BeYDV)	57119		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	334	0.0
+O39828	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Master replication protein (M-Rep) (EC 2.7.7.-) (EC 3.1.21.-) (EC 3.6.1.-) (ATP-dependent helicase C2) (Replication-associated protein 2) (Rep2)	286	0.0
+P03562	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	129	0.0
+P04867	Barley stripe mosaic virus (BSMV)	12327		Movement protein TGB1 (EC 3.6.4.-) (58 kDa protein) (Beta-B protein) (Triple gene block 1 protein) (TGBp1)	528	0.0
+P27260	Tomato yellow leaf curl Sardinia virus (TYLCSV)	123735		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	359	0.0
+Q08542	Beet yellows virus (isolate Ukraine) (BYV) (Sugar beet yellows virus)	478555		Movement protein p6 (6 kDa protein) (p6)	54	0.0
+Q66929	Flock house virus (FHV)	12287		RNA-directed RNA polymerase (RdRp) (EC 2.7.7.48) (RNA replicase) (Protein A)	998	0.0
+Q9DXE6	Tomato yellow leaf curl China virus (TYLCCNV)	185793		Transcriptional activator protein (TrAP) (Protein C2) (Protein L2)	134	0.0
+Q9IV52	Potato mop-top virus (isolate Potato/Sweden/Sw) (PMTV)	652839		Movement protein TGB3 (P21) (Triple gene block 3 protein) (TGBp3)	190	0.0
+P03591	Alfalfa mosaic virus (strain 425 / isolate Leiden)	12322		Capsid protein (CP) (Coat protein)	221	0.0
+P03601	Cowpea chlorotic mottle virus (CCMV)	12303		Capsid protein (CP) (Coat protein)	190	0.0
+P06663	Turnip crinkle virus (TCV)	11988		Capsid protein (Coat protein) (p38)	351	0.0
+P0C647	Panicum streak virus (isolate Kenya) (PanSV)	268780		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	359	0.0
+P0CJ93	Potato virus Y (strain N) (PVY)	12219		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	986	0.0
+P0CK00	Peanut mottle virus (strain M)	103926		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	1008	0.0
+P0CK02	Plum pox potyvirus (isolate NAT) (PPV)	12213		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	1020	0.0
+P0CK05	Potato virus A (PVA)	12215		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	993	0.0
+P0CK07	Soybean mosaic virus (strain G2) (SMV)	103931		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	992	0.0
+P0CK15	Zucchini yellow mosaic virus (strain Singapore) (ZYMV)	117130		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	997	0.0
+P0CK40	Bean golden yellow mosaic virus (isolate Puerto Rico-Japan) (BGYMV)	222449		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (40.2 kDa protein) (Protein AC1) (Protein AL1)	353	0.0
+P14980	Maize streak virus genotype A (isolate Nigeria) (MSV)	10823		Replication-associated protein A (RepA) (EC 3.1.21.-)	272	0.0
+P14991	Beet curly top virus (strain California/Logan) (BCTV)	268960		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (40.8 kDa protein) (Protein C1)	358	0.0
+P21936	Squash leaf curl virus (SLCV)	10829		Movement protein BC1 (Movement protein BL1)	293	0.0
+P27259	Tomato yellow leaf curl virus (strain Israel) (TYLCV)	66366		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	357	0.0
+P30328	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Major capsid protein (MCP) (Vp54)	437	0.0
+P36279	Tomato leaf curl virus (strain Australia) (ToLCV)	223353		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	362	0.0
+Q00338	Panicum streak virus (isolate Kenya) (PanSV)	268780		Replication-associated protein A (RepA) (EC 3.1.21.-)	323	0.0
+Q67590	Miscanthus streak virus (isolate 91) (MiSV)	268776		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	348	0.0
+Q67591	Miscanthus streak virus (isolate 91) (MiSV)	268776		Replication-associated protein A (RepA) (EC 3.1.21.-)	217	0.0
+Q67620	Tomato yellow leaf curl Sardinia virus (isolate Spain-2) (TYLCSV)	221538		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	359	0.0
+Q82676	Indian cassava mosaic virus (ICMV)	31600		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	351	0.0
+Q84424	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		mRNA-capping enzyme (GTP--RNA guanylyltransferase) (mRNA guanylyltransferase) (EC 2.7.7.50)	330	0.0
+Q9IGY6	Maize streak virus genotype B (isolate Tas) (MSV)	268409		Replication-associated protein A (RepA) (EC 3.1.21.-)	272	0.0
+Q9IGY7	Maize streak virus genotype B (isolate Tas) (MSV)	268409		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	355	0.0
+O40986	Maize streak virus genotype C (isolate Set) (MSV)	268344		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	354	0.0
+O41136	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Viral polyamine acetyltransferase (vPAT) (EC 2.3.1.57)	197	0.0
+P09506	Turnip yellows virus (isolate FL-1) (TuYV) (BWYV-FL1)	12043		Protein P1 (66.2 kDa protein) (Genome-linked protein precursor) (Protein ORF1) [Cleaved into: Serine protease (EC 3.4.21.-); VPg/P1-C25]	607	0.0
+P0CK10	Tobacco vein mottling virus (TVMV)	12228		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	977	0.0
+P0CK39	Bean golden yellow mosaic virus (isolate Puerto Rico) (BGYMV) (Bean golden mosaic virus (isolate Puerto Rico))	222448		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (40.2 kDa protein) (Protein AC1) (Protein AL1)	353	0.0
+P14972	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (40.4 kDa protein) (Protein AC1) (Protein AL1)	358	0.0
+P14982	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (40.4 kDa protein) (Protein AC1) (Protein AL1)	358	0.0
+P14988	Maize streak virus genotype A (isolate Kenya) (MSV)	10822		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	360	0.0
+P26658	Rice stripe virus (isolate T) (RSV)	36394		Suppressor of RNA silencing p3 (Protein NS3) (Protein p3)	211	0.0
+P27262	Tomato yellow leaf curl virus (strain Israel) (TYLCV)	66366		Transcriptional activator protein (TrAP) (Protein C2) (Protein L2)	135	0.0
+P31617	Tobacco yellow dwarf virus (strain Australia) (TYDV)	31599		Replication-associated protein A (RepA) (EC 3.1.21.-)	295	0.0
+P36341	Squash mosaic virus (strain melon) (SqMV)	36401		RNA2 polyprotein (Genome polyprotein M) (M RNA polyprotein) (Middle component RNA polyprotein) (P2) [Cleaved into: VP58; Movement protein (MP); Large capsid protein (LCP) (42k coat protein) (Coat protein VP42) (L subunit) (Large coat protein); Small capsid protein (SCP) (22k coat protein) (Coat protein VP22) (S subunit)]	1009	0.0
+P38485	Andean potato mottle virus (APMV)	12259		RNA2 polyprotein (Genome polyprotein M) (M RNA polyprotein) (Middle component RNA polyprotein) (P2) [Cleaved into: VP58; Movement protein (MP); Large capsid protein (LCP) (Coat protein VP42) (L subunit) (Large coat protein); Small capsid protein (SCP) (Coat protein VP22) (S subunit)]	997	0.0
+P68559	Rice stripe virus (isolate T) (RSV)	36394		Nucleoprotein (Coat protein) (CP) (Nucleocapsid protein) (Protein N) (Protein pc3)	322	0.0
+Q06923	Pepper huasteco yellow vein virus (PHYVV) (Pepper huasteco virus)	223303		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	349	0.0
+Q08317	Peanut clump virus (isolate 87/TGTA2) (PCV)	652837		Movement protein TGB1 (EC 3.6.4.-) (P51) (Triple gene block 1 protein) (TGBp1)	446	0.0
+Q65729	Brome streak virus (strain German) (BStV) (Brome streak mosaic rymovirus)	117139		Genome polyprotein [Cleaved into: Nuclear inclusion protein A (NI-A) (NIA) (EC 3.4.22.44) (49 kDa proteinase) (49 kDa-Pro); Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	942	0.0
+Q67622	Wheat dwarf virus (isolate Sweden) (WDV)	268789		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	351	0.0
+Q96703	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	129	0.0
+Q96706	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P04868	Barley stripe mosaic virus (BSMV)	12327		Movement protein TGB3 (17 kDa protein) (Beta-C protein) (Triple gene block 3 protein) (TGBp3)	155	0.0
+P0CK01	Pepper mottle virus (isolate California) (PeMV) (PepMoV C)	31737		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	985	0.0
+P0CK08	Soybean mosaic virus (strain N) (SMV)	12223		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	992	0.0
+P0CK14	Zucchini yellow mosaic virus (strain Reunion Island) (ZYMV)	117129		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	996	0.0
+P11622	Potato leafroll virus (strain Potato/Netherlands/Wageningen/1989) (PLrV)	12048		Protein P1 (69.7 kDa protein) (Genome-linked protein precursor) (Protein ORF1) [Cleaved into: Serine protease (EC 3.4.21.-); VPg/P1-C25]	639	0.0
+P11626	Potato leafroll virus (strain Potato/Netherlands/Wageningen/1989) (PLrV)	12048		Readthrough protein P3-RTD (P3-P5 readthrough protein) (P74) (Readthrough protein) (RT protein) [Cleaved into: Minor capsid readthrough protein (Minor capsid RT protein) (54 kDa protein); Cleaved product]	716	0.0
+P18478	Watermelon mosaic virus II (isolate USA)	148360		Genome polyprotein [Cleaved into: Nuclear inclusion protein A (NI-A) (NIA) (EC 3.4.22.44) (49 kDa proteinase) (49 kDa-Pro); Nuclear inclusion protein B (NI-B) (NIB) (EC 2.7.7.48) (RNA-directed RNA polymerase); Capsid protein (CP) (Coat protein)]	1017	0.0009832841691248771
+P18921	Chloris striate mosaic virus (CSMV)	10820		Replication-associated protein A (RepA) (EC 3.1.21.-)	295	0.0
+P27258	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	361	0.0
+P31618	Tobacco yellow dwarf virus (strain Australia) (TYDV)	31599		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	337	0.0
+P68831	Flock house virus (FHV)	12287		Protein B2	106	0.0
+P69513	Tomato mosaic virus (strain L) (ToMV) (TMV strain tomato)	12252		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	264	0.0
+Q80GM6	Sugarcane streak virus (isolate South Africa) (SSV) (Sugarcane streak virus (isolate Natal))	268781		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	364	0.0
+Q83264	Cucumber mosaic virus (strain Y) (CMV)	12312		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+Q86567	Banana bunchy top virus (isolate Autralia) (BBTV)	645099		Master replication protein (M-Rep) (EC 2.7.7.-) (EC 3.1.21.-) (EC 3.6.1.-)	286	0.0
+Q89822	Sugarcane streak virus (isolate South Africa) (SSV) (Sugarcane streak virus (isolate Natal))	268781		Replication-associated protein A (RepA) (EC 3.1.21.-)	314	0.0
+Q91MF8	Maize streak virus genotype D (isolate Raw) (MSV)	268343		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	355	0.0
+Q91MG1	Maize streak virus genotype E (isolate Pat) (MSV)	268331		Replication-associated protein A (RepA) (EC 3.1.21.-)	271	0.0
+Q91MG2	Maize streak virus genotype E (isolate Pat) (MSV)	268331		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	354	0.0
+Q9IR51	Milk vetch dwarf virus (isolate N) (MDV)	291605		Master replication protein (M-Rep) (EC 2.7.7.-) (EC 3.1.21.-) (EC 3.6.1.-)	286	0.0
+P06847	Wheat dwarf virus (isolate Sweden) (WDV)	268789		Replication-associated protein A (RepA) (EC 3.1.21.-)	264	0.0
+P0CJ95	Bean yellow mosaic virus	12197		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	975	0.0
+P0CK06	Potato virus Y (strain Hungarian) (PVY)	31739		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	986	0.0
+P0CK13	Zucchini yellow mosaic virus (strain California) (ZYMV)	117128		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	991	0.0
+P10471	Potato leafroll virus (PLrV)	12045		Movement protein P17 (MP) (17 kDa protein) (MP17)	156	0.0
+P13561	Red clover mottle virus (RCMV)	12262		RNA2 polyprotein (Genome polyprotein M) (M RNA polyprotein) (Middle component RNA polyprotein) (P2) [Cleaved into: VP58; Movement protein (MP) (43 kDa protein); Large capsid protein (LCP) (Coat protein VP40) (L subunit) (Large coat protein); Small capsid protein precursor (S subunit); Mature small capsid protein (SCP) (Coat protein VP22) (Small capsid protein, N-terminus part) (Small coat protein, N-terminus part); Small capsid protein C-terminus part (Small coat protein C-terminus part)]	996	0.0
+P14978	Maize streak virus genotype A (isolate Nigeria) (MSV)	10823		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	360	0.0
+P14989	Maize streak virus genotype A (isolate South Africa) (MSV)	10824		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	355	0.0
+P17525	Potato leafroll virus (strain Potato/Scotland/strain 1/1984) (PLrV)	12046		Readthrough protein P3-RTD (P3-P5 readthrough protein) (P74) (Readthrough protein) (RT protein) [Cleaved into: Minor capsid readthrough protein (Minor capsid RT protein) (54 kDa protein); Cleaved product]	716	0.0
+P29048	Squash leaf curl virus (SLCV)	10829		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	347	0.0
+P69687	Tobacco mosaic virus (strain vulgare) (TMV) (Tobacco mosaic virus (strain U1))	12243		Capsid protein (Coat protein)	159	0.0
+Q06657	Tomato mottle virus (isolate Florida) (ToMoV)	223359		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	361	0.0
+Q06658	Tomato mottle virus (isolate Florida) (ToMoV)	223359		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	129	0.0
+Q91MF7	Maize streak virus genotype D (isolate Raw) (MSV)	268343		Replication-associated protein A (RepA) (EC 3.1.21.-)	272	0.0
+Q98459	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P9	210	0.0
+Q9ICP7	Subterranean clover stunt virus (strain F) (SCSV)	291607		Master replication protein (M-Rep) (EC 2.7.7.-) (EC 3.1.21.-) (EC 3.6.1.-)	286	0.0
+Q9YPS2	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	361	0.0
+O40987	Maize streak virus genotype C (isolate Set) (MSV)	268344		Replication-associated protein A (RepA) (EC 3.1.21.-)	272	0.0
+O41043	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Exolysin (EC 4.2.2.-)	649	0.0
+P03551	Cauliflower mosaic virus (strain Strasbourg) (CaMV)	10648		Virion-associated protein (Vap) (Protein 3) (P3)	129	0.0
+P03568	Maize streak virus genotype A (isolate Kenya) (MSV)	10822		Replication-associated protein A (RepA) (EC 3.1.21.-)	272	0.0
+P03583	Tobacco mosaic virus (strain vulgare) (TMV) (Tobacco mosaic virus (strain U1))	12243		Movement protein (30 kDa protein) (Cell-to-cell transport protein) [Cleaved into: 27.9 kDa protein; 25.3 kDa protein; 19.5 kDa protein]	268	0.0
+P09516	Barley yellow dwarf virus (isolate PAV) (BYDV)	2169986		Readthrough protein P3-RTD (P3-P5 readthrough protein) (P72) (Readthrough protein) (RT protein) [Cleaved into: Minor capsid readthrough protein (Minor capsid RT protein) (P50) (P58); Cleaved product (P33)]	651	0.0015360983102918587
+P0C783	Cucumber mosaic virus (strain FNY) (CMV)	12307		Suppressor of silencing 2b (Protein 2b)	110	0.0
+P0CJ94	Bean common mosaic necrosis virus (strain NL-3) (BCMNV) (Bean common mosaic virus serotype A (strain NL-3))	500578		P3N-PIPO polyprotein [Cleaved into: P1 protease (EC 3.4.21.-) (N-terminal protein) (P1 proteinase); Helper component proteinase (HC-pro) (EC 3.4.22.45); Movement protein P3N-PIPO (Pretty interesting potyviridae ORF) (PIPO)]	999	0.0
+P14990	Maize streak virus genotype A (isolate South Africa) (MSV)	10824		Replication-associated protein A (RepA) (EC 3.1.21.-)	272	0.0
+P18919	Chloris striate mosaic virus (CSMV)	10820		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-)	361	0.0
+P21947	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein AC1) (Protein AL1)	356	0.0
+Q84710	Pea enation mosaic virus-1 (strain WSG) (PEMV-1)	693989		Protein P1 (Genome-linked protein precursor) (ORF1 protein) [Cleaved into: Serine protease (EC 3.4.21.-); VPg; P1-C25]	760	0.0
+Q85439	Rice dwarf virus (isolate Fujian) (RDV)	142804		Outer capsid protein P8 (Structural protein P8) [Cleaved into: Outer capsid protein P8'; Small peptide 1 (Sp1)]	421	0.0
+Q96704	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (40.2 kDa protein) (Protein AC1) (Protein AL1)	349	0.0
+O91275	Tobacco mosaic virus (strain B935A) (TMV)	138309		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	268	0.0
+P03554	Cauliflower mosaic virus (strain Strasbourg) (CaMV)	10648		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	679	0.0
+P03581	Sunn-hemp mosaic virus (SHMV) (TMV strain cowpea)	12240		Capsid protein (Coat protein)	163	0.0
+P05400	Carnation etched ring virus (CERV)	10640		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	659	0.0
+P09505	Barley yellow dwarf virus (isolate PAV) (BYDV)	2169986		Putative RNA-directed RNA polymerase (EC 2.7.7.48)	867	0.0
+P09519	Figwort mosaic virus (strain DxS) (FMV)	10650		Probable capsid protein (CP) (Coat protein)	489	0.0
+P0C2W9	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Protein AC4 (Protein AL4)	85	0.0
+P0CK34	Bean golden yellow mosaic virus (isolate Puerto Rico-Japan) (BGYMV)	222449		Capsid protein (Coat protein) (CP)	251	0.0
+P14583	Rice dwarf virus (isolate Akita) (RDV)	142803		Putative mRNA-capping enzyme P5 (Structural protein 5) (mRNA guanylyltransferase) (EC 2.7.7.50)	801	0.0
+P14976	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Transcriptional activator protein (TrAP) (15.2 kDa protein) (Protein AC2) (Protein AL2)	135	0.0
+P16489	Cucumber mosaic virus (strain O) (CMV)	12309		Capsid protein (CP) (Coat protein)	218	0.0
+P16596	Papaya mosaic potexvirus (PMV)	12181		Coat protein (Capsid protein) (CP)	215	0.0
+P18027	Cucumber mosaic virus (strain Y) (CMV)	12312		Capsid protein (CP) (Coat protein)	218	0.0
+P21942	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Capsid protein (Coat protein) (CP)	251	0.0
+P21944	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	129	0.0
+P22602	Potato virus Y (strain O) (PVY)	12220		Genome polyprotein [Cleaved into: P1 proteinase (EC 3.4.-.-) (N-terminal protein); Helper component proteinase (HC-pro) (EC 3.4.22.45); Protein P3]	856	0.0
+P22657	Potato virus S (strain Peruvian)	12170		RNA replication protein (152 kDa protein) (ORF1 protein) [Includes: RNA-directed RNA polymerase (EC 2.7.7.48); Helicase (EC 3.6.4.13)]	353	0.0
+P23627	Tomato aspermy virus (TAV)	12315		Capsid protein (CP) (Coat protein)	229	0.0
+P25242	Sugarcane mosaic virus (strain SC)	12225		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	365	0.0
+P27268	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P28726	Peanut stunt virus (strain J) (PSV)	12314		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	1005	0.0
+P30321	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		DNA polymerase (EC 2.7.7.7)	913	0.0
+P36280	Tomato leaf curl virus (strain Australia) (ToLCV)	223353		Transcriptional activator protein (TrAP) (Protein C2) (Protein L2)	135	0.0
+P37092	Beet yellows virus (isolate Ukraine) (BYV) (Sugar beet yellows virus)	478555		Movement protein Hsp70h (Heat shock protein 70 homolog) (Hsp70h)	598	0.0
+P38609	Tomato yellow leaf curl Sardinia virus (isolate Spain-1) (TYLCSV)	37139		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	359	0.0
+P52283	Paramecium bursaria Chlorella virus IL3A (PBCV-IL3A)	46019		Type II restriction enzyme CviJI (R.CviJI) (EC 3.1.21.4) (Endonuclease CviJI) (Type-2 restriction enzyme CviJI)	358	0.0
+P69508	Tobacco mosaic virus (strain Kokubu) (TMV)	12249		Capsid protein (Coat protein)	159	0.0
+P83549	High plains virus (isolate Idaho 97)	224783		Capsid protein (Coat protein)	289	0.0
+Q00020	Broad bean mottle virus	12301		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	966	0.0
+Q00261	Cucumber mosaic virus (strain P6) (CMV)	31719		Capsid protein (CP) (Coat protein)	218	0.0
+Q00847	Rice stripe virus (isolate T) (RSV)	36394		Movement protein (Non-structural protein 4) (NS4) (Protein pc4)	286	0.0
+Q01511	Paramecium bursaria Chlorella virus NC1A (PBCV-NC1A)	46020		Type II methyltransferase M.CviBI (M.CviBI) (EC 2.1.1.72) (Adenine-specific methyltransferase CviBI) (Modification methylase CviBI)	260	0.0
+Q02951	Cauliflower mosaic virus (strain BBC) (CaMV)	31556		Capsid protein (CP) (Coat protein)	488	0.0
+Q06661	Tomato mottle virus (isolate Florida) (ToMoV)	223359		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	257	0.0
+Q06912	Pepper huasteco yellow vein virus (PHYVV) (Pepper huasteco virus)	223303		Capsid protein (Coat protein) (CP)	251	0.0
+Q06927	Pepper huasteco yellow vein virus (PHYVV) (Pepper huasteco virus)	223303		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+Q06934	Cucumber mosaic virus (strain Kin) (CMV)	36400		Capsid protein (CP) (Coat protein)	218	0.0
+Q08315	Peanut clump virus (isolate 87/TGTA2) (PCV)	652837		Movement protein TGB2 (P14) (Triple gene block 2 protein) (TGBp2)	122	0.0
+Q66125	Cucumber mosaic virus (strain Q) (CMV)	12310		Suppressor of silencing 2b (Protein 2b)	100	0.0
+Q67619	Tomato yellow leaf curl Sardinia virus (isolate Spain-2) (TYLCSV)	221538		Transcriptional activator protein (TrAP) (Protein C2) (Protein L2)	135	0.0
+Q76L39	Broad bean wilt virus 1 (strain Spinach/United States/ATCC PV-132/1963) (BBWV-1)	649895		RNA2 polyprotein (119kDa protein) (Genome polyprotein M) [Cleaved into: VP53 (53 kDa protein); Movement protein (MP) (37 kDa protein) (VP37); Large capsid protein (LCP) (44 kDa protein); Small capsid protein (SCP) (22 kDa protein)]	1018	0.0
+Q80873	Barley stripe mosaic virus (BSMV)	12327		RNA-directed RNA polymerase (EC 2.7.7.48) (Gamma-A protein)	771	0.0
+Q83270	Cucumber mosaic virus (strain Iizuka) (CMV)	117113		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+Q83424	Melon necrotic spot virus (MNSV)	11987		RNA-directed RNA polymerase (EC 2.7.7.48) (p89) [Cleaved into: p29]	791	0.0012642225031605564
+Q89251	Watermelon mosaic virus II (isolate Tonga) (Vanilla necrosis potyvirus) (VNV)	148359		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	455	0.0
+Q9IV53	Potato mop-top virus (isolate Potato/Sweden/Sw) (PMTV)	652839		Movement protein TGB2 (P14) (Triple gene block 2 protein) (TGBp2)	119	0.0
+Q9YJW2	Barley yellow mosaic virus (isolate China/Yancheng/1998) (BaYMV)	652104		Genome polyprotein 2 [Cleaved into: Helper component proteinase (HC-pro) (EC 3.4.22.45); 70 kDa protein]	890	0.0
+O40976	Cucumber mosaic virus (strain NT9) (CMV)	117124		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+P03542	Cauliflower mosaic virus (strain Strasbourg) (CaMV)	10648		Capsid protein (CP) (Coat protein)	489	0.0
+P03563	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	132	0.0
+P03578	Odontoglossum ringspot virus (isolate Japan) (ORSV)	138307		Capsid protein (Coat protein)	158	0.0
+P03580	Ribgrass mosaic virus (strain Hr) (RMV) (TMV strain Holmes ribgrass)	12248		Capsid protein (Coat protein)	157	0.0
+P03590	Alfalfa mosaic virus (strain Strasbourg)	12324		Capsid protein (CP) (Coat protein)	218	0.0
+P03606	Satellite tobacco necrosis virus 1	12445		Capsid protein (Coat protein)	196	0.0
+P04866	Barley stripe mosaic virus (BSMV)	12327		Capsid protein (Beta-A protein) (Coat protein)	198	0.0
+P05399	Carnation etched ring virus (CERV)	10640		Probable capsid protein (CP) (Coat protein)	494	0.0
+P06448	Maize streak virus genotype A (isolate Nigeria) (MSV)	10823		Capsid protein (Coat protein) (CP)	244	0.0
+P06946	Wheat dwarf virus (isolate Sweden) (WDV)	268789		Capsid protein (Coat protein) (CP)	260	0.0
+P09396	Potato virus X (PVX)	12183		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	226	0.0
+P0CK41	Bean golden yellow mosaic virus (isolate Puerto Rico) (BGYMV) (Bean golden mosaic virus (isolate Puerto Rico))	222448		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P11640	Maize chlorotic mottle virus (isolate United States/Kansas/1987) (MCMV)	882210		RNA-directed RNA polymerase (EC 2.7.7.48) (111 kDa protein) (Protein p111) [Cleaved into: Protein p50]	965	0.0010362694300518134
+P11897	Potato virus Y (strain Yo) (PVY)	12221		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	284	0.0
+P12366	Wound tumor virus (WTV)	10987		Putative mRNA-capping enzyme P5 (Structural protein 5) (mRNA guanylyltransferase P5) (EC 2.7.7.50)	804	0.0
+P14984	Beet curly top virus (strain California/Logan) (BCTV)	268960		Capsid protein (Coat protein) (CP)	254	0.0
+P14994	Beet curly top virus (strain California/Logan) (BCTV)	268960		Replication enhancer (REn) (16.1 kDa protein) (Protein C3) (Protein L3)	136	0.0
+P15627	Soybean chlorotic mottle virus	10651		Capsid protein (CP) (Coat protein)	441	0.0
+P16490	Cucumber mosaic virus (strain FNY) (CMV)	12307		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+P17518	Potato leafroll virus (strain Potato/Scotland/strain 1/1984) (PLrV)	12046		Suppressor of silencing P0 (28 kDa protein) (Protein ORF0)	247	0.0
+P17524	Potato leafroll virus (strain Potato/Scotland/strain 1/1984) (PLrV)	12046		Movement protein P17 (MP) (17 kDa protein) (MP17)	156	0.0
+P17780	Potato virus X (strain X3) (PVX)	12185		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	226	0.0
+P21945	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P22955	Red clover necrotic mosaic virus (RCNMV)	12267		Capsid protein (Coat protein)	339	0.0
+P22959	Tobacco necrosis virus (strain A) (TNV-A)	12055		Capsid protein (p30)	276	0.0
+P27445	Squash leaf curl virus (SLCV)	10829		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	131	0.007633587786259542
+P28931	Tomato aspermy virus (TAV)	12315		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+P29044	Barley yellow dwarf virus (isolate MAV) (BYDV)	2169984		Putative RNA-directed RNA polymerase (EC 2.7.7.48)	867	0.0
+P29153	Pea enation mosaic virus-1 (strain WSG) (PEMV-1)	693989		Major capsid protein (Coat protein) (CP)	189	0.0
+P30737	Tobacco mosaic virus (strain Korean NC 82) (TMV)	31746		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	268	0.0
+P84254	Wheat yellow head virus (WYHV)	299385		Nucleoprotein (Coat protein) (CP) (Nucleocapsid protein) (Protein N) (Protein pc3)	314	0.0
+Q02941	Andean potato mottle virus (APMV)	12259		RNA1 polyprotein (Genome polyprotein B) (P1) [Cleaved into: Picornain 3C-like protease (3C-like protease) (EC 3.4.22.-) (24 kDa protein); RNA-directed RNA polymerase (EC 2.7.7.48) (87 kDa protein)]	729	0.0
+Q06924	Pepper huasteco yellow vein virus (PHYVV) (Pepper huasteco virus)	223303		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	138	0.0
+Q5NDN0	Poinsettia latent virus (isolate Euphorbia pulcherrima/Germany/Siepen/2005) (PnLV) (Poinsettia cryptic virus)	686943		Genome-linked protein precursor [Cleaved into: Serine protease (EC 3.4.21.-); VPg]	660	0.0
+Q66096	Carnation ringspot virus (isolate Lommel) (CRSV)	652597		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p88)	769	0.0
+Q66121	Cucumber mosaic virus (strain Ixora) (CMV)	117114		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+Q67684	Groundnut rosette virus (strain MC1) (GRV)	1005060		Long-distance movement protein (ORF3 protein)	251	0.0
+Q84459	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P12	151	0.0
+Q85451	Rice dwarf virus (isolate S) (RDV)	142806		Outer capsid protein P8 (Structural protein P8) [Cleaved into: Outer capsid protein P8'; Small peptide 1 (Sp1)]	421	0.0
+Q88888	Tomato pseudo-curly top virus (TPCTV)	49267		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	349	0.0
+Q89682	Melon necrotic spot virus (MNSV)	11987		Double gene block protein 1 (DGBp1) (Movement protein P7A)	65	0.0
+A0A0S2SZW1	Tomato brown rugose fruit virus (isolate TOBRFV/Tomato/Jordan/Tom1-Jo/2015) (ToBRFV)	2654645		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	266	0.0
+P03555	Cauliflower mosaic virus (strain CM-1841) (CaMV)	10644		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	679	0.0
+P03556	Cauliflower mosaic virus (strain D/H) (CaMV)	10645		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	674	0.0
+P03565	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P03571	Tobacco mosaic virus (strain OM) (TMV)	12251		Capsid protein (Coat protein)	159	0.0
+P03582	Tobacco mosaic virus (strain OM) (TMV)	12251		Movement protein (30 kDa protein) (Cell-to-cell transport protein) [Cleaved into: 27.9 kDa protein; 25.3 kDa protein; 19.5 kDa protein]	268	0.0
+P03594	Brome mosaic virus (BMV)	12302		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	822	0.0
+P03605	Cucumber mosaic virus (strain Q) (CMV)	12310		Capsid protein (CP) (Coat protein)	218	0.0
+P07993	Pepper mottle virus (PeMV)	12209		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	381	0.0
+P09511	Turnip yellows virus (isolate FL-1) (TuYV) (BWYV-FL1)	12043		Movement protein (MP) (20 kDa protein)	175	0.0
+P09515	Beet western yellows virus (isolate GB1) (BWYV)	12044		Readthrough protein P3-RTD (P3-P5 readthrough protein) (P74) (Readthrough protein) (RT protein) [Cleaved into: Minor capsid readthrough protein (Minor capsid RT protein); Cleaved product]	673	0.0
+P09523	Figwort mosaic virus (strain DxS) (FMV)	10650		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	666	0.0
+P0C1U3	Apple stem grooving virus (strain Korea) (ASGV)	273525		Putative movement protein (EC 3.4.21.-) (36 kDa protein) (ORF2 protein)	320	0.0
+P0C649	Maize streak virus genotype A (isolate Nigeria) (MSV)	10823		Movement protein (MP)	101	0.0
+P0CK38	Bean golden yellow mosaic virus (isolate Puerto Rico-Japan) (BGYMV)	222449		Transcriptional activator protein (TrAP) (19.6 kDa protein) (Protein AC2) (Protein AL2)	172	0.0
+P10838	Red clover necrotic mosaic virus (RCNMV)	12267		Movement protein (MP)	317	0.0
+P11691	Tomato bushy stunt virus (strain Cherry) (TBSV)	12147		Movement protein (p22)	189	0.0
+P14966	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Capsid protein (Coat protein) (CP)	258	0.0
+P14970	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Nuclear shuttle protein (NSP) (29.4 kDa protein) (Protein BR1) (Protein BV1)	256	0.0
+P15183	Cucumber necrosis virus (CNV)	12143		Capsid protein (Coat protein) (p41)	380	0.0
+P17379	Rice dwarf virus (isolate O) (RDV)	142805		Outer capsid protein P8 (Structural protein P8) [Cleaved into: Outer capsid protein P8'; Small peptide 1 (Sp1)]	420	0.0
+P17523	Potato leafroll virus (strain Potato/Canada/Rowhani/1979) (PLrV)	12047		Movement protein P17 (MP) (17 kDa protein) (MP17)	156	0.0
+P20122	Cucumber mosaic virus (strain O) (CMV)	12309		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+P21368	Cucumber mosaic virus (strain C) (CMV)	12306		Capsid protein (CP) (Coat protein)	218	0.0
+P22601	Potato virus Y (strain C) (PVY) (Potato virus C)	12217		Genome polyprotein [Cleaved into: P1 proteinase (EC 3.4.-.-) (N-terminal protein); Helper component proteinase (HC-pro) (EC 3.4.22.45); Protein P3]	856	0.0
+P27265	Tomato yellow leaf curl virus (strain Israel) (TYLCV)	66366		Replication enhancer protein (REn) (15.6 kDa protein) (Protein C3) (Protein L3)	134	0.0
+P27444	Squash leaf curl virus (SLCV)	10829		Capsid protein (Coat protein) (CP)	251	0.0
+P27752	Cowpea chlorotic mottle virus (CCMV)	12303		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	958	0.0
+P29045	Barley yellow dwarf virus (isolate P-PAV) (BYDV)	31724		Putative RNA-directed RNA polymerase (EC 2.7.7.48)	867	0.0
+P32652	Maize dwarf mosaic virus (MDMV)	12203		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	380	0.0
+P36292	Tomato spotted wilt virus (strain Brazilian Br-01) (TSWV)	36413		Movement protein (MVP) (Non-structural movement protein) (NSm)	301	0.0
+P37987	Chrysanthemum virus B (CVB)	12165		RNA replication protein (ORF 1 protein) [Includes: RNA-directed RNA polymerase (EC 2.7.7.48); Helicase (EC 3.6.4.13)]	260	0.0
+P89034	Panicum mosaic virus (strain United States/Kansas 109S) (PMV)	652599		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p112) [Cleaved into: Protein p48]	992	0.0010080645161290322
+Q00323	Panicum streak virus (isolate Kenya) (PanSV)	268780		Capsid protein (Coat protein) (CP)	247	0.0
+Q08545	Beet yellows virus (isolate Ukraine) (BYV) (Sugar beet yellows virus)	478555		RNA silencing suppressor (21 kDa protein) (p21)	177	0.0
+Q65675	Beet necrotic yellow vein virus (isolate Japan/S) (BNYVV)	652670		Movement protein TGB2 (13 kDa protein) (P13) (Triple gene block 2 protein) (TGBp2)	118	0.0
+Q66104	Carnation Italian ringspot virus (CIRV)	39443		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+Q84580	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P7	256	0.0
+Q88897	Tobacco rattle virus (isolate PpK20) (TRV)	652939		Capsid protein (Coat protein) (P23)	204	0.0
+Q8UYT3	Tomato aspermy virus (TAV)	12315		Suppressor of silencing 2b (Protein 2b)	95	0.0
+Q96701	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Capsid protein (Coat protein) (CP)	251	0.0
+Q98746	Tobacco mosaic virus (strain Rakkyo) (TMV-R)	138310		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	268	0.0
+Q9DUT3	Pelargonium zonate spot virus (isolate Tomato/Italy/1982) (PZSV) (Pelargonium zonate spot virus (isolate Tomato))	650488		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	962	0.0
+B1PS80	Lolium latent virus (isolate Lolium/USA/US1/-) (LoLV)	686945		Capsid protein (CP) (Coat protein)	293	0.0
+O41156	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Probable flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase)	216	0.0
+P03543	Cauliflower mosaic virus (strain CM-1841) (CaMV)	10644		Capsid protein (CP) (Coat protein)	488	0.0
+P03544	Cauliflower mosaic virus (strain D/H) (CaMV)	10645		Capsid protein (CP) (Coat protein)	490	0.0
+P03561	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Capsid protein (Coat protein) (CP)	258	0.0
+P03575	Tobacco mosaic virus (strain Dahlemense) (TMV)	12246		Capsid protein (Coat protein)	159	0.0
+P06011	Cucumber mosaic virus (strain Q) (CMV)	12310		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	991	0.0
+P09504	Turnip yellows virus (isolate FL-1) (TuYV) (BWYV-FL1)	12043		Suppressor of silencing P0 (29 kDa protein) (Protein ORF0)	249	0.0
+P10835	Paramecium bursaria Chlorella virus NC1A (PBCV-NC1A)	46020		Modification methylase CviBIII (M.CviBIII) (EC 2.1.1.72) (Adenine-specific methyltransferase CviBIII) (Orphan methyltransferase M.CviBIII)	377	0.0
+P11625	Potato leafroll virus (strain Potato/Netherlands/Wageningen/1989) (PLrV)	12048		Movement protein P17 (MP) (17 kDa protein) (MP17)	156	0.0
+P11690	Tomato bushy stunt virus (strain Cherry) (TBSV)	12147		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P11795	Tomato bushy stunt virus (strain BS-3) (TBSV)	12146		Capsid protein (Coat protein) (p41)	388	0.0
+P14968	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Transcriptional activator protein (TrAP) (15.2 kDa protein) (Protein AC2) (Protein AL2)	135	0.0
+P17769	Cucumber mosaic virus (strain FNY) (CMV)	12307		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	993	0.0
+P19723	Papaya ringspot virus (strain P / mutant HA 5-1)	31730		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	675	0.0
+P19724	Papaya ringspot virus (strain W)	12207		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	675	0.0
+P20235	Watermelon mosaic virus II (isolate Australia)	148358		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	302	0.0
+P21294	Potato virus Y (strain Chinese) (PVY)	12218		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	327	0.0
+P21946	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Movement protein BC1 (Movement protein BL1)	293	0.0
+P24147	Cucumber mosaic virus (strain WL) (CMV)	12311		Capsid protein (CP) (Coat protein)	218	0.0
+P27269	Tomato yellow leaf curl virus (strain Israel) (TYLCV)	66366		Protein V2	116	0.0
+P30320	Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)	46021		DNA polymerase (EC 2.7.7.7)	913	0.0
+P36216	Paramecium bursaria Chlorella virus IL3A (PBCV-IL3A)	46019		Type II methyltransferase M.CviJI (M.CviJI) (EC 2.1.1.37) (Cytosine-specific methyltransferase CviJI) (Modification methylase CviJI)	367	0.0
+P36277	Tomato mottle virus (isolate Florida) (ToMoV)	223359		Capsid protein (Coat protein) (CP)	251	0.0
+P38610	Tomato yellow leaf curl Sardinia virus (isolate Spain-1) (TYLCSV)	37139		Transcriptional activator protein (TrAP) (Protein C2) (Protein L2)	135	0.0
+P89678	Tobacco streak virus (strain WC) (TSV)	12318		RNA-directed RNA polymerase 2a (2a pol) (EC 2.7.7.48) (2a polymerase)	800	0.0
+Q00259	Cucumber mosaic virus (strain FC) (CMV)	31717		Capsid protein (CP) (Coat protein)	218	0.0
+Q00956	Cauliflower mosaic virus (strain NY8153) (CaMV)	31557		Capsid protein (CP) (Coat protein)	488	0.0
+Q08589	Indian cassava mosaic virus (ICMV)	31600		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	135	0.0
+Q08595	Indian cassava mosaic virus (ICMV)	31600		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	260	0.0
+Q0PI70	European mountain ash ringspot-associated virus (isolate Sorbus aucuparia) (EMARAV)	1980426		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	314	0.0
+Q1WNZ7	Rice gall dwarf virus (RGDV)	10986		Putative mRNA-capping enzyme P5 (Structural protein 5) (mRNA guanylyltransferase P5) (EC 2.7.7.50)	799	0.0
+Q65329	Barley mild mosaic virus (strain ASL) (BaMMV)	103899		Genome polyprotein 2 [Cleaved into: Helper component proteinase (HC-pro) (EC 3.4.22.45); 70 kDa protein]	893	0.0
+Q65657	Barley mild mosaic virus (strain UK-F) (BaMMV)	103901		Genome polyprotein 2 [Cleaved into: Helper component proteinase (HC-pro) (EC 3.4.22.45); 70 kDa protein]	894	0.0
+Q65676	Beet necrotic yellow vein virus (isolate Japan/S) (BNYVV)	652670		Movement protein TGB3 (15 kDa protein) (P15) (Triple gene block 3 protein) (TGBp3)	132	0.0
+Q6Q304	European mountain ash ringspot-associated virus (isolate Sorbus aucuparia) (EMARAV)	1980426		Envelope glycoprotein (GP) [Cleaved into: Glycoprotein G2; Glycoprotein G1]	646	0.0
+Q84523	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P6 (Minor capsid protein Vp25)	216	0.0
+Q85437	Rice dwarf virus (isolate Fujian) (RDV)	142804		Putative mRNA-capping enzyme P5 (Structural protein 5) (mRNA guanylyltransferase) (EC 2.7.7.50)	801	0.0
+Q89703	Cassava vein mosaic virus (CsVMV)	38062		Putative enzymatic polyprotein [Includes: Protease (PR) (EC 3.4.23.-); Reverse transcriptase (RT) (EC 2.7.7.49); Ribonuclease H (EC 3.1.26.4)]	652	0.0
+Q90023	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	187	0.0
+Q98505	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P10	289	0.0
+Q9DXE5	Tomato yellow leaf curl China virus (TYLCCNV)	185793		Replication-associated protein (Rep) (EC 2.7.7.-) (EC 3.1.21.-) (Protein C1)	361	0.0
+Q9YPS5	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Capsid protein (Coat protein) (CP)	257	0.0
+Q9YPS8	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+O11840	Beet necrotic yellow vein virus (isolate Japan/S) (BNYVV)	652670		Capsid readthrough protein (CP-RT)	690	0.0014492753623188406
+P03560	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Capsid protein (Coat protein) (CP)	247	0.0
+P03564	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Nuclear shuttle protein (NSP) (Protein BR1) (Protein BV1)	256	0.0
+P03602	Brome mosaic virus (BMV)	12302		Capsid protein (CP) (Coat protein)	189	0.0
+P04869	Barley stripe mosaic virus (BSMV)	12327		Movement protein TGB2 (14 kDa protein) (Beta-D protein) (Triple gene block 2 protein) (TGBp2) [Cleaved into: TGB2' protein]	204	0.004901960784313725
+P0CK33	Bean golden yellow mosaic virus (isolate Puerto Rico) (BGYMV) (Bean golden mosaic virus (isolate Puerto Rico))	222448		Capsid protein (Coat protein) (CP)	250	0.0
+P0CK37	Bean golden yellow mosaic virus (isolate Puerto Rico) (BGYMV) (Bean golden mosaic virus (isolate Puerto Rico))	222448		Transcriptional activator protein (TrAP) (19.6 kDa protein) (Protein AC2) (Protein AL2)	172	0.0
+P11642	Maize chlorotic mottle virus (isolate United States/Kansas/1987) (MCMV)	882210		Capsid protein (Coat protein) (p25)	236	0.0
+P20177	Clover yellow vein virus	12198		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	391	0.0
+P27255	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Capsid protein (Coat protein) (CP)	251	0.0
+P27256	Tomato yellow leaf curl virus (strain Israel) (TYLCV)	66366		Capsid protein (Coat protein) (CP)	260	0.0
+P27261	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	129	0.0
+P27263	Tomato yellow leaf curl Sardinia virus (TYLCSV)	123735		Transcriptional activator protein (TrAP) (Protein C2) (Protein L2)	135	0.0
+P29035	Tomato aspermy virus (TAV)	12315		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	828	0.0
+P69475	Cucumber green mottle mosaic virus (strain watermelon W) (CGMMV)	12237		Capsid protein (Coat protein)	161	0.0
+Q01207	Barley yellow mosaic virus (strain Japanese II-1) (BaYMV)	31729		Genome polyprotein 2 [Cleaved into: Helper component proteinase (HC-pro) (EC 3.4.22.45); 70 kDa protein]	890	0.0
+Q01365	Barley yellow mosaic virus (isolate Germany) (BaYMV)	31728		Genome polyprotein 2 [Cleaved into: Helper component proteinase (HC-pro) (EC 3.4.22.45); 70 kDa protein]	890	0.0
+Q08583	Indian cassava mosaic virus (ICMV)	31600		Capsid protein (Coat protein) (CP)	256	0.0
+Q7TD08	Cestrum yellow leaf curling virus (CmYLCV)	175814		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	643	0.0
+Q7TD09	Cestrum yellow leaf curling virus (CmYLCV)	175814		Capsid protein (CP) (coat protein)	501	0.0
+Q83943	Olive latent virus 2 (isolate Italy) (OLV-2)	650489		Replication protein 1a [Includes: ATP-dependent helicase (EC 3.6.4.-); Methyltransferase (EC 2.1.1.-)]	908	0.0
+Q84688	Peanut clump virus (isolate 87/TGTA2) (PCV)	652837		Suppressor of RNA silencing (15kD cysteine rich protein) (P15)	124	0.0
+Q85449	Rice dwarf virus (isolate Akita) (RDV)	142803		Outer capsid protein P8 (Structural protein P8) [Cleaved into: Outer capsid protein P8'; Small peptide 1 (Sp1)]	421	0.0
+Q91J26	Beet curly top virus (strain California/Logan) (BCTV)	268960		Protein C2 (Protein L2)	173	0.0
+Q9WIJ4	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Cell cycle link protein (Clink)	169	0.0
+Q9YPS3	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Transcriptional activator protein (TrAP) (Protein AC2) (Protein AL2)	135	0.0
+A4PBP8	Rice gall dwarf virus (RGDV)	10986		Protein P7	489	0.0
+A7IXI8	Paramecium bursaria Chlorella virus NY2A (PBCV-NY2A)	46021		Putative transcription factor B663R	360	0.0
+B1PS79	Lolium latent virus (isolate Lolium/USA/US1/-) (LoLV)	686945		Movement protein TGBp3 (Triple gene block 3 protein) (TGBp3)	72	0.0
+O40981	Cucumber mosaic virus (strain E5) (CMV)	117111		Capsid protein (CP) (Coat protein)	218	0.0
+O40985	Maize streak virus genotype C (isolate Set) (MSV)	268344		Capsid protein (Coat protein) (CP)	244	0.0
+O41033	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase)	141	0.0
+P03545	Cauliflower mosaic virus (strain Strasbourg) (CaMV)	10648		Movement protein (MP) (Cell-to-cell transport protein)	327	0.0
+P03553	Cauliflower mosaic virus (strain D/H) (CaMV)	10645		Virion-associated protein (Vap) (Protein 3) (P3)	129	0.0
+P03573	Tobacco mosaic virus (strain ER) (TMV)	12247		Capsid protein (Coat protein)	159	0.0
+P03604	Cucumber mosaic virus (strain Q) (CMV)	12310		Movement protein (MP) (Protein 3A)	279	0.0
+P04383	Carnation mottle virus (CarMV)	11986		Capsid protein (Coat protein) (p38)	348	0.0
+P05079	Tobacco rattle virus (strain PSG)	12297		Replicase large subunit (EC 2.1.1.-) (EC 2.7.7.48) (EC 3.6.4.13)	179	0.0
+P09499	White clover mosaic virus (strain M) (WCMV)	12189		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	236	0.0
+P09509	Beet western yellows virus (isolate GB1) (BWYV)	12044		Major capsid protein (Coat protein) (CP)	201	0.0
+P09521	Figwort mosaic virus (strain DxS) (FMV)	10650		Aphid transmission protein (Atf) (Protein 2)	164	0.0
+P09524	Figwort mosaic virus (strain DxS) (FMV)	10650		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	512	0.0
+P0C787	Potato virus X (PVX)	12183		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	115	0.0
+P11794	Carnation mottle virus (CarMV)	11986		Double gene block protein 1 (DGBp1) (Movement protein P7)	61	0.0
+P12326	Wound tumor virus (WTV)	10987		Minor outer capsid protein P9 (Non-structural protein 11) (Pns11)	313	0.0
+P14850	Pea early browning virus	12294		Protein 2b (29.6 kDa protein)	255	0.0
+P14981	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Movement protein BC1 (33.7 kDa protein) (Movement protein BL1)	298	0.0
+P15158	Belladonna mottle virus (BMDV)	12149		Capsid protein (Coat protein) (Virion protein)	190	0.0
+P15403	White clover mosaic virus (strain O) (WCMV)	12190		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	236	0.0
+P15404	White clover mosaic virus (strain O) (WCMV)	12190		Movement protein TGB2 (13 kDa protein) (Triple gene block 2 protein) (TGBp2)	117	0.0
+P15406	White clover mosaic virus (strain O) (WCMV)	12190		Coat protein (Capsid protein) (CP)	208	0.0
+P15631	Soybean chlorotic mottle virus	10651		Movement protein (Mov) (Cell-to-cell transport protein) (ORF IA)	303	0.0
+P17461	Turnip crinkle virus (TCV)	11988		Double gene block protein 1 (DGBp1) (Movement protein P8)	72	0.0
+P17530	Potato virus M (strain Russian) (PVM)	12168		RNA silencing suppressor (10.7 kDa protein) (Putative nucleic acid-binding protein)	108	0.0
+P17782	Potato virus X (strain X3) (PVX)	12185		Coat protein (Capsid protein) (CP)	237	0.0
+P18028	Cucumber mosaic virus (strain Y) (CMV)	12312		Movement protein (MP) (Protein 3A)	279	0.0
+P19126	Bean leafroll virus (BLRV)	12041		Major capsid protein (Coat protein) (CP)	196	0.0
+P19692	Sonchus yellow net virus (SYNV)	11307		Matrix protein (M2 protein)	345	0.0
+P19818	Cauliflower mosaic virus (strain PV147) (CaMV)	10647		Aphid transmission protein (Atf) (Protein 2)	159	0.0
+P20125	Turnip yellow mosaic virus (isolate Australia)	12155		Capsid protein (Coat protein) (Virion protein)	189	0.0
+P20179	Cowpea chlorotic mottle virus (CCMV)	12303		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	808	0.0
+P20180	Cowpea chlorotic mottle virus (CCMV)	12303		Movement protein (MP) (Protein 3A)	302	0.0
+P22116	Peanut stunt virus (strain J) (PSV)	12314		Capsid protein (CP) (Coat protein)	217	0.0
+P22473	Rice dwarf virus (isolate O) (RDV)	142805		Protein P7 (55 kDa core protein)	506	0.0
+P22547	Cauliflower mosaic virus (strain D4) (CaMV)	10642		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+P22556	Tamarillo mosaic virus	12226		Genome polyprotein [Cleaved into: Nuclear inclusion protein B (NI-B) (NIB) (RNA-directed RNA polymerase) (EC 2.7.7.48); Capsid protein (CP) (Coat protein)]	279	0.0
+P22958	Tobacco necrosis virus (strain A) (TNV-A)	12055		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p82) [Cleaved into: Protein p23]	724	0.0013812154696132596
+P24402	Broad bean mottle virus	12301		Capsid protein (CP) (Coat protein)	190	0.0
+P27210	Tobacco necrosis virus (strain D) (TNV-D)	12056		Capsid protein (p30)	268	0.0
+P27271	Tomato yellow leaf curl virus (strain Israel) (TYLCV)	66366		Protein C4 (10.9 kDa protein) (Protein L4)	96	0.0
+P27277	Sonchus yellow net virus (SYNV)	11307		Spike glycoprotein	632	0.0
+P27330	Lily symptomless virus (LSV)	12173		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	228	0.0
+P27331	Lily virus X	12194		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	108	0.0
+P27336	Lily symptomless virus (LSV)	12173		RNA silencing suppressor (16 kDa protein) (ORF6 protein) (Putative nucleic acid-binding protein)	140	0.0
+P28890	Rice dwarf virus (isolate Akita) (RDV)	142803		RNA-binding protein (Non-structural protein 11) (Pns11)	181	0.0
+P29097	Pepper mild mottle virus (strain Spain) (PMMV-S)	31745		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	257	0.0
+P31118	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Type II methyltransferase M.CviAII (M.CviAII) (EC 2.1.1.72) (Adenine-specific methyltransferase CviAII) (Modification methylase CviAII)	326	0.0
+P31619	Tobacco yellow dwarf virus (strain Australia) (TYDV)	31599		Movement protein (MP)	102	0.0
+P32574	Passionfruit woodiness virus (strain Mild) (PWV)	31733		Genome polyprotein [Cleaved into: Capsid protein (CP) (Coat protein)]	269	0.0
+P32575	Passionfruit woodiness virus (strain Severe) (PWV)	31734		Genome polyprotein [Cleaved into: Capsid protein (CP) (Coat protein)]	269	0.0
+P36278	Tomato leaf curl virus (strain Australia) (ToLCV)	223353		Capsid protein (Coat protein) (CP)	256	0.0
+P36351	Physalis mottle virus (PhMV) (Belladonna mottle virus-Iowa)	72539		Capsid protein (Coat protein) (Virion protein)	188	0.0
+P36698	Apple stem grooving virus (strain P-209) (ASGV)	36402		Probable movement protein (EC 3.4.21.-) (36 kDa protein) (ORF2 protein)	320	0.0
+P38608	Tomato yellow leaf curl Sardinia virus (isolate Spain-1) (TYLCSV)	37139		Capsid protein (Coat protein) (CP)	257	0.0
+P38611	Tomato yellow leaf curl Sardinia virus (isolate Spain-1) (TYLCSV)	37139		Replication enhancer protein (REn) (Protein C3) (Protein L3)	134	0.0
+P50626	Tomato bushy stunt virus (strain BS-3) (TBSV)	12146		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P50630	Tomato bushy stunt virus (strain A23) (TBSV)	70156		Movement protein (p22)	189	0.0
+P50631	Tomato bushy stunt virus (strain BS-3) (TBSV)	12146		Movement protein (p22)	189	0.0
+P50632	Tomato bushy stunt virus (strain Ja6) (TBSV)	70157		Movement protein (p22)	189	0.0
+P54892	Apple chlorotic leaf spot virus (isolate apple) (ACLSV)	73472		Putative movement protein (50.4 kDa protein) (ORF2 protein)	457	0.0
+P89035	Panicum mosaic virus (strain United States/Kansas 109S) (PMV)	652599		Putative movement protein p6.6	59	0.0
+P89036	Panicum mosaic virus (strain United States/Kansas 109S) (PMV)	652599		Capsid protein (Coat protein) (p26)	242	0.0
+P90335	Panicum mosaic virus (strain United States/Kansas 109S) (PMV)	652599		Probable movement protein p8	73	0.0
+Q00011	Barley yellow dwarf virus (isolate P-PAV) (BYDV)	31724		Major capsid protein (Coat protein) (CP)	200	0.0
+Q00260	Cucumber mosaic virus (strain M) (CMV)	31718		Capsid protein (CP) (Coat protein)	218	0.0
+Q00336	Panicum streak virus (isolate Kenya) (PanSV)	268780		Movement protein (MP)	108	0.0
+Q00966	Cauliflower mosaic virus (strain NY8153) (CaMV)	31557		Movement protein (Mov) (Cell-to-cell transport protein)	327	0.0
+Q02122	Poplar mosaic virus (isolate ATCC Pv275) (PMV)	31709		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	71	0.0
+Q02123	Poplar mosaic virus (isolate ATCC Pv275) (PMV)	31709		RNA silencing suppressor (14 kDa protein) (Putative nucleic acid-binding protein)	123	0.0
+Q02954	Cauliflower mosaic virus (strain BBC) (CaMV)	31556		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+Q04581	Shallot virus X (ShVX)	31770		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	241	0.0
+Q04582	Shallot virus X (ShVX)	31770		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	103	0.0
+Q06925	Pepper huasteco yellow vein virus (PHYVV) (Pepper huasteco virus)	223303		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	132	0.0
+Q07519	Plantago asiatica mosaic potexvirus (P1AMV)	28354		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	110	0.0
+Q07631	Potato virus X (strain HB) (PVX)	73488		Movement protein TGBp3 (9.7 kDa protein) (Triple gene block 3 protein) (TGBp3)	71	0.0
+Q08552	Peanut clump virus (isolate 87/TGTA2) (PCV)	652837		Movement protein TGB3 (P17) (Triple gene block 3 protein) (TGBp3)	153	0.0
+Q5GA90	Taro vein chlorosis virus (TAVCV)	2749935		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	502	0.0
+Q64963	Apple stem pitting virus (isolate PA66) (ASPV)	651356		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	223	0.0
+Q64964	Apple stem pitting virus (isolate PA66) (ASPV)	651356		Movement protein TGB2 (Triple gene block 2 protein) (TGBp2)	120	0.0
+Q65389	Banana bunchy top virus (isolate Autralia) (BBTV)	645099		Cell cycle link protein (Clink)	161	0.0
+Q65674	Beet necrotic yellow vein virus (isolate Japan/S) (BNYVV)	652670		Movement protein TGB1 (P42) (Triple gene block 1 protein) (TGBp1)	384	0.0
+Q66098	Carnation ringspot virus (isolate Lommel) (CRSV)	652597		Capsid protein (Coat protein)	345	0.0
+Q66120	Cucumber mosaic virus (strain Ixora) (CMV)	117114		Capsid protein (CP) (Coat protein)	218	0.0
+Q66137	Cucumber mosaic virus (strain N) (CMV)	117123		Movement protein (MP) (Protein 3A)	279	0.0
+Q66145	Cucumber mosaic virus (strain MB-8) (CMV)	117122		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+Q6E0W8	Maize mosaic virus (isolate Maize/United States/Reed/2005) (MMV)	928305		Matrix protein	235	0.0
+Q6EWG8	Cherry rasp leaf virus (isolate Potato/United States) (CRLV)	650137		RNA2 polyprotein (P2) [Cleaved into: Movement protein; Capsid protein VP25; Capsid protein VP20; Capsid protein VP24]	960	0.0
+Q83268	Cucumber mosaic virus (strain Kor) (CMV)	117116		Movement protein (MP) (Protein 3A)	280	0.0
+Q83269	Cucumber mosaic virus (strain Kor) (CMV)	117116		Capsid protein (CP) (Coat protein)	218	0.0
+Q83271	Cucumber mosaic virus (strain Iizuka) (CMV)	117113		Capsid protein (CP) (Coat protein)	218	0.0
+Q84123	Odontoglossum ringspot virus (isolate Korean Cy) (ORSV-Cy)	138661		Movement protein (33.4 kDa protein) (Cell-to-cell transport protein)	303	0.0
+Q84626	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Penton capsid protein P1	170	0.0
+Q84666	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P11	207	0.0
+Q85438	Rice dwarf virus (isolate Fujian) (RDV)	142804		Movement protein (Non-structural protein 6) (Pns6)	509	0.0
+Q85442	Rice dwarf virus (isolate Fujian) (RDV)	142804		RNA-binding protein (Non-structural protein 11) (Pns11)	189	0.0
+Q86112	Rice gall dwarf virus (RGDV)	10986		Outer capsid protein P3 (Core protein P3)	1021	0.0
+Q87008	Subterranean clover stunt virus (strain F) (SCSV)	291607		Putative movement protein (MP)	112	0.0
+Q88886	Tomato pseudo-curly top virus (TPCTV)	49267		Capsid protein (Coat protein) (CP)	242	0.0
+Q8BCV5	Mirafiori lettuce virus (isolate Lettuce/Netherlands/LS301-O) (MiLV) (Mirafiori lettuce big-vein virus)	652964		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	437	0.0
+Q8JMT1	Pear latent virus (PeLV)	197112		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+Q918W2	Indian citrus ringspot virus (isolate Kinnow mandarin/India/K1/1996) (ICRSV)	651357		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	225	0.0
+Q91MG4	Maize streak virus genotype E (isolate Pat) (MSV)	268331		Movement protein (MP)	101	0.0
+Q96705	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Protein AC4 (Protein AL4)	121	0.0
+Q98550	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P14	352	0.0
+Q9DUT1	Pelargonium zonate spot virus (isolate Tomato/Italy/1982) (PZSV) (Pelargonium zonate spot virus (isolate Tomato))	650488		Movement protein (MP) (Protein 3A)	309	0.0
+Q9DUT2	Pelargonium zonate spot virus (isolate Tomato/Italy/1982) (PZSV) (Pelargonium zonate spot virus (isolate Tomato))	650488		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	687	0.0
+Q9IGY8	Maize streak virus genotype B (isolate Tas) (MSV)	268409		Capsid protein (Coat protein) (CP)	244	0.0
+Q9JGU0	Northern cereal mosaic virus (NCMV)	1985704		Phosphoprotein (Protein P) (Protein M1)	286	0.0
+Q9WDG3	Pepper mild mottle virus (strain P0) (PMMV)	138303		Capsid protein (Coat protein)	159	0.0
+Q9WDG5	Pepper mild mottle virus (strain P2) (PMMV)	138305		Capsid protein (Coat protein)	157	0.0
+Q9WIB9	Beet western yellows virus (isolate GB1) (BWYV)	12044		Suppressor of silencing P0 (Protein ORF0)	218	0.0
+Q9WIJ8	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Capsid protein (CP) (Coat protein)	172	0.0
+Q9YPS6	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Protein AV2	116	0.0
+Q9Z0D0	Milk vetch dwarf virus (isolate N) (MDV)	291605		Putative nuclear shuttle protein	153	0.0
+B1PS78	Lolium latent virus (isolate Lolium/USA/US1/-) (LoLV)	686945		Movement protein TGB2 (14 kDa protein) (Triple gene block 2 protein) (TGBp2)	120	0.0
+O40984	Maize streak virus genotype C (isolate Set) (MSV)	268344		Movement protein (MP)	101	0.0
+O41107	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Putative transposase A625R	432	0.0
+O72158	Southern bean mosaic virus (isolate Bean/United States/Arkansas) (SBMV)	652938		Capsid protein (CP) (Coat protein)	266	0.0
+O91251	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Putative nuclear shuttle protein	153	0.0
+O91253	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Cell cycle link protein (Clink)	169	0.0
+P03546	Cauliflower mosaic virus (strain CM-1841) (CaMV)	10644		Movement protein (Mov) (Cell-to-cell transport protein)	327	0.0
+P03557	Cauliflower mosaic virus (strain D/H) (CaMV)	10645		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	522	0.0
+P03595	Alfalfa mosaic virus (strain 425 / isolate Leiden)	12322		Movement protein (MP) (Protein 3A)	300	0.0
+P03598	Tobacco streak virus (strain WC) (TSV)	12318		Capsid protein (CP) (Coat protein)	237	0.0
+P03603	Brome mosaic virus (BMV)	12302		Movement protein (MP) (Protein 3A)	303	0.0
+P05078	Tobacco rattle virus (strain TCM)	12299		Protein 2b (29.1 kDa protein)	255	0.0
+P05398	Carnation etched ring virus (CERV)	10640		Virion-associated protein (Vap) (Protein 3) (P3)	128	0.0
+P06849	Wheat dwarf virus (isolate Sweden) (WDV)	268789		Movement protein (MP)	90	0.0
+P07699	Potato virus X (PVX)	12183		Coat protein (Capsid protein) (CP)	237	0.0
+P09522	Figwort mosaic virus (strain DxS) (FMV)	10650		Virion-associated protein (Vap) (Protein 3) (P3)	115	0.0
+P0DJX3	Bean golden yellow mosaic virus (isolate Puerto Rico-Japan) (BGYMV)	222449		Protein AC4 (Protein AL4)	79	0.0
+P10468	Potato virus X (strain Xc) (PVX)	12186		Coat protein (Capsid protein) (CP)	236	0.0
+P11689	Tomato bushy stunt virus (strain Cherry) (TBSV)	12147		Capsid protein (Coat protein) (p41)	388	0.0
+P14836	Artichoke mottled crinkle virus (AMCV)	12142		Capsid protein (Coat protein) (p41)	388	0.0
+P15097	Narcissus mosaic virus (NMV)	12180		Movement protein TGB2 (14 kDa protein) (Triple gene block 2 protein) (TGBp2)	130	0.0
+P16483	Clover yellow mosaic virus (CYMV)	12177		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	59	0.0
+P16651	Potato virus S (strain Peruvian)	12170		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	108	0.0
+P16653	Potato virus S (strain Peruvian)	12170		Capsid protein (Coat protein) (CP)	293	0.0
+P16666	Cauliflower mosaic virus (strain Bari 1) (CaMV)	10643		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	522	0.0
+P17380	Wound tumor virus (WTV)	10987		Outer capsid protein P8 (Structural protein P8)	427	0.0
+P17456	Cymbidium ringspot virus (CymRSV)	12144		Capsid protein (Coat protein) (p41)	380	0.0
+P19127	Bean leafroll virus (BLRV)	12041		Movement protein (MP) (16 kDa protein)	142	0.0
+P21299	Sonchus yellow net virus (SYNV)	11307		Phosphoprotein (Protein P) (Protein M1)	286	0.0
+P22170	Foxtail mosaic virus	12179		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	127	0.0
+P22172	Foxtail mosaic virus	12179		Coat protein (Capsid protein) (CP)	215	0.0
+P22593	Potato virus X (strain CP) (PVX)	12184		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	115	0.0
+P22960	Tobacco necrosis virus (strain A) (TNV-A)	12055		Probable movement protein p8	72	0.0
+P26000	Tomato spotted wilt virus (strain Hawaiian) (TSWV)	36416		Nucleoprotein (Nucleocapsid protein) (Protein N)	258	0.0
+P27257	Tomato yellow leaf curl Sardinia virus (TYLCSV)	123735		Capsid protein (Coat protein) (CP)	257	0.0
+P27264	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	132	0.0
+P27329	Lily virus X	12194		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	216	0.0
+P27335	Lily symptomless virus (LSV)	12173		Capsid protein (Coat protein) (CP)	291	0.0
+P27462	Broad bean mottle virus	12301		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	810	0.0
+P28727	Peanut stunt virus (strain J) (PSV)	12314		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	834	0.0
+P29073	Miscanthus streak virus (isolate 91) (MiSV)	268776		Capsid protein (Coat protein) (CP)	255	0.0
+P29077	Rice gall dwarf virus (RGDV)	10986		Outer capsid protein P8 (Structural protein P8)	426	0.0
+P29800	Tomato mosaic virus (strain LII) (ToMV)	31747		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	264	0.0
+P31611	Wound tumor virus (strain NJ) (WTV)	31595		Minor outer capsid protein P9 (Non-structural protein 11) (Pns11)	313	0.0
+P31616	Tobacco yellow dwarf virus (strain Australia) (TYDV)	31599		Capsid protein (Coat protein) (CP)	254	0.0
+P32576	Passionfruit woodiness virus (strain Tip Blight) (PWV)	31735		Genome polyprotein [Cleaved into: Capsid protein (CP) (Coat protein)]	269	0.0
+P35927	Erysimum latent virus (ELV)	12152		Capsid protein (Coat protein) (Virion protein)	202	0.0
+P37991	Chrysanthemum virus B (CVB)	12165		Capsid protein (Coat protein) (CP)	315	0.0
+P61511	Tomato yellow leaf curl Sardinia virus (TYLCSV)	123735		Protein V2	115	0.0
+P69517	Tomato bushy stunt virus (strain Ja9) (TBSV)	70158		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P89679	Tobacco streak virus (strain WC) (TSV)	12318		Suppressor of silencing 2b (Protein 2b)	205	0.0
+Q00271	Cucumber mosaic virus (strain FNY) (CMV)	12307		Movement protein (MP) (Protein 3A)	279	0.0
+Q00846	Strawberry mild yellow edge-associated virus (SMYEaV)	12187		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	229	0.0
+Q00848	Strawberry mild yellow edge-associated virus (SMYEaV)	12187		Movement protein TGBp3 (8.1 kDa protein) (Triple gene block 3 protein) (TGBp3)	75	0.0
+Q00962	Cauliflower mosaic virus (strain NY8153) (CaMV)	31557		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	680	0.0
+Q00965	Cauliflower mosaic virus (strain NY8153) (CaMV)	31557		Aphid transmission protein (Atf) (Protein 2)	159	0.0
+Q01089	Cauliflower mosaic virus (strain W260) (CaMV)	31558		Movement protein (Mov) (Cell-to-cell transport protein)	327	0.0
+Q02964	Cauliflower mosaic virus (strain BBC) (CaMV)	31556		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	679	0.0
+Q02966	Cauliflower mosaic virus (strain BBC) (CaMV)	31556		Aphid transmission protein (Atf) (Protein 2)	159	0.0
+Q06388	Soil-borne wheat mosaic virus (strain United States/Nebraska/1981) (SBWMV)	652673		Capsid protein (Coat protein) (P19)	176	0.0
+Q06660	Tomato mottle virus (isolate Florida) (ToMoV)	223359		Movement protein BC1 (Movement protein BL1)	293	0.0
+Q07506	Plantago asiatica mosaic potexvirus (P1AMV)	28354		Coat protein (Capsid protein) (CP)	207	0.0
+Q07517	Plantago asiatica mosaic potexvirus (P1AMV)	28354		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	230	0.0
+Q07632	Potato virus X (strain HB) (PVX)	73488		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	226	0.0
+Q5GA88	Taro vein chlorosis virus (TAVCV)	2749935		Movement protein (MP) (Cell-to-cell transport protein) (Protein 3)	287	0.0
+Q5GA89	Taro vein chlorosis virus (TAVCV)	2749935		Phosphoprotein (Protein P) (Protein M1)	271	0.0
+Q64965	Apple stem pitting virus (isolate PA66) (ASPV)	651356		Movement protein TGBp3 (Triple gene block 3 protein) (TGBp3)	70	0.0
+Q65388	Banana bunchy top virus (isolate Autralia) (BBTV)	645099		Putative nuclear shuttle protein	154	0.0
+Q66117	Cucumber mosaic virus (strain Ixora) (CMV)	117114		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	858	0.0
+Q66138	Cucumber mosaic virus (strain N) (CMV)	117123		Capsid protein (CP) (Coat protein)	218	0.0
+Q66140	Cucumber mosaic virus (strain FT) (CMV)	117112		Capsid protein (CP) (Coat protein)	218	0.0
+Q66221	Youcai mosaic virus (YoMV)	228578		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	265	0.0
+Q67616	Tomato yellow leaf curl Sardinia virus (isolate Spain-2) (TYLCSV)	221538		Protein V2	115	0.0
+Q67617	Tomato yellow leaf curl Sardinia virus (isolate Spain-2) (TYLCSV)	221538		Capsid protein (Coat protein) (CP)	257	0.0
+Q67685	Groundnut rosette virus (strain MC1) (GRV)	1005060		Movement protein	260	0.0
+Q6DN64	Citrus psorosis virus (isolate Spain/P-121) (CPsV) (Citrus ringspot virus)	652963		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	439	0.0
+Q7TD13	Cestrum yellow leaf curling virus (CmYLCV)	175814		Putative movement protein (Mov) (Cell-to-cell transport protein)	312	0.0
+Q83050	Lettuce infectious yellows virus (isolate United States/92) (LIYV)	651355		Minor capsid protein (CPm)	452	0.0
+Q83928	Oat chlorotic stunt virus (isolate United Kingdom) (OCSV)	652110		Capsid protein (p48)	454	0.0
+Q83944	Olive latent virus 2 (isolate Italy) (OLV-2)	650489		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	787	0.0
+Q84136	Odontoglossum ringspot virus (isolate Singapore 1) (ORSV)	138662		Capsid protein (Coat protein)	158	0.0
+Q84656	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P2	576	0.0
+Q86523	Rice yellow stunt virus (RYSV) (Rice transitory yellowing virus)	59380		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	521	0.0
+Q87011	Subterranean clover stunt virus (strain F) (SCSV)	291607		Putative nuclear shuttle protein	153	0.0
+Q88889	Tomato pseudo-curly top virus (TPCTV)	49267		Protein C2 (Protein L2)	159	0.0
+Q88898	Tobacco rattle virus (isolate PpK20) (TRV)	652939		40 kDa protein	354	0.0
+Q88921	Turnip vein-clearing virus (TVCV)	29272		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	267	0.0
+Q89448	Sugarcane streak virus (isolate South Africa) (SSV) (Sugarcane streak virus (isolate Natal))	268781		Movement protein (MP)	109	0.0
+Q89551	Sugarcane streak virus (isolate South Africa) (SSV) (Sugarcane streak virus (isolate Natal))	268781		Capsid protein (Coat protein) (CP)	248	0.0
+Q89846	Melon necrotic spot virus (MNSV)	11987		Double gene block protein 2 (DGBp2) (Movement protein P7B)	61	0.0
+Q91MG3	Maize streak virus genotype E (isolate Pat) (MSV)	268331		Capsid protein (Coat protein) (CP)	244	0.0
+Q96702	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Replication enhancer protein (REn) (15.6 kDa protein) (Protein AC3) (Protein AL3)	132	0.0
+Q98473	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P13	98	0.0
+Q98500	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		5'RNA triphosphatase A449R (EC 3.6.1.74)	193	0.0
+Q98573	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein 3 (Minor capsid protein Vp20.5)	171	0.0
+Q9JGT4	Northern cereal mosaic virus (NCMV)	1985704		Glycoprotein	483	0.0
+Q9JGU1	Northern cereal mosaic virus (NCMV)	1985704		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	431	0.0
+Q9QDI8	Ribgrass mosaic virus (RMV)	51680		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	265	0.0
+A0A0S2SZX3	Tomato brown rugose fruit virus (isolate TOBRFV/Tomato/Jordan/Tom1-Jo/2015) (ToBRFV)	2654645		Capsid protein (Coat protein)	159	0.0
+A4PBQ0	Rice gall dwarf virus (RGDV)	10986		RNA-binding protein (Non-structural protein 12) (Pns12)	206	0.0
+B1PS77	Lolium latent virus (isolate Lolium/USA/US1/-) (LoLV)	686945		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	268	0.0
+O39436	Cucumber mosaic virus (strain As) (CMV)	117118		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	858	0.0
+O40977	Cucumber mosaic virus (strain NT9) (CMV)	117124		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+O41054	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P4	181	0.0
+P03558	Cauliflower mosaic virus (strain CM-1841) (CaMV)	10644		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+P03569	Maize streak virus genotype A (isolate Kenya) (MSV)	10822		Capsid protein (Coat protein) (CP)	244	0.0
+P05396	Carnation etched ring virus (CERV)	10640		Movement protein (Mov) (Cell-to-cell transport protein)	319	0.0
+P05397	Carnation etched ring virus (CERV)	10640		Aphid transmission protein (Atf) (Protein 2)	168	0.0
+P07698	Potato virus X (PVX)	12183		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	70	0.0
+P09501	White clover mosaic virus (strain M) (WCMV)	12189		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	66	0.0
+P09512	Beet western yellows virus (isolate GB1) (BWYV)	12044		Movement protein (MP) (20 kDa protein)	175	0.0
+P09513	Barley yellow dwarf virus (isolate PAV) (BYDV)	2169986		Movement protein (MP) (17 kDa protein)	153	0.0
+P0C6G3	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Protein AC4 (Protein AL4)	85	0.0
+P11621	Potato leafroll virus (strain Potato/Netherlands/Wageningen/1989) (PLrV)	12048		Suppressor of silencing P0 (28 kDa protein) (Protein ORF0)	247	0.0
+P11624	Potato leafroll virus (strain Potato/Netherlands/Wageningen/1989) (PLrV)	12048		Major capsid protein (Coat protein) (CP) (P3)	208	0.0
+P12325	Wound tumor virus (WTV)	10987		Protein P7 (60 kDa core protein)	519	0.0
+P15184	Cucumber necrosis virus (CNV)	12143		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	173	0.0
+P15187	Cucumber necrosis virus (CNV)	12143		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p92) [Cleaved into: Protein p33]	818	0.0012224938875305623
+P15629	Soybean chlorotic mottle virus	10651		Enzymatic polyprotein [Includes: Aspartic protease (EC 3.4.23.-); Endonuclease; Reverse transcriptase (EC 2.7.7.49)]	692	0.0
+P15961	Artichoke mottled crinkle virus (AMCV)	12142		Movement protein (p22)	189	0.0
+P16650	Potato virus S (strain Peruvian)	12170		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	227	0.0
+P16652	Potato virus S (strain Peruvian)	12170		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	65	0.0
+P16654	Potato virus S (strain Peruvian)	12170		RNA silencing suppressor (10.7 kDa protein) (Putative nucleic acid-binding protein)	93	0.0
+P17381	Rice dwarf virus (RDV)	10991		Minor outer capsid protein P9	351	0.0
+P17522	Potato leafroll virus (strain Potato/Scotland/strain 1/1984) (PLrV)	12046		Major capsid protein (Coat protein) (CP) (P3)	208	0.0
+P17781	Potato virus X (strain X3) (PVX)	12185		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	70	0.0
+P19128	Cacao yellow mosaic virus	12150		Capsid protein (Coat protein) (Virion protein)	188	0.0
+P20952	Papaya mosaic potexvirus (PMV)	12181		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	233	0.0
+P21943	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	132	0.0
+P25999	Tomato spotted wilt virus (strain Brazilian Br-01) (TSWV)	36413		Nucleoprotein (Nucleocapsid protein) (Protein N)	258	0.0
+P27207	Maize stripe virus (MStV)	3052767		Nucleoprotein (Coat protein) (CP) (Nucleocapsid protein) (Protein N) (Protein pc3)	316	0.0
+P27272	Tomato yellow leaf curl Sardinia virus (TYLCSV)	123735		Protein C4 (11.1 kDa protein) (Protein L4)	98	0.0
+P27327	Lily virus X	12194		RNA replication protein (ORF 1 protein) [Includes: RNA-directed RNA polymerase (EC 2.7.7.48); Helicase (EC 3.6.4.13)]	162	0.0
+P27333	Lily symptomless virus (LSV)	12173		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	64	0.0
+P28478	Turnip yellow mosaic virus (isolate TYMC)	31751		69 kDa protein (p69)	628	0.0
+P28898	Carnation latent virus (CLV)	12164		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	65	0.0
+P28975	Impatiens necrotic spot virus (INSV)	11612		Nucleoprotein (Nucleocapsid protein) (Protein N)	262	0.0
+P29047	Barley yellow dwarf virus (isolate P-PAV) (BYDV)	31724		Movement protein (MP) (17 kDa protein)	153	0.0
+P29049	Squash leaf curl virus (SLCV)	10829		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	134	0.007462686567164179
+P29249	Rice dwarf virus (isolate Akita) (RDV)	142803		Movement protein (Non-structural protein 6) (Pns6)	509	0.0
+P33521	Maize stripe virus (MStV)	3052767		Movement protein (Non-structural protein 4) (NS4) (Protein pc4)	283	0.0
+P36282	Tomato leaf curl virus (strain Australia) (ToLCV)	223353		Protein V2	115	0.0
+P36293	Tomato spotted wilt virus (strain Brazilian Br-03) (TSWV) (Tomato chlorotic spot virus)	12851		Nucleoprotein (Nucleocapsid protein) (Protein N)	258	0.0
+P36294	Tomato spotted wilt virus (strain SA-05) (TSWV) (Groundnut ringspot virus)	12675		Nucleoprotein (Nucleocapsid protein) (Protein N)	258	0.0
+P50624	Tomato bushy stunt virus (strain B8) (TBSV)	70155		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	171	0.0
+P50633	Tomato bushy stunt virus (strain Ja9) (TBSV)	70158		Movement protein p22 (p21)	189	0.0
+P50634	Tomato bushy stunt virus (strain type) (TBSV)	70159		Movement protein p22 (p21)	189	0.0
+P69467	Cucumber mosaic virus (strain I17F) (CMV)	12308		Capsid protein (CP) (Coat protein)	218	0.0
+P69515	Cucumber green mottle mosaic virus (strain watermelon W) (CGMMV)	12237		Replicase large subunit (EC 2.7.7.48) (183 kDa protein)	153	0.0
+P89658	Pepper mild mottle virus (strain Japan) (PMMV-J)	138663		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	257	0.0
+Q00556	Helenium virus S (HelVS)	12171		Capsid protein (Coat protein) (CP)	299	0.0
+Q00686	Citrus tristeza virus (isolate T36) (CTV)	31712		Capsid protein (CP) (Coat protein)	223	0.0
+Q00842	Strawberry mild yellow edge-associated virus (SMYEaV)	12187		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	108	0.0
+Q00844	Rice stripe virus (isolate T) (RSV)	36394		Major non-capsid protein (NCP) (20.5 kDa protein) (Protein p4) (Stripe disease-specific protein) (Protein S)	178	0.0
+Q00967	Cauliflower mosaic virus (strain NY8153) (CaMV)	31557		Virion-associated protein (Vap) (Protein 3) (P3)	129	0.0
+Q01209	Rice stripe virus (isolate M) (RSV)	36393		Major non-capsid protein (NCP) (20.5 kDa protein) (Protein p4) (Stripe disease-specific protein) (Protein S)	178	0.0
+Q01210	Rice stripe virus (isolate M) (RSV)	36393		Suppressor of RNA silencing p3 (Protein NS3) (Protein p3)	211	0.0
+Q01268	Impatiens necrotic spot virus (INSV)	11612		Movement protein (MVP) (Non-structural movement protein) (NSm)	303	0.0
+Q01687	Potato virus M (strain German) (PVM)	31710		RNA silencing suppressor (12 kDa protein) (Cysteine-rich protein) (CRP) (Nucleic acid-binding regulatory protein) (PR12)	108	0.0
+Q02106	Poplar mosaic virus (isolate ATCC Pv275) (PMV)	31709		Capsid protein (Coat protein) (CP)	321	0.0
+Q02968	Cauliflower mosaic virus (strain BBC) (CaMV)	31556		Movement protein (Mov) (Cell-to-cell transport protein)	327	0.0
+Q04572	Shallot virus X (ShVX)	31770		Capsid protein (CP) (Coat protein)	262	0.0
+Q06392	Soil-borne wheat mosaic virus (strain United States/Nebraska/1981) (SBWMV)	652673		Suppressor of RNA silencing (19kD cysteine rich protein) (P19)	174	0.0
+Q07520	Plantago asiatica mosaic potexvirus (P1AMV)	28354		Movement protein TGBp3 (13 kDa protein) (Triple gene block 3 protein) (TGBp3)	121	0.0
+Q07633	Potato virus X (strain HB) (PVX)	73488		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	115	0.0
+Q08588	Indian cassava mosaic virus (ICMV)	31600		Protein AC4 (Protein AL4)	102	0.0
+Q08593	Indian cassava mosaic virus (ICMV)	31600		Protein AV2	112	0.0
+Q08JR8	Milk vetch dwarf virus (isolate N) (MDV)	291605		Protein U4	108	0.0
+Q1KZ55	Citrus leprosis virus C (isolate Citrus sinesis/Brazil/Cordeiropolis/2003) (CiLV-C)	686950		Putative movement protein	297	0.0
+Q2L4I7	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Protein U4	105	0.0
+Q65386	Banana bunchy top virus (isolate Autralia) (BBTV)	645099		Capsid protein (CP) (Coat protein)	175	0.0
+Q66134	Cucumber mosaic virus (strain S) (CMV)	117126		Movement protein (MP) (Protein 3A)	279	0.0
+Q66141	Cucumber mosaic virus (strain Pepo) (CMV)	117125		Capsid protein (CP) (Coat protein)	218	0.0
+Q66142	Cucumber mosaic virus (strain CS) (CMV)	117109		Movement protein (MP) (Protein 3A)	279	0.0
+Q66222	Youcai mosaic virus (YoMV)	228578		Capsid protein (Coat protein)	157	0.0
+Q67618	Tomato yellow leaf curl Sardinia virus (isolate Spain-2) (TYLCSV)	221538		Replication enhancer protein (REn) (Protein C3) (Protein L3)	134	0.0
+Q67897	Rice hoja blanca virus (strain cr) (RHBV) (Rice hoja blanca virus (strain Costa Rica))	480611		Suppressor of RNA silencing p3 (Protein NS3) (Protein p3)	203	0.0
+Q6E0X1	Maize mosaic virus (isolate Maize/United States/Reed/2005) (MMV)	928305		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	447	0.0
+Q709N3	Pelargonium necrotic spot virus (PeNSV)	255587		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+Q779L9	Potato mop-top virus (isolate Potato/Sweden/Sw) (PMTV)	652839		Suppressor of RNA silencing (8kD cysteine rich protein) (P8)	68	0.0
+Q7TD19	Turnip crinkle virus (TCV)	11988		Double gene block protein 2 (DGBp2) (Movement protein P9)	85	0.0
+Q83486	Tobamovirus Ob	31749		Capsid protein (Coat protein)	161	0.0
+Q84122	Odontoglossum ringspot virus (isolate Korean Cy) (ORSV-Cy)	138661		Capsid protein (Coat protein)	158	0.0
+Q84135	Odontoglossum ringspot virus (isolate Singapore 1) (ORSV)	138662		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	303	0.0
+Q85429	Rice stripe virus (isolate T) (RSV)	36394		Putative envelope glycoprotein (GP) (Protein pc2) [Cleaved into: Putative glycoprotein G1; Putative glycoprotein G2]	834	0.0
+Q85440	Rice dwarf virus (isolate Fujian) (RDV)	142804		Minor outer capsid protein P9	351	0.0
+Q86134	Lettuce necrotic yellows virus (isolate 318) (LNYV)	928304		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	459	0.0
+Q88890	Tomato pseudo-curly top virus (TPCTV)	49267		Replication enhancer protein (REn) (16.1 kDa protein) (Protein C3) (Protein L3)	134	0.0
+Q88891	Tomato pseudo-curly top virus (TPCTV)	49267		Protein C4 (Protein L4)	85	0.0
+Q88922	Turnip vein-clearing virus (TVCV)	29272		Capsid protein (Coat protein)	157	0.0
+Q89914	Sonchus yellow net virus (SYNV)	11307		Movement protein (MP) (Cell-to-cell transport protein) (Protein Sc4)	324	0.0
+Q8UZB5	Grapevine fleck virus (isolate Italy/MT48) (GFkV)	652668		Capsid protein (CP) (Coat protein) (Virion protein)	230	0.0
+Q91MG0	Maize streak virus genotype D (isolate Raw) (MSV)	268343		Movement protein (MP)	101	0.0
+Q96639	Beet necrotic yellow vein virus (isolate Japan/S) (BNYVV)	652670		Protein P26 (26kDa protein)	228	0.0
+Q96711	Cucumber mosaic virus (strain Kor) (CMV)	117116		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+Q9DIC6	Lettuce necrotic yellows virus (isolate 318) (LNYV)	928304		Glycoprotein	551	0.0
+Q9DXE7	Tomato yellow leaf curl China virus (TYLCCNV)	185793		Replication enhancer protein (REn) (Protein C3) (Protein L3)	134	0.0
+Q9DXE8	Tomato yellow leaf curl China virus (TYLCCNV)	185793		Capsid protein (Coat protein) (CP)	256	0.0
+Q9DXE9	Tomato yellow leaf curl China virus (TYLCCNV)	185793		Protein V2	115	0.0
+Q9IW99	Potato mop-top virus (isolate Potato/Sweden/Sw) (PMTV)	652839		Capsid protein (Coat protein)	176	0.0
+Q9JGT5	Northern cereal mosaic virus (NCMV)	1985704		Matrix protein	174	0.0
+Q9QBU3	Pothos latent virus (isolate Pigeonpea/India) (PoLV)	652109		Capsid protein (p40)	372	0.0
+Q9QEE7	Indian citrus ringspot virus (isolate Kinnow mandarin/India/K1/1996) (ICRSV)	651357		Capsid protein (CP) (Coat protein)	325	0.0
+Q9WDG4	Pepper mild mottle virus (strain P1) (PMMV)	138304		Capsid protein (Coat protein)	159	0.0
+Q9WDG7	Ribgrass mosaic virus (strain CAB) (RMV)	138308		Capsid protein (Coat protein)	157	0.0
+Q9WIJ7	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Putative movement protein (MP)	114	0.0
+Q9YNE3	Olive latent virus 2 (isolate Italy) (OLV-2)	650489		Movement protein (MP) (Protein 3A)	337	0.0
+A0A131KVX9	Maize chlorotic mottle virus (isolate United States/Kansas/1987) (MCMV)	882210		p7b	64	0.0
+B3VML1	Ourmia melon virus (isolate Melon/Iran/VE9) (OuMV)	652838		RNA-dependent RNA polymerase (EC 2.7.7.48)	860	0.0
+O39831	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Capsid protein (CP) (Coat protein)	172	0.0
+O40980	Cucumber mosaic virus (strain NT9) (CMV)	117124		Capsid protein (CP) (Coat protein)	218	0.0
+O40983	Cucumber mosaic virus (strain C7-2) (CMV)	117117		Capsid protein (CP) (Coat protein)	218	0.0
+O41056	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Probable DNA polymerase sliding clamp 2 (Proliferating cell nuclear antigen homolog 2) (PCNA 2)	264	0.0
+O41126	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P8	173	0.0
+P03548	Cauliflower mosaic virus (strain Strasbourg) (CaMV)	10648		Aphid transmission protein (Atf) (Protein 2)	159	0.0
+P03549	Cauliflower mosaic virus (strain CM-1841) (CaMV)	10644		Aphid transmission protein (Atf) (Protein 2)	159	0.0
+P03552	Cauliflower mosaic virus (strain CM-1841) (CaMV)	10644		Virion-associated protein (Vap) (Protein 3) (P3)	129	0.0
+P05401	Carnation etched ring virus (CERV)	10640		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	496	0.0
+P06012	Cucumber mosaic virus (strain Q) (CMV)	12310		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	839	0.0
+P09500	White clover mosaic virus (strain M) (WCMV)	12189		Movement protein TGB2 (13 kDa protein) (Triple gene block 2 protein) (TGBp2)	116	0.0
+P09502	White clover mosaic virus (strain M) (WCMV)	12189		Coat protein (Capsid protein) (CP)	190	0.0
+P09508	Turnip yellows virus (isolate FL-1) (TuYV) (BWYV-FL1)	12043		Major capsid protein (Coat protein) (CP)	202	0.0
+P09510	Barley yellow dwarf virus (isolate PAV) (BYDV)	2169986		Major capsid protein (Coat protein) (CP)	200	0.0
+P0C6G5	Squash leaf curl virus (SLCV)	10829		Protein AC4 (Protein AL4)	125	0.0
+P0C777	Carnation mottle virus (isolate China/Shanghai) (CarMV)	652111		Double gene block protein 1 (DGBp1) (Movement protein P7)	61	0.0
+P0CK35	Bean golden yellow mosaic virus (isolate Puerto Rico) (BGYMV) (Bean golden mosaic virus (isolate Puerto Rico))	222448		Replication enhancer protein (REn) (15.6 kDa protein) (Protein AC3) (Protein AL3)	132	0.0
+P0CK36	Bean golden yellow mosaic virus (isolate Puerto Rico-Japan) (BGYMV)	222449		Replication enhancer protein (REn) (15.6 kDa protein) (Protein AC3) (Protein AL3)	132	0.0
+P0CK43	Bean golden yellow mosaic virus (isolate Puerto Rico) (BGYMV) (Bean golden mosaic virus (isolate Puerto Rico))	222448		Movement protein BC1 (Movement protein BL1)	293	0.0
+P0CK44	Bean golden yellow mosaic virus (isolate Puerto Rico-Japan) (BGYMV)	222449		Movement protein BC1 (Movement protein BL1)	293	0.0
+P10550	Sonchus yellow net virus (SYNV)	11307		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	475	0.0
+P11641	Maize chlorotic mottle virus (isolate United States/Kansas/1987) (MCMV)	882210		Protein p31 [Cleaved into: Movement protein p7a]	279	0.0035842293906810036
+P13218	Cauliflower mosaic virus (strain S-Japan) (CaMV)	10646		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	522	0.0
+P14967	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Uncharacterized 13.1 kDa protein	113	0.0
+P14971	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Movement protein BC1 (33.7 kDa protein) (Movement protein BL1)	298	0.0
+P14975	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Protein AV2	113	0.0
+P14977	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Replication enhancer protein (REn) (15.9 kDa protein) (Protein AC3) (Protein AL3)	134	0.0
+P14985	Chloris striate mosaic virus (CSMV)	10820		Capsid protein (Coat protein) (CP)	241	0.0
+P14992	Maize streak virus genotype A (isolate South Africa) (MSV)	10824		Movement protein (MP)	101	0.0
+P15096	Narcissus mosaic virus (NMV)	12180		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	233	0.0
+P15098	Narcissus mosaic virus (NMV)	12180		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	100	0.0
+P15100	Narcissus mosaic virus (NMV)	12180		Coat protein (Capsid protein) (CP)	240	0.0
+P15185	Cucumber necrosis virus (CNV)	12143		Movement protein (p22)	190	0.0
+P15405	White clover mosaic virus (strain O) (WCMV)	12190		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	66	0.0
+P15962	Tomato bushy stunt virus (strain Cherry) (TBSV)	12147		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p92) [Cleaved into: Protein p33]	818	0.0012224938875305623
+P16491	Cucumber mosaic virus (strain O) (CMV)	12309		Movement protein (MP) (Protein 3A)	279	0.0
+P17459	Cymbidium ringspot virus (CymRSV)	12144		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p92) [Cleaved into: Protein p33]	818	0.0012224938875305623
+P17526	Potato virus M (strain Russian) (PVM)	12168		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	229	0.0
+P17528	Potato virus M (strain Russian) (PVM)	12168		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	63	0.0
+P17966	Barley yellow dwarf virus (isolate MAV) (BYDV)	2169984		Major capsid protein (Coat protein) (CP)	199	0.0
+P18338	Tobacco mild green mosaic virus (TMGMV) (TMV strain U2)	12241		Movement protein (28.5 kDa protein) (Cell-to-cell transport protein)	266	0.0
+P18617	Cauliflower mosaic virus (strain PV147) (CaMV)	10647		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+P19522	Cucumber green mottle mosaic virus (strain watermelon W) (CGMMV)	12237		Movement protein (28.8 kDa protein) (Cell-to-cell transport protein)	264	0.0
+P20123	Eggplant mosaic virus	12151		Capsid protein (Coat protein) (Virion protein)	188	0.0
+P20131	Turnip yellow mosaic virus (isolate Australia)	12155		69 kDa protein (p69)	628	0.0
+P20953	Papaya mosaic potexvirus (PMV)	12181		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	111	0.0
+P22171	Foxtail mosaic virus	12179		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	52	0.0
+P22472	Rice dwarf virus (isolate Akita) (RDV)	142803		Outer capsid protein P3 (Core protein P3)	1019	0.0
+P22592	Potato virus X (strain CP) (PVX)	12184		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	226	0.0
+P24264	Alfalfa mosaic virus (strain YSMV)	12325		Capsid protein (CP) (Coat protein)	221	0.0
+P24403	Broad bean mottle virus	12301		Movement protein (MP) (Protein 3A)	295	0.0
+P24819	Arabis mosaic virus (ArMV)	12271		RNA2 polyprotein (P2) [Cleaved into: Movement protein (2B-MP); Coat protein (2C-CP)]	506	0.0
+P25034	Cucumber green mottle mosaic virus (strain watermelon SH) (CGMMV)	12236		Movement protein (28.8 kDa protein) (Cell-to-cell transport protein)	264	0.0
+P26001	Tomato spotted wilt virus (strain Bulgarian L3) (TSWV)	36415		Nucleoprotein (Nucleocapsid protein) (Protein N)	258	0.0
+P27209	Tobacco necrosis virus (strain D) (TNV-D)	12056		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p82) [Cleaved into: Protein p23]	725	0.001379310344827586
+P27266	Tomato yellow leaf curl Sardinia virus (TYLCSV)	123735		Replication enhancer protein (REn) (Protein C3) (Protein L3)	134	0.0
+P27267	Potato yellow mosaic virus (isolate Venezuela) (PYMV)	223310		Movement protein BC1 (Movement protein BL1)	293	0.0
+P29799	Tomato mosaic virus (strain LIIa) (ToMV)	31748		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	264	0.0
+P31798	Potato virus X (strain UK3) (PVX)	31726		Coat protein (Capsid protein) (CP)	237	0.0
+P34961	Rice stripe virus (isolate M) (RSV)	36393		Movement protein (Non-structural protein 4) (NS4) (Protein pc4)	286	0.0
+P36281	Tomato leaf curl virus (strain Australia) (ToLCV)	223353		Replication enhancer protein (REn) (Protein C3) (Protein L3)	134	0.0
+P37988	Chrysanthemum virus B (CVB)	12165		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	231	0.0
+P37992	Chrysanthemum virus B (CVB)	12165		RNA silencing suppressor (12.6 kDa protein) (Putative nucleic acid-binding protein)	107	0.0
+P37993	Potato aucuba mosaic virus (PAMV)	12182		Coat protein (Capsid protein) (CP)	249	0.0
+P38612	Tomato yellow leaf curl Sardinia virus (isolate Spain-1) (TYLCSV)	37139		Protein C4 (10.9 kDa protein) (Protein L4)	96	0.0
+P68832	Potato virus X (strain CP) (PVX)	12184		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	70	0.0
+P69510	Pepper mild mottle virus (strain Spain) (PMMV-S)	31745		Capsid protein (Coat protein)	157	0.0
+P83574	Nigerian sorghum potyvirus (Dawa mosaic virus)	228731		Genome polyprotein [Cleaved into: Capsid protein (CP) (Coat protein)]	293	0.0
+P85309	High plains virus (isolate Kansas 2004)	478099		Capsid protein (Coat protein)	288	0.0
+P89677	Tomato mosaic virus (strain Kazakh K2) (ToMV) (TMV strain K2)	138312		Capsid protein (Coat protein)	159	0.0
+P89684	Barley mild mosaic virus (strain Na1) (BaMMV)	103900		Genome polyprotein 2 [Cleaved into: Helper component proteinase (HC-pro) (EC 3.4.22.45); 70 kDa protein]	891	0.0
+Q00467	Cymbidium mosaic virus (strain Singapore)	31725		Coat protein (Capsid protein) (CP)	220	0.0
+Q00478	Cymbidium mosaic virus (strain Singapore)	31725		Movement protein TGBp3 (9.7 kDa protein) (Triple gene block 3 protein) (TGBp3)	91	0.0
+Q01087	Cauliflower mosaic virus (strain W260) (CaMV)	31558		Aphid transmission protein (Atf) (Protein 2)	99	0.0
+Q01669	Potato virus M (strain German) (PVM)	31710		Capsid protein (Coat protein) (CP)	304	0.0
+Q02967	Cauliflower mosaic virus (strain BBC) (CaMV)	31556		Virion-associated protein (Vap) (Protein 3) (P3)	129	0.0
+Q05651	Cauliflower mosaic virus (strain W260) (CaMV)	31558		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+Q07626	Potato virus X (strain HB) (PVX)	73488		Coat protein (Capsid protein) (CP)	236	0.0
+Q08531	Beet yellows virus (isolate Ukraine) (BYV) (Sugar beet yellows virus)	478555		Capsid protein (CP) (p22)	204	0.0
+Q08544	Beet yellows virus (isolate Ukraine) (BYV) (Sugar beet yellows virus)	478555		20 kDa protein (p20)	180	0.0
+Q08594	Indian cassava mosaic virus (ICMV)	31600		Movement protein BC1 (Movement protein BL1)	287	0.0
+Q5GA87	Taro vein chlorosis virus (TAVCV)	2749935		Matrix protein	235	0.0
+Q65669	Beet necrotic yellow vein virus (isolate Japan/S) (BNYVV)	652670		Protein P25 (25kDa protein)	219	0.0
+Q66012	Cocksfoot mottle virus (isolate Dactylis glomerata/Norway/CfMV-NO/1995) (CfMV)	1005059		Capsid protein (CP) (Coat protein) (Protein P4)	254	0.0
+Q66135	Cucumber mosaic virus (strain Banana) (CMV)	117120		Capsid protein (CP) (Coat protein)	218	0.0
+Q66284	Cassava vein mosaic virus (CsVMV)	38062		Putative transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	392	0.0
+Q67708	Grapevine virus A (isolate Is 151) (GVA)	651358		RNA silencing suppressor	90	0.0
+Q6E0X0	Maize mosaic virus (isolate Maize/United States/Reed/2005) (MMV)	928305		Phosphoprotein (Protein P) (Protein M1)	269	0.0
+Q83046	Lettuce infectious yellows virus (isolate United States/92) (LIYV)	651355		RNA-binding P34 protein (P34)	292	0.0
+Q83047	Lettuce infectious yellows virus (isolate United States/92) (LIYV)	651355		Movement protein Hsp70h (Heat shock protein 70 homolog) (Hsp70h)	554	0.0
+Q83051	Lettuce infectious yellows virus (isolate United States/92) (LIYV)	651355		Protein p26	227	0.0
+Q83251	Cucumber mosaic virus (strain M48) (CMV)	117121		Capsid protein (CP) (Coat protein)	218	0.0
+Q83262	Cucumber mosaic virus (strain Iizuka) (CMV)	117113		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+Q83485	Tobamovirus Ob	31749		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	274	0.0
+Q83927	Oat chlorotic stunt virus (isolate United Kingdom) (OCSV)	652110		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p84) [Cleaved into: Protein p23]	752	0.0013297872340425532
+Q84843	Pepper mild mottle virus (strain Italian) (PMMV-I)	138306		Capsid protein (Coat protein)	157	0.0
+Q85443	Rice dwarf virus (isolate Fujian) (RDV)	142804		Non-structural protein 12A (Pns12A)	312	0.0
+Q85448	Rice dwarf virus (isolate Akita) (RDV)	142803		Protein P7 (55 kDa core protein)	506	0.0
+Q86780	Rice dwarf virus (isolate O) (RDV)	142805		Non-structural protein 12A (Pns12A)	312	0.0
+Q87019	Subterranean clover stunt virus (strain J) (SCSV)	291608		Capsid protein (CP) (Coat protein)	170	0.0
+Q88894	Tobacco ringspot virus (TobRV) (TRSV)	12282		Capsid protein (Coat protein)	515	0.0
+Q89250	Soil-borne wheat mosaic virus (strain United States/Nebraska/1981) (SBWMV)	652673		84 kDa readthrough protein (CP-RT)	754	0.001326259946949602
+Q89785	Cucumber mosaic virus (strain Pepo) (CMV)	117125		Movement protein (MP) (Protein 3A)	279	0.0
+Q918W1	Indian citrus ringspot virus (isolate Kinnow mandarin/India/K1/1996) (ICRSV)	651357		Movement protein TGB2 (Triple gene block 2 protein) (TGBp2)	109	0.0
+Q91QN9	Lettuce big-vein associated virus (isolate Japan/Kagawa) (LBVaV)	652962		Nucleoprotein (NP) (Nucleocapsid protein) (Protein N)	397	0.0
+Q96707	Cabbage leaf curl virus (isolate Jamaica) (CaLCuV)	345184		Movement protein BC1 (Movement protein BL1)	295	0.0
+Q98514	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Putative protein A464R	275	0.0
+Q98544	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Putative transcription factor A494R	360	0.0
+Q98663	Rice yellow stunt virus (RYSV) (Rice transitory yellowing virus)	59380		Movement protein (MP) (Cell-to-cell transport protein) (Protein 3)	294	0.0
+Q98747	Tobacco mosaic virus (strain Rakkyo) (TMV-R)	138310		Capsid protein (Coat protein)	159	0.0
+Q9E7N7	Lettuce necrotic yellows virus (isolate 318) (LNYV)	928304		Phosphoprotein (Protein P) (Protein 4a)	300	0.0
+Q9IGY9	Maize streak virus genotype B (isolate Tas) (MSV)	268409		Movement protein (MP)	101	0.0
+Q9QDJ8	Tomato yellow leaf curl China virus (TYLCCNV)	185793		Protein C4 (10.9 kDa protein) (Protein L4)	97	0.0
+Q9QEE3	Ribgrass mosaic virus (RMV)	51680		Capsid protein (Coat protein)	157	0.0
+Q9QPN4	Tobacco rattle virus (isolate PpK20) (TRV)	652939		Movement protein (29 kDa protein) (Cell-to-cell transport protein) (P1a)	252	0.0
+Q9WIK1	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Putative nuclear shuttle protein	153	0.0
+Q9YJQ9	Tomato mosaic virus (strain S-1) (ToMV)	138314		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	264	0.0
+Q9YPS1	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Protein AC4 (Protein AL4)	99	0.0
+Q9YPS7	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Movement protein BC1 (Movement protein BL1)	298	0.0
+Q9Z0D2	Milk vetch dwarf virus (isolate N) (MDV)	291605		Cell cycle link protein (Clink)	169	0.0
+O10236	Rice yellow stunt virus (RYSV) (Rice transitory yellowing virus)	59380		Glycoprotein	669	0.0
+O39519	Bean yellow dwarf virus (BeYDV)	57119		Movement protein (MP)	92	0.0
+O39520	Bean yellow dwarf virus (BeYDV)	57119		Capsid protein (Coat protein) (CP)	245	0.0
+O39830	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Putative movement protein (MP)	114	0.0
+O41345	Tomato mosaic virus (strain S-1) (ToMV)	138314		Capsid protein (Coat protein)	159	0.0
+O70790	Rice yellow stunt virus (RYSV) (Rice transitory yellowing virus)	59380		Phosphoprotein (Protein P) (Protein M1)	322	0.0
+O71192	Grapevine leafroll-associated virus 3 (isolate United States/NY1) (GLRaV-3) (Grapevine leafroll-associated closterovirus (isolate 109))	651354		Movement protein Hsp70h (Heat shock protein 70 homolog) (Hsp70h)	549	0.0
+O72620	Cucumber mosaic virus (strain S) (CMV)	117126		Capsid protein (CP) (Coat protein)	218	0.0
+P03547	Cauliflower mosaic virus (strain D/H) (CaMV)	10645		Movement protein (Mov) (Cell-to-cell transport protein)	327	0.0
+P03550	Cauliflower mosaic virus (strain D/H) (CaMV)	10645		Aphid transmission protein (Atf) (Protein 2)	159	0.0
+P03559	Cauliflower mosaic virus (strain Strasbourg) (CaMV)	10648		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+P03566	Tomato golden mosaic virus (strain Yellow vein) (TGMV)	223341		Movement protein BC1 (Movement protein BL1)	293	0.0
+P03574	Tobacco mosaic virus (strain 06) (TMV-06)	12244		Capsid protein (Coat protein)	159	0.0
+P03576	Tomato mosaic virus (strain L) (ToMV) (TMV strain tomato)	12252		Capsid protein (Coat protein)	159	0.0
+P03579	Tobacco mild green mosaic virus (TMGMV) (TMV strain U2)	12241		Capsid protein (Coat protein)	159	0.0
+P03585	Sunn-hemp mosaic virus (SHMV) (TMV strain cowpea)	12240		Movement protein (30 kDa protein) (Cell-to-cell transport protein)	283	0.0
+P03608	Turnip yellow mosaic virus	12154		Capsid protein (Coat protein) (Virion protein)	189	0.0
+P09520	Figwort mosaic virus (strain DxS) (FMV)	10650		Movement protein (Mov) (Cell-to-cell transport protein)	323	0.0
+P0C6F9	Abutilon mosaic virus (isolate West India) (AbMV)	10816		Protein AC4 (Protein AL4)	79	0.0
+P0C6G1	African cassava mosaic virus (isolate West Kenyan 844) (ACMV) (Cassava latent virus (isolate West Kenyan 844))	10818		Protein AC4 (Protein AL4)	183	0.00546448087431694
+P0C6G2	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Protein AC4 (Protein AL4)	179	0.0
+P0C6G4	Pepper huasteco yellow vein virus (PHYVV) (Pepper huasteco virus)	223303		Protein AC4 (Protein AL4)	60	0.0
+P0C778	Carnation mottle virus (isolate China/Shanghai) (CarMV)	652111		Double gene block protein 2 (DGBp2) (Movement protein P9)	84	0.0
+P0CK18	Potato mop-top virus (isolate Potato/Sweden/Sw) (PMTV)	652839		91 kDa readthrough protein (CP-RT)	825	0.0012121212121212121
+P10357	Turnip yellow mosaic virus	12154		69 kDa protein (p69)	628	0.0
+P10466	Potato virus X (strain Xc) (PVX)	12186		TGB2 protein (12 kDa protein) (ORF3 protein) (TGBp2) (Triple gene block 2 protein)	55	0.0
+P10470	Potato leafroll virus (PLrV)	12045		Major capsid protein (Coat protein) (CP) (P3)	208	0.0
+P13278	Wound tumor virus (WTV)	10987		RNA-binding protein (Non-structural protein 12) (Pns12)	178	0.0
+P14969	African cassava mosaic virus (isolate Nigerian) (ACMV) (Cassava latent virus (isolate Nigerian))	222073		Replication enhancer protein (REn) (15.9 kDa protein) (Protein AC3) (Protein AL3)	134	0.0
+P14986	Maize streak virus genotype A (isolate South Africa) (MSV)	10824		Capsid protein (Coat protein) (CP)	244	0.0
+P15628	Soybean chlorotic mottle virus	10651		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	462	0.0
+P15960	Artichoke mottled crinkle virus (AMCV)	12142		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P16486	Clover yellow mosaic virus (CYMV)	12177		Coat protein (Capsid protein) (CP)	212	0.0
+P17457	Cymbidium ringspot virus (CymRSV)	12144		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P17458	Cymbidium ringspot virus (CymRSV)	12144		Movement protein (p22)	189	0.0
+P17521	Potato leafroll virus (strain Potato/Canada/Rowhani/1979) (PLrV)	12047		Major capsid protein (Coat protein) (CP) (P3)	208	0.0
+P17527	Potato virus M (strain Russian) (PVM)	12168		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	109	0.0
+P17529	Potato virus M (strain Russian) (PVM)	12168		Capsid protein (Coat protein) (CP)	304	0.0
+P19899	Melon necrotic spot virus (MNSV)	11987		Capsid protein (Coat protein) (p42)	390	0.0
+P20124	Ononis yellow mosaic virus	12153		Capsid protein (Coat protein) (Virion protein)	192	0.0
+P20954	Papaya mosaic potexvirus (PMV)	12181		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	68	0.0
+P22169	Foxtail mosaic virus	12179		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	236	0.0
+P22590	Odontoglossum ringspot virus (isolate Japan) (ORSV)	138307		Movement protein (33.4 kDa protein) (Cell-to-cell transport protein)	303	0.0
+P22625	Carnation latent virus (CLV)	12164		RNA silencing suppressor (11.6 kDa protein) (Putative nucleic acid-binding protein)	101	0.0
+P26002	Tomato spotted wilt virus (strain Brazilian Br-01) (TSWV)	36413		Non-structural protein NS-S	464	0.0
+P27208	Maize stripe virus (MStV)	3052767		Suppressor of RNA silencing p3 (Protein NS3) (Protein p3)	197	0.0
+P27332	Lily symptomless virus (LSV)	12173		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	106	0.0
+P27334	Lily virus X	12194		Coat protein (Capsid protein) (CP)	201	0.0
+P27578	Cereal yellow dwarf virus (isolate RPV) (BYDV)	2170100		Major capsid protein (Coat protein) (CP)	204	0.0
+P27739	Apple chlorotic leaf spot virus (isolate plum P863) (ACLSV)	73473		Putative movement protein (50.8 kDa protein) (ORF2 protein)	460	0.0
+P28899	Strawberry mild yellow edge-associated virus (SMYEaV)	12187		Coat protein (Capsid protein) (CP)	242	0.0
+P29078	Rice gall dwarf virus (RGDV)	10986		Minor outer capsid protein P9 (Protein Pns10)	320	0.0
+P31117	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Type II restriction enzyme CviAII (R.CviAII) (EC 3.1.21.4) (Endonuclease CviAII) (Type-2 restriction enzyme CviAII)	342	0.0
+P31610	Wound tumor virus (strain NJ) (WTV)	31595		Protein P7 (60 kDa core protein)	519	0.0
+P31612	Wound tumor virus (strain NJ) (WTV)	31595		RNA-binding protein (Non-structural protein 12) (Pns12)	178	0.0
+P36283	Tomato leaf curl virus (strain Australia) (ToLCV)	223353		Protein C4 (10.9 kDa protein) (Protein L4)	102	0.0
+P36303	Kennedya yellow mosaic virus (strain Jervis bay) (KYMV)	36392		Capsid protein (Coat protein) (Virion protein)	188	0.0
+P37989	Chrysanthemum virus B (CVB)	12165		Movement protein TGB2 (12 kDa protein) (Triple gene block 2 protein) (TGBp2)	106	0.0
+P37990	Chrysanthemum virus B (CVB)	12165		Movement protein TGBp3 (7 kDa protein) (Triple gene block 3 protein) (TGBp3)	64	0.0
+P50625	Tomato bushy stunt virus (strain A23) (TBSV)	70156		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P50628	Tomato bushy stunt virus (strain type) (TBSV)	70159		RNA silencing suppressor p19 (19 kDa symptom severity modulator)	172	0.0
+P50629	Tomato bushy stunt virus (strain B8) (TBSV)	70155		Movement protein (p22)	188	0.0
+P52284	Paramecium bursaria Chlorella virus XZ-6E (PBCV-XZ-6E)	36360		Type II methyltransferase M.CvrRI (M.CviRI) (EC 2.1.1.72) (Adenine-specific methyltransferase CviRI) (Modification methylase CviRI)	379	0.0
+Q00572	Helenium virus S (HelVS)	12171		RNA silencing suppressor (12.6 kDa protein) (Putative nucleic acid-binding protein)	110	0.0
+Q00957	Cauliflower mosaic virus (strain NY8153) (CaMV)	31557		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	520	0.0
+Q01811	Impatiens necrotic spot virus (INSV)	11612		Non-structural protein NS-S	449	0.0
+Q02109	Poplar mosaic virus (isolate ATCC Pv275) (PMV)	31709		Movement and silencing protein TGBp1 (25 kDa protein) (Silencing suppressor P25) (Triple gene block 1 protein) (TGBp1)	232	0.0
+Q05054	Rice dwarf virus (isolate Akita) (RDV)	142803		Non-structural protein 12A (Pns12A)	312	0.0
+Q06659	Tomato mottle virus (isolate Florida) (ToMoV)	223359		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	132	0.0
+Q08308	Peanut clump virus (isolate 87/TGTA2) (PCV)	652837		Capsid protein (Coat protein) (P23)	207	0.0
+Q08590	Indian cassava mosaic virus (ICMV)	31600		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	134	0.0
+Q5GA86	Taro vein chlorosis virus (TAVCV)	2749935		Glycoprotein	588	0.0017006802721088435
+Q5NDM8	Poinsettia latent virus (isolate Euphorbia pulcherrima/Germany/Siepen/2005) (PnLV) (Poinsettia cryptic virus)	686943		Capsid protein (CP) (Coat protein)	305	0.0
+Q66114	Cucumber mosaic virus (strain DKRD) (CMV)	117110		Capsid protein (CP) (Coat protein)	218	0.0
+Q66136	Cucumber mosaic virus (strain B) (CMV)	117119		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+Q66139	Cucumber mosaic virus (strain FT) (CMV)	117112		Movement protein (MP) (Protein 3A)	279	0.0
+Q66143	Cucumber mosaic virus (strain CS) (CMV)	117109		Capsid protein (CP) (Coat protein)	218	0.0
+Q66154	Cucumber mosaic virus (strain As) (CMV)	117118		Capsid protein (CP) (Coat protein)	218	0.0
+Q67593	Miscanthus streak virus (isolate 91) (MiSV)	268776		Putative movement protein (MP)	84	0.0
+Q67621	Tomato yellow leaf curl Sardinia virus (isolate Spain-2) (TYLCSV)	221538		Protein C4 (10.9 kDa protein) (Protein L4)	96	0.0
+Q6E0W7	Maize mosaic virus (isolate Maize/United States/Reed/2005) (MMV)	928305		Glycoprotein	591	0.0
+Q6E0W9	Maize mosaic virus (isolate Maize/United States/Reed/2005) (MMV)	928305		Putative movement protein 3 (MP) (Cell-to-cell transport protein) (Protein 3)	286	0.0
+Q7TBL3	Cestrum yellow leaf curling virus (CmYLCV)	175814		Transactivator/viroplasmin protein (Tav) (Inclusion body matrix protein)	531	0.0
+Q83049	Lettuce infectious yellows virus (isolate United States/92) (LIYV)	651355		Capsid protein (CP) (Coat protein)	249	0.0
+Q83252	Cucumber mosaic virus (strain Trk7) (CMV)	117127		Movement protein (MP) (Protein 3A)	279	0.0
+Q83253	Cucumber mosaic virus (strain Trk7) (CMV)	117127		Capsid protein (CP) (Coat protein)	218	0.0
+Q83265	Cucumber mosaic virus (strain Y) (CMV)	12312		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	857	0.0
+Q83482	Tomato mosaic virus (strain Korean) (ToMV)	138313		Capsid protein (Coat protein)	157	0.0
+Q84513	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Probable DNA polymerase sliding clamp 1 (Proliferating cell nuclear antigen homolog 1) (PCNA 1)	262	0.0
+Q84568	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Potassium channel protein kcv	94	0.0
+Q84711	Pea enation mosaic virus-1 (strain WSG) (PEMV-1)	693989		Minor capsid protein P3-RTD (Readthrough protein) (RT protein)	493	0.0
+Q84842	Paprika mild mottle virus (PaMMV)	35281		Capsid protein (Coat protein)	161	0.0
+Q85434	Rice dwarf virus (isolate Fujian) (RDV)	142804		Suppressor of RNA-mediated gene silencing (Non-structural protein 10) (Pns10)	353	0.0
+Q85435	Rice dwarf virus (isolate Fujian) (RDV)	142804		Protein P7 (55 kDa core protein)	506	0.0
+Q85446	Rice dwarf virus (isolate O) (RDV)	142805		Minor outer capsid protein P9	351	0.0
+Q85450	Rice dwarf virus (isolate Akita) (RDV)	142803		Minor outer capsid protein P9	351	0.0
+Q86783	Cucumber mosaic virus (strain K) (CMV)	117115		RNA-directed RNA polymerase 2a (protein 2a) (EC 2.7.7.48)	858	0.0
+Q87010	Subterranean clover stunt virus (strain F) (SCSV)	291607		Cell cycle link protein (Clink)	164	0.0
+Q8V987	Milk vetch dwarf virus (isolate 9) (MDV)	291606		Capsid protein (CP) (Coat protein)	172	0.0
+Q918W0	Indian citrus ringspot virus (isolate Kinnow mandarin/India/K1/1996) (ICRSV)	651357		Movement protein TGBp3 (Triple gene block 3 protein) (TGBp3)	60	0.0
+Q91MF9	Maize streak virus genotype D (isolate Raw) (MSV)	268343		Capsid protein (Coat protein) (CP)	244	0.0
+Q98576	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Minor capsid protein P5	146	0.0
+Q98630	Rice dwarf virus (isolate Fujian) (RDV)	142804		Outer capsid protein P3 (Core protein P3)	1019	0.0
+Q98664	Rice yellow stunt virus (RYSV) (Rice transitory yellowing virus)	59380		Matrix protein	262	0.0
+Q9E7N9	Lettuce necrotic yellows virus (isolate 318) (LNYV)	928304		Matrix protein	177	0.0
+Q9IWA0	Pothos latent virus (isolate Pigeonpea/India) (PoLV)	652109		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein p84) [Cleaved into: Protein p25]	739	0.0013531799729364006
+Q9Q1T6	Tomato mosaic virus (strain Kazakh K1) (ToMV) (TMV strain K1)	138311		Capsid protein (Coat protein)	159	0.0
+Q9Q6X7	Carnation mottle virus (isolate China/Shanghai) (CarMV)	652111		Capsid protein (Coat protein) (p38)	348	0.0
+Q9QBU2	Pothos latent virus (isolate Pigeonpea/India) (PoLV)	652109		Movement protein (p27)	242	0.0
+Q9QIZ6	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Protein U4	106	0.0
+Q9YPS4	Mungbean yellow mosaic virus (strain Vigna) (MYMV)	223295		Replication enhancer protein (REn) (Protein AC3) (Protein AL3)	134	0.0
+Q9Z0C8	Milk vetch dwarf virus (isolate N) (MDV)	291605		Putative movement protein (MP)	112	0.0
+O40982	Cucumber mosaic virus (strain C7-2) (CMV)	117117		Movement protein (MP) (Protein 3A)	279	0.0
+P03596	Alfalfa mosaic virus (strain Strasbourg)	12324		Movement protein (MP) (Protein 3A)	300	0.0
+P17768	Grapevine fanleaf virus (GFLV)	12274		Protein P3	341	0.0
+P23626	Tomato aspermy virus (TAV)	12315		Movement protein (MP) (Protein 3A)	277	0.0
+P26003	Tomato spotted wilt virus (strain Bulgarian L3) (TSWV)	36415		Non-structural protein NS-S	467	0.0
+Q0PI71	European mountain ash ringspot-associated virus (isolate Sorbus aucuparia) (EMARAV)	1980426		Uncharacterized 27 kDa protein	232	0.0
+O73571	Southern bean mosaic virus (isolate Bean/United States/Arkansas) (SBMV)	652938		Movement protein P1 (Cell-to-cell transport protein)	148	0.0
+P03597	Tobacco streak virus (strain WC) (TSV)	12318		Movement protein (MP) (Protein 3A)	289	0.0
+P0C790	Lettuce infectious yellows virus (isolate United States/92) (LIYV)	651355		Protein P9	80	0.0
+P13094	Wound tumor virus (WTV)	10987		Suppressor of RNA-mediated gene silencing (Non-structural protein 10) (Pns10)	347	0.0
+P16594	Rice dwarf virus (isolate O) (RDV)	142805		Suppressor of RNA-mediated gene silencing (Non-structural protein 10) (Pns10)	353	0.0
+P22049	Tomato black ring virus (strain E) (TBRV)	12277		Satellite RNA 48 kDa protein	419	0.0
+P22050	Tomato black ring virus (strain L) (TBRV)	12278		Satellite RNA 48 kDa protein	424	0.0
+P23629	Raspberry bushy dwarf virus (RBDV)	12451		Coat protein	274	0.0
+P27211	Tobacco necrosis virus (strain D) (TNV-D)	12056		Probable movement protein p8	65	0.0
+P29046	Barley yellow dwarf virus (isolate MAV) (BYDV)	2169984		Movement protein (MP) (17 kDa protein)	154	0.0
+P36352	Physalis mottle virus (PhMV) (Belladonna mottle virus-Iowa)	72539		RNA replicase polyprotein (EC 2.7.7.48)	178	0.0
+P54966	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Uncharacterized protein A284L	279	0.0
+Q1KZ56	Citrus leprosis virus C (isolate Citrus sinesis/Brazil/Cordeiropolis/2003) (CiLV-C)	686950		Uncharacterized protein p61	537	0.0
+Q66119	Cucumber mosaic virus (strain Ixora) (CMV)	117114		Movement protein (MP) (Protein 3A)	279	0.0
+Q67706	Grapevine virus A (isolate Is 151) (GVA)	651358		Movement protein (MP)	278	0.0
+Q7TF75	Fiji disease virus (isolate Sugarcane) (FDV)	648172		Microtubule-associated protein VP8	594	0.0016835016835016834
+Q83250	Cucumber mosaic virus (strain M48) (CMV)	117121		Movement protein (MP) (Protein 3A)	279	0.0
+O39832	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Protein U2	124	0.0
+O40979	Cucumber mosaic virus (strain NT9) (CMV)	117124		Movement protein (MP) (Protein 3A)	283	0.0
+O41253	Rice ragged stunt virus (isolate Thailand) (RRSV)	649603		Microtubule-associated protein VP7	608	0.0
+O41519	Grapevine leafroll-associated virus 3 (isolate United States/NY1) (GLRaV-3) (Grapevine leafroll-associated closterovirus (isolate 109))	651354		Minor capsid protein (CPm)	477	0.0
+P22175	Maize stripe virus (MStV)	3052767		Major non-capsid protein (NCP) (Protein p4) (Stripe disease-specific protein) (Protein S)	176	0.0
+Q87012	Subterranean clover stunt virus (strain F) (SCSV)	291607		Capsid protein (CP) (Coat protein)	169	0.0
+Q87014	Subterranean clover stunt virus (strain F) (SCSV)	291607		Protein U1	146	0.0
+Q9E7N8	Lettuce necrotic yellows virus (isolate 318) (LNYV)	928304		Probable movement protein 4b (MP) (Cell-to-cell transport protein) (Protein 4b)	302	0.0
+Q9JGV3	Rice gall dwarf virus (RGDV)	10986		Suppressor of RNA-mediated gene silencing (Non-structural protein 11) (Pns11)	356	0.0
+A7U6E9	Pyramimonas orientalis virus (PoV01)	455367		Major capsid protein (MCP)	396	0.0
+B3VML2	Ourmia melon virus (isolate Melon/Iran/VE9) (OuMV)	652838		Putative movement protein (Cell-to-cell transport protein)	288	0.0
+O36639	Cucumber mosaic virus (strain As) (CMV)	117118		Movement protein (MP) (Protein 3A)	279	0.0
+O71194	Grapevine leafroll-associated virus 3 (isolate United States/NY1) (GLRaV-3) (Grapevine leafroll-associated closterovirus (isolate 109))	651354		Protein P20A (19.6 kDa protein)	177	0.0
+P17574	Satellite tobacco mosaic virus (STMV)	12881		Coat protein	159	0.0
+P20130	Ononis yellow mosaic virus	12153		66 kDa protein	597	0.0
+P22051	Beet ringspot virus (BRSV) (Tomato black ring virus (strain S))	191547		Satellite RNA 48 kDa protein	424	0.0
+P22117	Peanut stunt virus (strain J) (PSV)	12314		Movement protein (MP) (Protein 3A)	288	0.0
+P27579	Cereal yellow dwarf virus (isolate RPV) (BYDV)	2170100		Movement protein (MP) (17 kDa protein)	153	0.0
+P35929	Erysimum latent virus (ELV)	12152		Uncharacterized 48 kDa protein	440	0.0
+Q64FN9	White clover cryptic virus 1 (isolate Boccardo/2004) (WCCV-1)	654934		Capsid protein (CP) (Coat protein)	487	0.0
+Q66095	Carnation ringspot virus (isolate Lommel) (CRSV)	652597		Movement protein (MP)	304	0.0
+Q85436	Rice dwarf virus (isolate Fujian) (RDV)	142804		Non-structural protein 4 (Pns4)	727	0.0
+Q85447	Rice dwarf virus (isolate Akita) (RDV)	142803		Suppressor of RNA-mediated gene silencing (Non-structural protein 10) (Pns10)	353	0.0
+Q86993	Satellite panicum mosaic virus (SPMV)	154834		Coat protein (Capsid protein)	157	0.0
+Q98496	Paramecium bursaria Chlorella virus 1 (PBCV-1)	10506		Putative ABC transporter A445L	462	0.0
+Q9WIJ6	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Protein U1	155	0.0
+A4PBP9	Rice gall dwarf virus (RGDV)	10986		Movement protein (Non-structural protein 7) (Pns7)	511	0.0
+B3VML3	Ourmia melon virus (isolate Melon/Iran/VE9) (OuMV)	652838		Capsid protein (CP) (Coat protein)	210	0.0
+O39829	Faba bean necrotic yellows virus (isolate Syrian SV292-88) (FBNYV)	291604		Protein U1	155	0.0
+O41518	Grapevine leafroll-associated virus 3 (isolate United States/NY1) (GLRaV-3) (Grapevine leafroll-associated closterovirus (isolate 109))	651354		Capsid protein (CP) (Coat protein)	313	0.0
+O70791	Rice yellow stunt virus (RYSV) (Rice transitory yellowing virus)	59380		Protein 6	93	0.0
+P20129	Eggplant mosaic virus	12151		70 kDa protein	649	0.0
+P21406	Southern cowpea mosaic virus (SCPMV) (Southern bean mosaic virus (strain cowpea))	196398		Movement protein P1 (Cell-to-cell transport protein)	185	0.0
+P23628	Rice gall dwarf virus (RGDV)	10986		Non-structural protein 9 (Pns9)	323	0.0
+P24265	Alfalfa mosaic virus (strain YSMV)	12325		Movement protein (MP) (Protein 3A)	300	0.0
+P27737	Apple chlorotic leaf spot virus (isolate plum P863) (ACLSV)	73473		Capsid protein (Coat protein) (CP)	193	0.0
+P31998	Gloriosa stripe mosaic virus (GSMV)	12201		Genome polyprotein [Cleaved into: Capsid protein (CP) (Coat protein)]	90	0.0
+Q00272	Cucumber mosaic virus (strain M) (CMV)	31718		Movement protein (MP) (Protein 3A)	279	0.0
+Q06938	Cucumber mosaic virus (strain Kin) (CMV)	36400		Movement protein (MP) (Protein 3A)	279	0.0
+Q84709	Pea enation mosaic virus-1 (strain WSG) (PEMV-1)	693989		Suppressor of silencing P0 (ORF0 protein)	303	0.0
+Q88887	Tomato pseudo-curly top virus (TPCTV)	49267		Putative movement protein (MP)	96	0.0
+Q9WIJ9	Faba bean necrotic yellows virus (isolate Egyptian EV1-93) (FBNYV)	291603		Protein U2	124	0.0
+Q9Z035	Milk vetch dwarf virus (isolate N) (MDV)	291605		Capsid protein (CP) (Coat protein)	172	0.0
+Q9Z0C9	Milk vetch dwarf virus (isolate N) (MDV)	291605		Protein U2	125	0.0
+Q9Z0D1	Milk vetch dwarf virus (isolate N) (MDV)	291605		Protein U1	150	0.0

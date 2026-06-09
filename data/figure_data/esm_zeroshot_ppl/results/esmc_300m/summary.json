@@ -1,0 +1,26 @@
+{
+  "model": "esmc_300m",
+  "checkpoint": null,
+  "n_viral": 5203,
+  "n_nonviral": 5197,
+  "mask_rate": 0.15,
+  "n_seeds": 3,
+  "viral_mean_perplexity": 14.36621765253948,
+  "viral_std_perplexity": 3.7643400675605223,
+  "nonviral_mean_perplexity": 4.459156979593005,
+  "nonviral_std_perplexity": 2.9543884149201602,
+  "viral_mean_recovery": 0.19188606529927693,
+  "viral_std_recovery": 0.13027354524804427,
+  "nonviral_mean_recovery": 0.5758611537708702,
+  "nonviral_std_recovery": 0.16051100176474908,
+  "mannwhitneyu_perplexity": {
+    "statistic": 25735340.5,
+    "pvalue": 0.0
+  },
+  "mannwhitneyu_recovery": {
+    "statistic": 1413273.5,
+    "pvalue": 0.0
+  },
+  "auroc_perplexity": 0.04824892508285228,
+  "auroc_recovery": 0.05226604920097791
+}

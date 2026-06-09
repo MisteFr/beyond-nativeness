@@ -1,0 +1,26 @@
+{
+  "precutoff_nonviral": {
+    "n": 5197,
+    "mean_ppl": 4.089358825447379,
+    "median_ppl": 3.190787686637112,
+    "std_ppl": 2.8069210531080544
+  },
+  "postcutoff_nonviral": {
+    "n": 1723,
+    "mean_ppl": 6.300458891768402,
+    "median_ppl": 5.317107179340656,
+    "std_ppl": 3.4197479552190373
+  },
+  "viral": {
+    "n": 5203,
+    "mean_ppl": 14.08817414962336,
+    "median_ppl": 15.285314804596249,
+    "std_ppl": 4.091270828885159
+  },
+  "cohens_d_post_vs_pre": 0.7067882995573023,
+  "auc_postcut_vs_viral": 0.9026736773697125,
+  "auc_precut_vs_viral": 0.9465851523397326,
+  "mannwhitney_post_vs_pre_p": 2.927582111199754e-211,
+  "mannwhitney_post_vs_viral_p": 0.0,
+  "mannwhitney_pre_vs_viral_p": 0.0
+}

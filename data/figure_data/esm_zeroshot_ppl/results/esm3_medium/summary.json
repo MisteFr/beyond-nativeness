@@ -1,0 +1,25 @@
+{
+  "model": "esm3-medium-2024-08",
+  "n_viral": 5203,
+  "n_nonviral": 5197,
+  "mask_rate": 0.15,
+  "n_seeds": 3,
+  "viral_mean_perplexity": 14.99652584702586,
+  "viral_std_perplexity": 3.018909706417881,
+  "nonviral_mean_perplexity": 4.748259980004751,
+  "nonviral_std_perplexity": 3.3030387800797243,
+  "viral_mean_recovery": 0.1705078582957008,
+  "viral_std_recovery": 0.09130122224756726,
+  "nonviral_mean_recovery": 0.5608889348116808,
+  "nonviral_std_recovery": 0.17210353160783268,
+  "mannwhitneyu_perplexity": {
+    "statistic": 26090078.0,
+    "pvalue": 0.0
+  },
+  "mannwhitneyu_recovery": {
+    "statistic": 1080613.5,
+    "pvalue": 0.0
+  },
+  "auroc_perplexity": 0.035129930331707575,
+  "auroc_recovery": 0.0399635303133052
+}

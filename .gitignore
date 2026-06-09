@@ -1,0 +1,60 @@
+# Credentials (defense in depth — none should ever exist in this tree)
+.env
+.env.*
+*.token
+*.key
+*.pem
+credentials*
+*secret*
+*api_key*
+.huggingface/
+.aws/
+
+# Regeneration artifacts (rebuilt by the projects/ pipeline; not shipped)
+projects/*/data/embeddings/
+projects/*/data/embeddings_shuffled/
+projects/*/data/hf_cache/
+projects/*/data/raw/
+projects/*/data/shuffled/
+projects/*/results/
+projects/*/figures/
+projects/*/logs/
+projects/**/__pycache__/
+projects/**/*.npz
+projects/**/*.pkl
+projects/**/.cache.npy
+projects/**/*.npy
+projects/**/*.h5
+
+# Paper-figures runtime artifacts
+paper_figures/scripts/__pycache__/
+
+# Transient run artifacts
+.cache/
+*.log
+*.err
+*.out
+slurm-*.out
+
+# Standard
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Explicit retentions (paper-integral data; negate the broad rules above)
+!projects/cellular_manifold_allocation/results/
+!projects/cellular_manifold_allocation/results/coverage_taxa.tsv
+!projects/esm_viral_probe/datasets/human_virus/data/processed/
+!projects/esm_viral_probe/datasets/human_virus/data/processed/*.faa
+!projects/esm_viral_probe/datasets/human_virus/data/processed/*.tsv
+!projects/human_virus_dataset/data/
+!projects/human_virus_dataset/data/processed/
+!projects/human_virus_dataset/data/processed/*.faa
+!projects/human_virus_dataset/data/processed/*.tsv
+!projects/prokaryote_phage_ood/data/
+!projects/prokaryote_phage_ood/data/processed/
+!projects/prokaryote_phage_ood/data/processed/*.faa
+!projects/prokaryote_phage_ood/data/processed/*.tsv
+!projects/esm_random_ood/data/
+!projects/esm_random_ood/data/*.faa
+!projects/esm_random_ood/data/*.json

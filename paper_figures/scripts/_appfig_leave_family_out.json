@@ -1,0 +1,36 @@
+{
+  "n_models": 9,
+  "n_families": 13,
+  "n_evaluations": 117,
+  "frac_auc_ge_0.92": 0.9744,
+  "median_auc": 0.9842,
+  "min_auc": 0.8619,
+  "min_auc_family": "Retroviridae",
+  "min_auc_model": "esmc_600m",
+  "per_model_mean": {
+    "esm2_8m": 0.9554,
+    "esm2_35m": 0.9657,
+    "esm2_150m": 0.9784,
+    "esm2_650m": 0.9844,
+    "esmc_300m": 0.9724,
+    "esmc_600m": 0.9777,
+    "esm3_small": 0.9844,
+    "esm3_open": 0.9862,
+    "esm3_medium": 0.9881
+  },
+  "per_family_mean": {
+    "Adenoviridae": 0.9792,
+    "Coronaviridae": 0.977,
+    "Filoviridae": 0.9826,
+    "Hepadnaviridae": 0.9714,
+    "Orthoherpesviridae": 0.9739,
+    "Orthomyxoviridae": 0.9865,
+    "Papillomaviridae": 0.9701,
+    "Paramyxoviridae": 0.9874,
+    "Pneumoviridae": 0.9876,
+    "Poxviridae": 0.9661,
+    "Retroviridae": 0.9465,
+    "Rhabdoviridae": 0.9804,
+    "Sedoreoviridae": 0.9918
+  }
+}

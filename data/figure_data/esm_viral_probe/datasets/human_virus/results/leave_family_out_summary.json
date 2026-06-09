@@ -1,0 +1,624 @@
+{
+  "min_family_size": 50,
+  "threshold": 0.5,
+  "families": [
+    "Adenoviridae",
+    "Coronaviridae",
+    "Filoviridae",
+    "Hepadnaviridae",
+    "Orthoherpesviridae",
+    "Orthomyxoviridae",
+    "Papillomaviridae",
+    "Paramyxoviridae",
+    "Pneumoviridae",
+    "Poxviridae",
+    "Retroviridae",
+    "Rhabdoviridae",
+    "Sedoreoviridae"
+  ],
+  "models": {
+    "esm2_8m": {
+      "Adenoviridae": {
+        "auc_roc": 0.9335639117463856,
+        "sensitivity": 0.7966101694915254,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.969070133963751,
+        "sensitivity": 0.8888888888888888,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9696204061895551,
+        "sensitivity": 0.8625,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9590869209754931,
+        "sensitivity": 0.8195876288659794,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9438817576148331,
+        "sensitivity": 0.7595959595959596,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9653081769543134,
+        "sensitivity": 0.919103313840156,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.9647415232521617,
+        "sensitivity": 0.8547008547008547,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9715204518754968,
+        "sensitivity": 0.9693251533742331,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9555497693795566,
+        "sensitivity": 0.8653846153846154,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9238873882701796,
+        "sensitivity": 0.7386196769456681,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9589694198890613,
+        "sensitivity": 0.8181818181818182,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9231688624502755,
+        "sensitivity": 0.660377358490566,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9819801947461522,
+        "sensitivity": 0.9658119658119658,
+        "n_test": 234
+      }
+    },
+    "esm2_35m": {
+      "Adenoviridae": {
+        "auc_roc": 0.9642275623162749,
+        "sensitivity": 0.8135593220338984,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9672433555412279,
+        "sensitivity": 0.8148148148148148,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9561291102514506,
+        "sensitivity": 0.7875,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.93964984346647,
+        "sensitivity": 0.7938144329896907,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9544526502940429,
+        "sensitivity": 0.7494949494949495,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.98424804219877,
+        "sensitivity": 0.9688109161793372,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.96784332688588,
+        "sensitivity": 0.8525641025641025,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9842709829004047,
+        "sensitivity": 0.9325153374233128,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9779050736497545,
+        "sensitivity": 0.9038461538461539,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9421603796896701,
+        "sensitivity": 0.7826725403817915,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9598266381060473,
+        "sensitivity": 0.7293388429752066,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9724827561037919,
+        "sensitivity": 0.9433962264150944,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9840260212600638,
+        "sensitivity": 0.9615384615384616,
+        "n_test": 234
+      }
+    },
+    "esm2_150m": {
+      "Adenoviridae": {
+        "auc_roc": 0.988055819646155,
+        "sensitivity": 0.943502824858757,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9838455476753349,
+        "sensitivity": 0.9074074074074074,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9784453578336556,
+        "sensitivity": 0.7875,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9392909130790246,
+        "sensitivity": 0.7835051546391752,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9730936052986343,
+        "sensitivity": 0.8363636363636363,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9929662432461984,
+        "sensitivity": 0.9853801169590644,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.980707236026385,
+        "sensitivity": 0.8589743589743589,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9929335121216076,
+        "sensitivity": 0.9754601226993865,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9927838119327481,
+        "sensitivity": 0.9423076923076923,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9709637380459388,
+        "sensitivity": 0.8370044052863436,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9461291302332273,
+        "sensitivity": 0.7293388429752066,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9849640524068465,
+        "sensitivity": 0.9433962264150944,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9946147233381276,
+        "sensitivity": 0.9957264957264957,
+        "n_test": 234
+      }
+    },
+    "esm2_650m": {
+      "Adenoviridae": {
+        "auc_roc": 0.9908916062900918,
+        "sensitivity": 0.9491525423728814,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9570707070707071,
+        "sensitivity": 0.7592592592592593,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9903167311411992,
+        "sensitivity": 0.9625,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9925821053261281,
+        "sensitivity": 0.9123711340206185,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9830461285973859,
+        "sensitivity": 0.8383838383838383,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9911290961122988,
+        "sensitivity": 0.9619883040935673,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.9785952817867712,
+        "sensitivity": 0.8162393162393162,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9934912366057126,
+        "sensitivity": 0.9877300613496932,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9896034816247582,
+        "sensitivity": 0.9038461538461539,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9757922272684669,
+        "sensitivity": 0.8458149779735683,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9764554726089806,
+        "sensitivity": 0.762396694214876,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9898635086310719,
+        "sensitivity": 0.9339622641509434,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9879316900593496,
+        "sensitivity": 0.9444444444444444,
+        "n_test": 234
+      }
+    },
+    "esmc_300m": {
+      "Adenoviridae": {
+        "auc_roc": 0.9895966516954616,
+        "sensitivity": 0.9096045197740112,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9751414857797838,
+        "sensitivity": 0.8333333333333334,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9904013539651838,
+        "sensitivity": 0.9375,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9888482322678418,
+        "sensitivity": 0.8814432989690721,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9826426743254596,
+        "sensitivity": 0.8808080808080808,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9871531666044544,
+        "sensitivity": 0.9113060428849903,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.903560978029063,
+        "sensitivity": 0.7115384615384616,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9890531736896442,
+        "sensitivity": 0.901840490797546,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9970428507662551,
+        "sensitivity": 1.0,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9778940402241554,
+        "sensitivity": 0.8414096916299559,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.8752517703854086,
+        "sensitivity": 0.6157024793388429,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9875551987153754,
+        "sensitivity": 0.9056603773584906,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9972722313147846,
+        "sensitivity": 0.9957264957264957,
+        "n_test": 234
+      }
+    },
+    "esmc_600m": {
+      "Adenoviridae": {
+        "auc_roc": 0.990705832213225,
+        "sensitivity": 0.9322033898305084,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9904362776703202,
+        "sensitivity": 0.8518518518518519,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9944995164410059,
+        "sensitivity": 1.0,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9875770204789727,
+        "sensitivity": 0.8350515463917526,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9872643260457574,
+        "sensitivity": 0.8737373737373737,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9884030676303912,
+        "sensitivity": 0.9269005847953217,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.9522847129230109,
+        "sensitivity": 0.8461538461538461,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9930937095798079,
+        "sensitivity": 0.9754601226993865,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.995461984823687,
+        "sensitivity": 0.9423076923076923,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9812001351976981,
+        "sensitivity": 0.8972099853157122,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.8618939527151238,
+        "sensitivity": 0.6549586776859504,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9899273749133244,
+        "sensitivity": 0.9056603773584906,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9969291937377044,
+        "sensitivity": 0.9829059829059829,
+        "n_test": 234
+      }
+    },
+    "esm3_open": {
+      "Adenoviridae": {
+        "auc_roc": 0.986569627031221,
+        "sensitivity": 0.943502824858757,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9843828354466653,
+        "sensitivity": 0.8888888888888888,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9842238878143132,
+        "sensitivity": 0.9375,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9842020778081317,
+        "sensitivity": 0.8608247422680413,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9791854717386632,
+        "sensitivity": 0.8636363636363636,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9908689357177599,
+        "sensitivity": 0.9463937621832359,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.9934161583097754,
+        "sensitivity": 0.9871794871794872,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9890531736896441,
+        "sensitivity": 0.9386503067484663,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9914633239101325,
+        "sensitivity": 1.0,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9727218761804945,
+        "sensitivity": 0.8164464023494861,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9809933340793197,
+        "sensitivity": 0.8863636363636364,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9892065982993322,
+        "sensitivity": 0.9528301886792453,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9946891170295425,
+        "sensitivity": 0.9914529914529915,
+        "n_test": 234
+      }
+    },
+    "esm3_small": {
+      "Adenoviridae": {
+        "auc_roc": 0.9848594127353594,
+        "sensitivity": 0.9209039548022598,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9788129522172075,
+        "sensitivity": 0.9074074074074074,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9890594777562862,
+        "sensitivity": 0.9625,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9803136652774731,
+        "sensitivity": 0.7989690721649485,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9792255240997988,
+        "sensitivity": 0.8464646464646465,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9844186546314206,
+        "sensitivity": 0.9200779727095516,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.9945919919324174,
+        "sensitivity": 0.9957264957264957,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9850126377994802,
+        "sensitivity": 0.9447852760736196,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9941228983782174,
+        "sensitivity": 1.0,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9681049883974244,
+        "sensitivity": 0.7900146842878121,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9749148776315999,
+        "sensitivity": 0.7458677685950413,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9915605269880661,
+        "sensitivity": 0.9811320754716981,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9925564978756468,
+        "sensitivity": 0.9871794871794872,
+        "n_test": 234
+      }
+    },
+    "esm3_medium": {
+      "Adenoviridae": {
+        "auc_roc": 0.9845862155634966,
+        "sensitivity": 0.8813559322033898,
+        "n_test": 177
+      },
+      "Coronaviridae": {
+        "auc_roc": 0.9868901783795401,
+        "sensitivity": 0.9259259259259259,
+        "n_test": 54
+      },
+      "Filoviridae": {
+        "auc_roc": 0.9908244680851064,
+        "sensitivity": 1.0,
+        "n_test": 80
+      },
+      "Hepadnaviridae": {
+        "auc_roc": 0.9709316237611917,
+        "sensitivity": 0.788659793814433,
+        "n_test": 194
+      },
+      "Orthoherpesviridae": {
+        "auc_roc": 0.9824893030889162,
+        "sensitivity": 0.8939393939393939,
+        "n_test": 990
+      },
+      "Orthomyxoviridae": {
+        "auc_roc": 0.9940276222471071,
+        "sensitivity": 0.9892787524366472,
+        "n_test": 1026
+      },
+      "Papillomaviridae": {
+        "auc_roc": 0.9948957661723619,
+        "sensitivity": 0.9935897435897436,
+        "n_test": 468
+      },
+      "Paramyxoviridae": {
+        "auc_roc": 0.9880385897877088,
+        "sensitivity": 0.9325153374233128,
+        "n_test": 163
+      },
+      "Pneumoviridae": {
+        "auc_roc": 0.9940299062639488,
+        "sensitivity": 0.9807692307692307,
+        "n_test": 52
+      },
+      "Poxviridae": {
+        "auc_roc": 0.9824512819638886,
+        "sensitivity": 0.8502202643171806,
+        "n_test": 681
+      },
+      "Retroviridae": {
+        "auc_roc": 0.9842363764247006,
+        "sensitivity": 0.890495867768595,
+        "n_test": 484
+      },
+      "Rhabdoviridae": {
+        "auc_roc": 0.9951005437757746,
+        "sensitivity": 1.0,
+        "n_test": 106
+      },
+      "Sedoreoviridae": {
+        "auc_roc": 0.9964745656235018,
+        "sensitivity": 0.9829059829059829,
+        "n_test": 234
+      }
+    }
+  }
+}

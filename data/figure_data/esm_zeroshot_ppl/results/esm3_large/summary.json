@@ -1,0 +1,25 @@
+{
+  "model": "esm3-large-2024-03",
+  "n_viral": 5203,
+  "n_nonviral": 5197,
+  "mask_rate": 0.15,
+  "n_seeds": 3,
+  "viral_mean_perplexity": 11.357535810685052,
+  "viral_std_perplexity": 5.719872791425147,
+  "nonviral_mean_perplexity": 3.2323160008152354,
+  "nonviral_std_perplexity": 2.5046765192980964,
+  "viral_mean_recovery": 0.32352394712832905,
+  "viral_std_recovery": 0.26429335315613867,
+  "nonviral_mean_recovery": 0.6790574122830526,
+  "nonviral_std_recovery": 0.1633703153039051,
+  "mannwhitneyu_perplexity": {
+    "statistic": 22867236.5,
+    "pvalue": 0.0
+  },
+  "mannwhitneyu_recovery": {
+    "statistic": 4362076.0,
+    "pvalue": 0.0
+  },
+  "auroc_perplexity": 0.15431789529811604,
+  "auroc_recovery": 0.16131943239182292
+}

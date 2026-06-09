@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "source_dir": "${BEYOND_NATIVENESS_ROOT}/projects/esm_viral_probe/datasets/human_virus/data/processed",
+  "n_source_viral": 5203,
+  "n_source_nonviral": 5197,
+  "n_random_uniform": 5000,
+  "n_shuffled_viral": 5203,
+  "n_shuffled_nonviral": 5197,
+  "length_stats": {
+    "source_mean": 351.85125,
+    "source_median": 306.0,
+    "source_min": 50,
+    "source_max": 1019,
+    "random_mean": 352.8216,
+    "random_median": 306.0
+  },
+  "timestamp": "2026-03-16 14:19:55"
+}

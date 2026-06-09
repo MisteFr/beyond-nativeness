@@ -1,0 +1,1263 @@
+accession	organism_name	organism_id	lineage	protein_name	length	pct_nonstandard
+A0A1L4BKS3	Thermus phage G20c (Thermus thermophilus phage G20c)	1406341		Terminase, large subunit (DNA-packaging protein) (DNA-packaging protein gp80) (Gene product 80) (gp80) [Includes: ATPase (EC 3.6.4.-); Endonuclease (EC 3.1.21.-)]	485	0.0
+P00573	Escherichia phage T7 (Bacteriophage T7)	10760		T7 RNA polymerase (DNA-directed RNA polymerase) (EC 2.7.7.6)	883	0.0
+P03015	Escherichia phage Mu (Bacteriophage Mu)	2681603		Serine recombinase gin (EC 3.1.22.-) (EC 6.5.1.-) (G-segment invertase) (Gin) (Gene product 53) (gp53)	193	0.0
+P03630	Pseudomonas phage PP7 (Bacteriophage PP7)	12023		Capsid protein (CP) (Coat protein)	128	0.0
+P03631	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Replication-associated protein A (EC 3.1.21.-) (EC 6.5.1.1) (RepA)	513	0.0
+P03639	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Lysis protein E (Protein E) (GPE)	91	0.0
+P03685	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Histone-like protein p6 (Double-stranded DNA-binding protein p6) (Gene product 6) (gp6) (Nucleoid-associated protein p6) (Protein p6)	104	0.0
+P03705	Escherichia phage lambda (Bacteriophage lambda)	2681611		Antiholin (Lysis inhibitor S-107)	107	0.0
+P04392	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA adenine methylase (EC 2.1.1.72) (DNA-(N(6)-adenine)-methyltransferase) (Deoxyadenosyl-methyltransferase) (Orphan methyltransferase M.EcoT4Dam) (M.EcoT4Dam)	259	0.0
+P04418	Enterobacteria phage T4 (Bacteriophage T4)	10665		Endonuclease V (EC 3.2.2.17) (DNA-(apurinic or apyrimidinic site) lyase) (AP lyase) (EC 4.2.99.18) (T4 pyrimidine dimer glycosylase) (T4-Pdg)	138	0.0
+P04531	Enterobacteria phage T4 (Bacteriophage T4)	10665		Deoxynucleotide monophosphate kinase (DNK) (dNMP kinase) (EC 2.7.4.-) (Gp1)	241	0.0
+P06229	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Flap endonuclease (FEN) (EC 3.1.11.-) (5'-3' exonuclease) (Exodeoxyribonuclease) (EC 3.1.11.3)	291	0.0
+P09385	Escherichia phage 933W (Bacteriophage 933W)	10730		Shiga-like toxin 2 subunit A (SLT-2 A subunit) (SLT-2a) (SLT-IIa) (EC 3.2.2.22) (Verocytotoxin 2 subunit A) (Verotoxin 2 subunit A) (rRNA N-glycosidase 2)	319	0.0
+P11014	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		DNA packaging protein (ATPase gp16) (EC 3.6.4.-) (Gene product 16) (gp16) (Protein p16)	332	0.0
+P13520	Escherichia phage P2 (Bacteriophage P2)	2905681		Old nuclease (EC 3.1.11.3) (Exodeoxyribonuclease Old) (Overcoming lysogenization defect protein) (Old)	586	0.0
+P26747	Salmonella phage P22 (Bacteriophage P22)	10754		Major capsid protein (Gene product 5) (gp5) (Major head protein)	430	0.0
+P46085	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		Hemagglutinin components HA-70 type C (HA3) (Hemagglutinin components HA-22/23/53 type C) (Hemagglutinin components HA-22/23/53 type C1) [Cleaved into: Hemagglutinin component HA-23A; Hemagglutinin component HA-23B; Hemagglutinin component HA-22A; Hemagglutinin component HA-22B; Hemagglutinin component HA-53 (HA3b)]	623	0.0
+Q8LTE2	Escherichia virus Qbeta (Bacteriophage Q-beta)	39803		Maturation protein A2 (MP) (A2 protein)	420	0.0
+Q9XJP3	Shigella phage Sf6 (Shigella flexneri bacteriophage VI) (Bacteriophage SfVI)	10761		Tail spike protein (TSP) (Endo-1,3-alpha-L-rhamnosidase) (EC 3.2.1.-) (Endorhamnosidase)	623	0.0
+M5AAG8	Nitratiruptor phage NrS-1	1230469		DNA Primase-polymerase (Prim-pol) (EC 2.7.7.-) (EC 2.7.7.7) (EC 3.6.4.12) (Gp28) (NrSPol)	718	0.0
+P00588	Corynephage beta	10703		Diphtheria toxin (DT) (NAD(+)--diphthamide ADP-ribosyltransferase) (EC 2.4.2.36) [Cleaved into: Diphtheria toxin fragment A; Diphtheria toxin fragment B]	567	0.0
+P00971	Enterobacteria phage T4 (Bacteriophage T4)	10665		RNA ligase 1 (EC 6.5.1.3) (Gene product 63) (gp63) (Rnl1)	374	0.0
+P03615	Escherichia virus Qbeta (Bacteriophage Q-beta)	39803		Capsid protein (CP) (Coat protein)	133	0.0
+P03706	Escherichia phage lambda (Bacteriophage lambda)	2681611		Endolysin (EC 4.2.2.n2) (Lysis protein) (Lysozyme) (Transglycosylase)	158	0.0
+P06022	Escherichia phage Mu (Bacteriophage Mu)	2681603		Late transcription activator C (C) (Gene product 21) (gp21) (Protein C)	140	0.0
+P08557	Escherichia phage Mu (Bacteriophage Mu)	2681603		DNA circularization protein N (64 kDa virion protein) (Gene product 43) (gp43) (Gene product N) (gpN)	495	0.0
+P10310	Enterobacteria phage T3 (Bacteriophage T3)	10759		Terminase, large subunit (DNA-packaging protein) (Gene product 19) (gp19) [Includes: ATPase (EC 3.6.4.-); Endonuclease (EC 3.1.21.-)]	586	0.0
+P13314	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anti-CBASS protein 2 (Acb2) (Protein Vs.4)	88	0.0
+P16517	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		DNA replication protein 16.7 (Gene product 16.7) (gp16.7) (Protein p16.7)	130	0.0
+P17312	Enterobacteria phage T4 (Bacteriophage T4)	10665		Terminase, large subunit (DNA-packaging protein) (Gene product 17) (gp17) [Includes: ATPase (EC 3.6.4.-); Endonuclease (EC 3.1.21.-)]	610	0.0
+P69179	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Shiga-like toxin 1 subunit B (SLT-1 B subunit) (SLT-1b) (SLT-Ib) (Verocytotoxin 1 subunit B) (Verotoxin 1 subunit B)	89	0.0
+Q37875	Escherichia phage P1 (Bacteriophage P1)	2886926		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 17) (gp17) (Lysis protein) (Lysozyme) (Muramidase)	185	0.0
+Q37935	Escherichia phage lambda (Bacteriophage lambda)	2681611		Spanin, outer lipoprotein subunit (o-spanin) (Lysis protein Rz1) (Outer membrane lipoprotein Rz1)	60	0.0
+Q7Y3F1	Streptococcus phage C1	2907838		Endolysin PlyC, large catalytic subunit (PlyCA) (EC 3.2.1.-) (EC 3.5.1.28)	465	0.0
+Q7Y3F3	Streptococcus phage C1	2907838		Endolysin PlyC, small cell-wall binding subunit (PlyCB)	72	0.0
+A0A068Q5Q5	Klebsiella phage NTUH-K2044-K1-1 (Bacteriophage NTUH-K2044-K1-1)	1194091		Depolymerase, capsule K1-specific (EC 4.-.-.-) (Gene product 34) (gp34) (K1-ORF34 protein) (Probable tail spike protein)	651	0.0
+A4ZFB2	Staphylococcus phage 80alpha	53369		Capsid assembly scaffolding protein (SP) (Gp46 protein)	206	0.0
+P00581	Escherichia phage T7 (Bacteriophage T7)	10760		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 5) (Gp5)	704	0.0
+P03612	Escherichia phage MS2 (Bacteriophage MS2)	12022		Capsid protein (CP) (Coat protein)	130	0.0
+P03656	Enterobacteria phage M13 (Bacteriophage M13)	1977402		Gene 1 protein (G1P) (pI)	348	0.0
+P03679	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		DNA replication protein 1 (Gene product 1) (gp1)	86	0.0
+P03680	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 2) (gp2) (Protein p2)	575	0.0
+P03763	Escherichia phage Mu (Bacteriophage Mu)	2681603		ATP-dependent target DNA activator B (EC 3.6.1.-) (Gene product 04) (gp04) (Gene product B) (gpB) (MuB)	312	0.0
+P06019	Escherichia phage Mu (Bacteriophage Mu)	2681603		Repressor protein c (Repc) (CI) (Gene product 1) (gp1) (Mu repressor) (MuR)	196	0.0
+P06807	Enterobacteria phage T4 (Bacteriophage T4)	10665		Prohead core protein protease (EC 3.4.21.-) (Protein Gp21) (T4PPase)	212	0.0
+P07636	Escherichia phage Mu (Bacteriophage Mu)	2681603		DDE-recombinase A (EC 3.1.22.-) (EC 6.5.1.-) (DDE-transposase A) (Gene product 03) (gp03) (Gene product A) (gpA) (MuA)	663	0.0
+P0DPR0	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		Main hemagglutinin component type C (ANTP33) (HA 33 kDa subunit) (HA1)	286	0.0
+P11124	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		RNA-directed RNA polymerase (EC 2.7.7.48) (Protein P2)	665	0.0
+P13304	Enterobacteria phage T4 (Bacteriophage T4)	10665		Antiholin (Protein rI)	97	0.0
+P13342	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA helicase assembly protein (Gene product 59) (Gp59) (Helicase loader) (Helicase loading protein)	217	0.0
+P14647	Escherichia virus Qbeta (Bacteriophage Q-beta)	39803		RNA-directed RNA polymerase subunit beta (EC 2.7.7.48) (RNA replicase beta chain) (RNA-directed RNA polymerase subunit II)	589	0.0
+P20345	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Pre-neck appendage protein (Gene product 12) (gp12) (NP1) (Protein p12) [Cleaved into: gp12*]	854	0.0
+P49714	Escherichia phage K1E (Bacteriophage K1E)	344022		Tail spike protein (TSP) (Endo-N-acetylneuraminidase) (Endo-N) (Endo-alpha-sialidase) (EC 3.2.1.129) (EndoNE) [Cleaved into: Mature tail spike protein; Intramolecular chaperone]	811	0.0
+P49861	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Major capsid protein (Gene product 5) (gp5) (Major head protein) [Cleaved into: Scaffolding domain delta]	385	0.0
+P69539	Enterobacteria phage fd (Bacteriophage fd)	2847073		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (Major coat protein) (pVIII)	73	0.0
+Q06259	Escherichia phage P1 (Bacteriophage P1)	2886926		Protein kinase doc (EC 2.7.11.1) (Death on curing protein) (Toxin doc)	126	0.0
+Q6QGP4	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Deoxynucleoside-5'-monophosphate kinase (EC 2.7.4.13)	250	0.0
+Q8HA43	Streptococcus phage B30 (Streptococcus agalactiae bacteriophage B30)	209152		D-alanyl-L-alanine endopeptidase (EC 3.4.22.-) (1,4-N-acetylmuramidase) (EC 3.2.1.17) (B30 lysin) (Endoysin) (Glycosidase)	443	0.0
+Q9ZX29	Mycobacterium phage TM4 (Mycobacteriophage TM4)	88870		Probable transcriptional regulator WhiBTM4	76	0.0
+B3FK34	Pseudomonas phage 201phi2-1 (Pseudomonas chlororaphis phage 201phi2-1)	198110		Phage tubulin-like protein (PhuZ) (EC 3.6.5.-) (Phage tubulin/FtsZ) (Tubulin-like protein TubZ)	315	0.0
+P00720	Enterobacteria phage T4 (Bacteriophage T4)	10665		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase)	164	0.0
+P00806	Escherichia phage T7 (Bacteriophage T7)	10760		Endolysin (EC 3.5.1.28) (N-acetylmuramoyl-L-alanine amidase) (T7 endolysin)	151	0.0
+P07071	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anaerobic ribonucleoside-triphosphate reductase (EC 1.1.98.6) (Class III ribonucleoside-triphosphate reductase)	605	0.0
+P0DXF1	Enterobacteria phage T4 (Bacteriophage T4)	10665		ATP-dependent DNA helicase uvsW (EC 5.6.2.4) (DNA 3'-5' helicase UvsW) (Dar protein)	502	0.0
+P12528	Salmonella phage P22 (Bacteriophage P22)	10754		Tail spike protein (TSP) (Endo-1,3-alpha-L-rhamnosidase) (EC 3.2.1.-) (Endorhamnosidase) (Gene product 9) (gp9)	667	0.0
+P15057	Streptococcus phage Cp-1 (Bacteriophage Cp-1)	10747		Lysozyme (EC 3.2.1.17) (CP-1 lysin) (Endolysin) (Muramidase)	339	0.0
+P32277	Enterobacteria phage T4 (Bacteriophage T4)	10665		RNA ligase 2 (EC 6.5.1.3) (Rnl2)	334	0.0
+P39421	Enterobacteria phage T4 (Bacteriophage T4)	10665		NAD--protein ADP-ribosyltransferase modA (EC 2.4.2.31) (RNA polymerase ADP-ribosylase modA)	200	0.0
+P54308	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Terminase, large subunit (DNA-packaging protein) (Gene product 2) (gp2) [Includes: Endonuclease (EC 3.1.-.-); ATPase (EC 3.6.4.-)]	422	0.0
+P69168	Enterobacteria phage M13 (Bacteriophage M13)	1977402		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	424	0.0
+Q38087	Escherichia phage RB69 (Bacteriophage RB69)	12353		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gp43)	903	0.0
+Q8SD18	Pseudomonas phage phiKZ	2905945		Endolysin gp144 (EC 4.2.2.n1) (Lysis protein)	260	0.0
+Q9T1V4	Escherichia phage Mu (Bacteriophage Mu)	2681603		Baseplate puncturing device gp45 (Baseplate spike protein) (Gene product 45) (gp45) (Gene product Q) (gpQ)	197	0.0
+B8QIR1	Staphylococcus phage phiH5 (Bacteriophage phiH5)	538529		Endolysin LysH5 (D-alanyl-glycyl endopeptidase) (EC 3.4.22.-) (H5 endolysin) (LysH5) (N-acetylmuramoyl-L-alanine amidase) (EC 3.5.1.28)	481	0.0
+D1L2X1	Klebsiella phage KP32 (Bacteriophage KP32)	674082		Depolymerase 2, capsule K21-specific (Gene product 38) (gp38) (KP32gp38) (Probable tail spike protein)	576	0.0
+P03661	Enterobacteria phage fd (Bacteriophage fd)	2847073		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	424	0.0
+P03681	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Primer terminal protein (TP) (DNA terminal protein) (Gene product 3) (gp3) (Protein p3) (Terminal protein)	266	0.0
+P03692	Escherichia phage T7 (Bacteriophage T7)	10760		DNA helicase/primase (EC 2.7.7.-) (EC 5.6.2.3) (DNA 3'-5' helicase/primase Gp4) (Gene product 4) (Gp4)	566	0.0
+P03707	Escherichia phage lambda (Bacteriophage lambda)	2681611		Terminase small subunit (EC 3.6.4.-) (DNA-packaging protein Nu1) (Gene product Nu1) (gpNu1)	181	0.0
+P03708	Escherichia phage lambda (Bacteriophage lambda)	2681611		Terminase, large subunit (DNA-packaging protein A) (Large terminase protein) (gpA) [Includes: Endonuclease (EC 3.1.21.4); ATPase (EC 3.6.4.-)]	641	0.0
+P03711	Escherichia phage lambda (Bacteriophage lambda)	2681611		Capsid assembly protease C (EC 3.4.21.-) (Gene product C) (GPC) (Minor capsid protein C)	439	0.0
+P04415	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 43) (Gp43)	898	0.0
+P04524	Enterobacteria phage T4 (Bacteriophage T4)	10665		RNA polymerase sigma-like factor (Gene product 55) (gp55) (Promoter specificity factor)	185	0.0
+P15879	Clostridium botulinum D phage (Clostridium botulinum D bacteriophage)	29342		Mono-ADP-ribosyltransferase C3 (EC 2.4.2.-) (Exoenzyme C3)	251	0.0
+P16009	Enterobacteria phage T4 (Bacteriophage T4)	10665		Pre-baseplate central spike protein Gp5 (Pre-Gp5) (Peptidoglycan hydrolase gp5) (EC 3.2.1.17) [Cleaved into: Baseplate central spike protein Gp5* (Mature Gp5); Gp5C]	575	0.0
+P26745	Salmonella phage P22 (Bacteriophage P22)	10754		Terminase, large subunit (DNA-packaging protein gp2) [Includes: Endonuclease (EC 3.1.21.-); ATPase (EC 3.6.4.-)]	499	0.0
+P27380	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Transglycosylase (EC 4.2.2.n1) (Protein P7)	265	0.0
+P39423	Enterobacteria phage T4 (Bacteriophage T4)	10665		NAD--protein ADP-ribosyltransferase modB (EC 2.-.-.-) (EC 2.4.2.31)	207	0.0
+Q06253	Escherichia phage P1 (Bacteriophage P1)	2886926		Antitoxin phd (Addiction protein pdh) (Prevent host death protein)	73	0.0
+Q6QGD8	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Major capsid protein (Capsid protein pb8) (Major head protein) [Cleaved into: Scaffolding domain delta]	458	0.0
+Q6Y7T6	Staphylococcus phage K	221915		Endolysin LysK (D-alanyl-glycyl endopeptidase) (EC 3.4.22.-) (N-acetylmuramoyl-L-alanine amidase) (EC 3.5.1.28)	495	0.0
+Q9MCT1	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Terminase, large subunit (DNA-packaging protein gp2) [Includes: Endonuclease (EC 3.1.21.-); ATPase (EC 3.6.4.-)]	504	0.0
+K9L8K6	Klebsiella phage KP36 (Bacteriophage KP36)	1129191		Depolymerase, capsule K63-specific (DepoKP36) (Gene product 50) (gp50) (KP36gp50) (Tail spike protein)	883	0.0
+O09496	Escherichia virus K5 (Bacteriophage K5)	56637		Tail spike protein (Depolymerase, capsule K5-specific) (EC 4.-.-.-) [Cleaved into: Mature tail spike protein; Intramolecular chaperone]	632	0.0
+P00276	Enterobacteria phage T4 (Bacteriophage T4)	10665		Glutaredoxin (Thioredoxin)	87	0.0
+P03034	Escherichia phage lambda (Bacteriophage lambda)	2681611		Repressor protein cI	237	0.0
+P03657	Enterobacteria phage f1 (Bacteriophage f1)	10863		Gene 1 protein (G1P) (pI)	348	0.0
+P03694	Escherichia phage T7 (Bacteriophage T7)	10760		Terminase, large subunit (DNA-packaging protein) (Gene product 19) (Gp19) [Includes: ATPase (EC 3.6.4.-); Endonuclease (EC 3.1.21.-)]	586	0.0
+P03712	Escherichia phage lambda (Bacteriophage lambda)	2681611		Capsid decoration protein (Auxiliary protein D) (Gene product D) (gpD) (Major capsid protein D)	110	0.0
+P04332	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Portal protein (Connector protein) (Gene product 10) (gp10) (Gene product 19) (gp19) (Head-to-tail connector) (Probable portal protein) (Protein p10) (Upper collar protein)	309	0.0
+P07065	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA topoisomerase medium subunit (EC 5.6.2.2) (DNA topoisomerase 51-kDa subunit) (Protein Gp52)	442	0.0
+P08558	Escherichia phage Mu (Bacteriophage Mu)	2681603		Baseplate hub protein gp44 (43 kDa tail protein) (Gene product 44) (gp44) (Gene product P) (gpP)	379	0.0
+P10277	Enterobacteria phage P4 (Bacteriophage P4)	10680		Putative P4-specific DNA primase (EC 2.7.7.-) (EC 3.6.4.12)	777	0.0
+P12427	Enterobacteria phage T2 (Bacteriophage T2)	2060721		DNA adenine methylase (EC 2.1.1.72) (DNA-(N(6)-adenine)-methyltransferase) (Deoxyadenosyl-methyltransferase) (Orphan methyltransferase M.EcoT2Dam) (M.EcoT2Dam)	259	0.0
+P13559	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Endolysin (EC 3.2.1.17) (Beta-1,4-N-acetylmuramidase) (Lysozyme) (Lytic enzyme) (Muramidase) (Protein P15)	149	0.0
+P19894	Bacillus phage M2 (Bacteriophage M2)	331976		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 2) (gp2) (Protein p2)	572	0.0
+P36693	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Terminase, large subunit (DNA-packaging protein) (DNA-packaging protein gp2) (Gene product 2) (gp2) (Large terminase protein) [Includes: Endonuclease (EC 3.1.21.4); ATPase (EC 3.6.4.-)]	642	0.0
+P69169	Enterobacteria phage f1 (Bacteriophage f1)	10863		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	424	0.0
+Q6QGD7	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Prohead protease (EC 3.4.21.-)	210	0.0
+Q77WJ4	Methanobacterium phage psiM2 (PsiM2)	77048		Pseudomurein endoisopeptidase (Pei) (EC 3.4.22.-) (Endolysin) (Lytic enzyme PeiP)	305	0.0
+A0A345MJY6	Bacillus phage BSP38	2283013		Anti-Pycsar protein Apyc1 (Apyc1)	256	0.0
+A0A7U3TCA2	Cyanophage S-2L (Cyanobacteria phage S-2L)	260586		dATP triphosphohydrolase (dATPase) (DatZ)	175	0.0
+A4ZFB3	Staphylococcus phage 80alpha	53369		Major capsid protein (CP)	324	0.0
+O80297	Escherichia phage If1 (Bacteriophage If1)	10868		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	460	0.0
+P00814	Enterobacteria phage T2 (Bacteriophage T2)	2060721		Deoxycytidylate deaminase (EC 3.5.4.12) (dCMP deaminase)	188	0.0
+P00969	Escherichia phage T7 (Bacteriophage T7)	10760		DNA ligase (EC 6.5.1.1) (DNA ligase gp1.3) (Gene product 1.3) (Gp1.3)	359	0.0
+P00970	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA ligase (EC 6.5.1.1) (Polydeoxyribonucleotide synthase [ATP])	487	0.0
+P03040	Escherichia phage lambda (Bacteriophage lambda)	2681611		Regulatory protein cro	66	0.0
+P03633	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Internal scaffolding protein B (EC 3.4.-.-) (Scaffolding protein B) (GPB)	120	0.0
+P03663	Salmonella phage IKe (Bacteriophage IKe)	10867		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	434	0.0
+P03682	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Late genes activator p4 (Gene product 4) (gp4) (Protein p4)	125	0.0
+P03700	Escherichia phage lambda (Bacteriophage lambda)	2681611		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	356	0.0
+P04526	Enterobacteria phage T4 (Bacteriophage T4)	10665		Sliding-clamp-loader large subunit (EC 3.6.4.-) (Clamp loader gp44 subunit) (Gene product 44) (gp44)	319	0.0
+P04530	Enterobacteria phage T4 (Bacteriophage T4)	10665		DnaB-like replicative helicase (EC 3.6.4.-) (Gene product 41) (Gp41)	475	0.0
+P06020	Escherichia phage Mu (Bacteriophage Mu)	2681603		Negative regulator of transcription (Ner) (Gene product 2) (gp2)	75	0.0
+P06855	Enterobacteria phage T4 (Bacteriophage T4)	10665		Polynucleotide kinase (PNK) (EC 2.7.1.78) (Deoxynucleotide 3'-phosphatase) (EC 3.1.3.34) (Polynucleotide 5'-hydroxyl-kinase)	301	0.0
+P07059	Enterobacteria phage T4 (Bacteriophage T4)	10665		Endonuclease II (EC 3.1.21.8)	136	0.0
+P08026	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Shiga-like toxin 1 subunit A (SLT-1 A subunit) (SLT-1a) (SLT-Ia) (EC 3.2.2.22) (Verocytotoxin 1 subunit A) (Verotoxin 1 subunit A) (rRNA N-glycosidase 1)	315	0.0
+P09009	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		DNA terminal protein (Protein P8)	259	0.0
+P11125	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Packaging enzyme P4 (EC 3.6.1.15)	332	0.0
+P13334	Enterobacteria phage T4 (Bacteriophage T4)	10665		Portal protein (Gene product 20) (gp20)	524	0.0
+P13771	Escherichia phage D108 (Bacteriophage D108)	665033		ATP-dependent target DNA activator B (EC 3.6.1.-) (Gene product B) (gpB) (MuB)	312	0.0
+P15132	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Morphogenesis protein 1 (Gene product 13) (gp13) (Protein p13) [Includes: Lysozyme-like glycosidase (EC 3.2.1.-); Probable metalloendopeptidase (EC 3.4.-.-)]	365	0.0
+P16006	Enterobacteria phage T4 (Bacteriophage T4)	10665		Deoxycytidylate deaminase (EC 3.5.4.12) (dCMP deaminase) (dCD)	193	0.0
+P26744	Salmonella phage P22 (Bacteriophage P22)	10754		Portal protein (Gene product 1) (Gp1) (Head-to-tail connector)	725	0.0
+P54309	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Portal protein (Gene product 6) (gp6) (Portal vertex protein)	503	0.0
+P79678	Escherichia phage Mu (Bacteriophage Mu)	2681603		Tail sheath protein (TSP) (Gene product 39) (gp39) (Gene product L) (gpL)	495	0.0
+Q6QGD5	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Portal protein (Capsid protein pb7)	403	0.0
+Q6UAV6	Klebsiella oxytoca phage phiKO2 (Bacteriophage phiKO2)	255431		Protelomerase (EC 3.1.22.-) (Gene product 26) (Gp26) (Hairpin telomere resolvase) (TelK)	640	0.0
+Q6XQ97	Escherichia phage T1 (Bacteriophage T1)	2492962		U-spanin (Gene product 11) (Unimolecular spanin) (gp11)	133	0.0
+Q716G6	Shigella phage Sf6 (Shigella flexneri bacteriophage VI) (Bacteriophage SfVI)	10761		Tail needle protein (Head completion protein) (Packaged DNA stabilization protein) (Tail accessory factor gp9)	282	0.0
+Q8SDC3	Pseudomonas phage phiKZ	2905945		Phage tubulin-like protein (PhuZ) (EC 3.6.5.-) (Phage tubulin/FtsZ) (Tubulin-like protein TubZ)	327	0.0
+D1L2X0	Klebsiella phage KP32 (Bacteriophage KP32)	674082		Depolymerase 1, capsule K3-specific (Gene product 37) (gp37) (KP32gp37) (Probable tail spike protein) [Cleaved into: Mature depolymerase 1, capsule K3-specific; Intramolecular chaperone]	869	0.0
+G3FFN6	Vibrio phage phiVC8	1076759		N6-succino-2-amino-2'-deoxyadenylate synthase (EC 6.3.4.25) (2-amino-2'-deoxyadenylo-succinate synthase) (PurZ)	343	0.0
+M1EAS5	Salmonella phage S16 (Salmonella phage vB_SenM-S16)	1087482		Long tail fiber protein Gp37 (Gene product 37) (gp37) (Receptor-recognizing protein) [Cleaved into: Mature tail fiber protein Gp37; Intramolecular chaperone]	749	0.0
+O56788	Staphylococcus phage Twort (strain DSM 17442 / HER 48) (Bacteriophage Twort)	2908167		Endolysin PlyTW (D-alanyl-glycyl endopeptidase) (EC 3.4.22.-) (N-acetylmuramoyl-L-alanine amidase) (EC 3.5.1.28)	467	0.0
+P03045	Escherichia phage lambda (Bacteriophage lambda)	2681611		Antitermination protein N (Regulatory protein N) (PN)	107	0.0
+P03621	Pseudomonas phage Pf1 (Bacteriophage Pf1)	2011081		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (Major coat protein) (pVIII)	82	0.0
+P03695	Enterobacteria phage T4 (Bacteriophage T4)	10665		Single-stranded DNA-binding protein (SSB protein) (Gp32) (Helix-destabilizing protein)	301	0.0
+P03710	Escherichia phage lambda (Bacteriophage lambda)	2681611		Portal protein B (GpB) (Minor capsid protein B) [Cleaved into: Protein B*]	533	0.0
+P06018	Escherichia phage Mu (Bacteriophage Mu)	2681603		Methylcarbamoylase mom (Adenine modification enzyme mom) (Gene product 55) (gp55) (Gene product mom) (gpMom) (Modification of Mu) (Mom)	241	0.0
+P06808	Enterobacteria phage T4 (Bacteriophage T4)	10665		Holin (Lysis protein) (Protein rV)	218	0.0
+P08763	Escherichia phage P1 (Bacteriophage P1)	2886926		Type III restriction-modification enzyme EcoPI Mod subunit (M.EcoPI) (EC 2.1.1.72) (EcoPI methyltransferase) (Type III methyltransferase M.EcoPI)	646	0.0
+P10928	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate wedge protein gp10 (Gene product 10) (gp10)	602	0.0
+P13340	Enterobacteria phage T4 (Bacteriophage T4)	10665		Recombination endonuclease VII (Endo VII) (EC 3.1.-.-) (Gene product 49) (gp49)	157	0.0
+P19385	Streptococcus phage Cp-7 (Bacteriophage Cp-7)	10748		Lysozyme (EC 3.2.1.17) (CP-7 lysin) (Endolysin) (Muramidase)	342	0.0
+P32282	Enterobacteria phage T4 (Bacteriophage T4)	10665		Ribonucleoside-diphosphate reductase subunit alpha (EC 1.17.4.1) (Protein B1) (Ribonucleotide reductase)	754	0.0
+P35837	Salmonella phage P22 (Bacteriophage P22)	10754		Tail needle protein gp26 (Head completion protein) (Packaged DNA stabilization protein) (Tail accessory factor gp26)	233	0.0
+D6QY02	Staphylococcus phage G15	760530		Endolysin LysGH15 (D-alanyl-glycyl endopeptidase) (EC 3.4.22.-) (N-acetylmuramoyl-L-alanine amidase) (EC 3.5.1.28)	495	0.0
+P00726	Escherichia phage lambda (Bacteriophage lambda)	2681611		Spanin, inner membrane subunit (i-spanin) (Lysis protein Rz)	153	0.0
+P03047	Escherichia phage lambda (Bacteriophage lambda)	2681611		Antitermination protein Q	207	0.0
+P03736	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tape measure protein (TMP) (Gene product H) (gpH) (Minor tail protein H) [Cleaved into: Entry protein H*]	853	0.0
+P03748	Escherichia phage T7 (Bacteriophage T7)	10760		Tail fiber protein (Gene product 17) (Gp17) (Tail fiber protein gp17)	553	0.0
+P07582	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Peptidoglycan hydrolase gp5 (Gene product 5) (Gp5)	220	0.0
+P09176	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA topoisomerase large subunit (EC 5.6.2.2) (DNA topoisomerase 64-kDa subunit) (Protein Gp39)	516	0.0
+P12726	Enterobacteria phage T4 (Bacteriophage T4)	10665		NAD(+)--arginine ADP-ribosyltransferase (EC 2.4.2.31) (Alt protein) [Cleaved into: Mature NAD(+)--arginine ADP-ribosyltransferase]	682	0.0
+P13299	Enterobacteria phage T4 (Bacteriophage T4)	10665		Intron-associated endonuclease 1 (EC 3.1.-.-) (I-TevI) (IRF protein)	245	0.0
+P19726	Escherichia phage T7 (Bacteriophage T7)	10760		Major capsid protein (Gene product 10A) (Gp10A) (Major head protein)	345	0.0
+P19822	Escherichia phage T5 (Enterobacteria phage T5)	2695836		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-)	855	0.0
+P25478	Escherichia phage P2 (Bacteriophage P2)	2905681		Capsid assembly scaffolding protein (Gene product O) (GpO) (Head morphogenesis protein) (Scaffold protein) [Cleaved into: Maturation protease (EC 3.4.21.-)]	284	0.0
+P69546	Enterobacteria phage f1 (Bacteriophage f1)	10863		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	410	0.0
+Q6X3W5	Bacillus phage Bam35c (Bacillus thuringiensis bacteriophage Bam35c)	236750		DNA terminal protein	245	0.0
+Q77WP1	Escherichia phage N15 (Bacteriophage N15)	1604876		Protelomerase (EC 3.1.22.-) (Gene product 29) (Gp29) (Hairpin telomere resolvase) (TelN)	631	0.0
+Q8SCY7	Pseudomonas phage phiKZ	2905945		Capsid maturation protease (EC 3.4.21.-) (Gp175) (Prohead protease)	270	0.0
+Q9AYZ3	Enterobacteria phage HK620 (Bacteriophage HK620)	155148		Tail needle protein gp26 (Head completion protein) (Packaged DNA stabilization protein) (Tail accessory factor gp26)	233	0.0
+Q9T1X2	Escherichia phage Mu (Bacteriophage Mu)	2681603		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 22) (gp22) (Lysis protein) (Lysozyme) (Muramidase)	171	0.0
+A0A2H5BHJ6	Acinetobacter phage SH-Ab 15497	2060946		N6-succino-2-amino-2'-deoxyadenylate synthase (EC 6.3.4.25) (2-amino-2'-deoxyadenylo-succinate synthase) (PurZ)	387	0.0
+B3VMP4	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Capsid fiber protein (Gene product 8.5) (gp8.5) (Head fiber protein) (Protein p8.5)	280	0.0
+B7SSM2	Bacillus phage Nf (Bacteriophage Nf)	2992639		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 2) (gp2) (Protein p2)	572	0.0
+H9C180	Pectobacterium phage ZF40 (Bacteriophage ZF40)	1127516		Aca2 repressor (Aca2 regulator) (Gene product 30) (Gp30)	116	0.0
+O03979	Pneumococcus phage Dp-1 (Bacteriophage Dp-1)	59241		Lysin (EC 3.5.1.28) (Cell wall hydrolase) (Lytic amidase) (N-acetylmuramoyl-L-alanine amidase)	296	0.0
+O48449	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Tail tube protein gp17.1* (TTP) (Gene product 17.1) (gp17.1) (Major tail protein) (MTP)	264	0.0
+P03610	Escherichia phage MS2 (Bacteriophage MS2)	12022		Maturation protein A (MP) (Assembly protein) (A protein)	393	0.0
+P03666	Enterobacteria phage f1 (Bacteriophage f1)	10863		Virion export protein (Gene 4 protein) (G4P)	426	0.0
+P03738	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail tip protein L	232	0.0
+P04525	Enterobacteria phage T4 (Bacteriophage T4)	10665		Sliding clamp (DNA polymerase accessory protein Gp45) (DNA polymerase clamp) (Gene product 45) (gp45) (Sliding clamp Gp45)	228	0.0
+P04535	Enterobacteria phage T4 (Bacteriophage T4)	10665		Major capsid protein (Gene product 23) (Major head protein) (gp23) [Cleaved into: Mature major capsid protein (gp23*)]	521	0.0
+P04893	Salmonella phage P22 (Bacteriophage P22)	10754		Terminase, small subunit (DNA-packaging protein gp3)	162	0.0
+P08764	Escherichia phage P1 (Bacteriophage P1)	2886926		Type III restriction-modification enzyme EcoPI Res subunit (EC 3.1.21.5) (Type III restriction enzyme EcoPI)	970	0.0
+P08773	Enterobacteria phage T4 (Bacteriophage T4)	10665		Deoxycytidylate 5-hydroxymethyltransferase (Deoxycytidylate hydroxymethylase) (EC 2.1.2.8) (HMase) (dCH) (dCMP hydroxymethylase) (dCMP HMase)	246	0.0
+P09386	Escherichia phage 933W (Bacteriophage 933W)	10730		Shiga-like toxin 2 subunit B (SLT-2 B subunit) (SLT-2b) (SLT-IIb) (Verocytotoxin 2 subunit B) (Verotoxin 2 subunit B)	89	0.0
+P10104	Enterobacteria phage T4 (Bacteriophage T4)	10665		Fibritin (Collar protein) (Whisker antigen control protein)	487	0.0
+P10149	Bacteriophage H30	12371		Shiga-like toxin 1 subunit A (SLT-1 A subunit) (SLT-1a) (SLT-Ia) (EC 3.2.2.22) (Verocytotoxin 1 subunit A) (Verotoxin 1 subunit A) (rRNA N-glycosidase 1)	315	0.0
+P13848	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Capsid assembly scaffolding protein (Gene product 7) (gp7) (Head morphogenesis protein) (Protein p7) (Scaffold protein)	98	0.0
+P17172	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate central spike complex protein gp27 (Gene product 27) (gp27) (Hub protein 27)	391	0.0
+P20315	Enterobacteria phage T3 (Bacteriophage T3)	10759		DNA helicase/primase (EC 2.7.7.-) (EC 5.6.2.3) (DNA 3'-5' helicase/primase Gp4) (Gene product 4) (Gp4)	566	0.0
+P20331	Enterobacteria phage T3 (Bacteriophage T3)	10759		Endolysin (EC 3.5.1.28) (N-acetylmuramoyl-L-alanine amidase) (T3 lysozyme)	151	0.0
+P22884	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Integrase (EC 2.7.7.-) (EC 3.1.-.-) (Int-L5) (L5 Int)	371	0.0
+P23848	Escherichia phage Mu (Bacteriophage Mu)	2681603		Middle operon regulator (Mor) (GemB) (Gene product 17) (gp17)	129	0.0
+P23992	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA topoisomerase small subunit (EC 5.6.2.2) (DNA topoisomerase 18-kDa subunit) (Protein Gp60)	160	0.0
+P27360	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Antiholin	71	0.0
+P31340	Escherichia phage P2 (Bacteriophage P2)	2905681		Spike protein (Baseplate assembly protein gpV) (Gene V protein) (GpV)	211	0.0
+Q331T7	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		Tubulin-like protein TubZ (EC 3.6.5.-) (Tubulin/FtsZ-like protein TubZ)	358	0.0
+Q4ZD58	Staphylococcus phage 2638A	320836		Endolysin 2638A (N-acetylmuramoyl-L-alanine amidase) (EC 3.5.1.28)	486	0.0
+Q6QGD2	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Terminase, large subunit (DNA-packaging protein) [Includes: ATPase (EC 3.6.4.-); Endonuclease (EC 3.1.21.-)]	438	0.0
+Q71AW2	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Receptor binding protein (RBP) (Gene product 18) (Gp18)	264	0.0
+Q71TL0	Escherichia phage P1 (Bacteriophage P1)	2886926		DNA N-6-adenine-methyltransferase (DAM) (EC 2.1.1.72) (EcoP1I DNA MTase) (M.EcoP1I) (Type II methyltransferase M.EphP1ORF2P) (M.EphP1ORF2P)	754	0.0
+Q7LYX0	Methanothermobacter phage psiM100	173824		Pseudomurein endoisopeptidase PeiW (Pei) (EC 3.4.22.-) (Endolysin) (Lytic enzyme PeiW)	284	0.0
+Q8SDS7	Staphylococcus phage phi11 (Bacteriophage phi-11)	2681609		Endolysin LytA (D-alanyl-glycyl endopeptidase) (EC 3.4.22.-) (LytA amidase) (N-acetylmuramoyl-L-alanine amidase) (EC 3.5.1.28)	481	0.0
+A0A1P8CWZ3	Bacillus phage phi3T (Bacteriophage phi-3T)	10736		Gabija anti-defense 1 (Gad1)	295	0.0
+A0A219YHC0	Klebsiella phage K5-2 (Bacteriophage K5-2)	1932361		Depolymerase 1, capsule K30/K69-specific (Gene product 37) (gp37) (K30/K69 depolymerase) (Probable tail spike protein)	792	0.0
+A0A2H5BHG9	Acinetobacter phage SH-Ab 15497	2060946		dATP triphosphohydrolase (dATPase)	203	0.0
+A0A2L0V156	Salmonella phage PMBT28	2081904		dATP triphosphohydrolase (dATPase)	194	0.0
+A0A9Y1YY28	Bacillus phage SPbetaL7	3053441		Gabija anti-defense 2 (Gad2)	400	0.0
+A7XXC2	Thermus virus P23-45 (Thermus thermophilus phage P23-45)	2914006		Major capsid protein (Gene product 89) (gp89) (Major head protein)	409	0.0
+D1L2Y9	Klebsiella phage KP34 (Bacteriophage KP34)	674081		Tail tubular protein A (TTPA) (Depolymerase) (EC 3.2.1.28) (Gene product 44) (gp44)	186	0.0
+D3WAC1	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Terminase large subunit (DNA-packaging protein) (Gene product 2) (gp2) [Includes: Endonuclease (EC 3.1.-.-); ATPase (EC 3.6.4.-)]	540	0.0
+D3WAC5	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Capsid protein (Gene product 6) (gp6)	393	0.0
+M1EAP5	Salmonella phage S16 (Salmonella phage vB_SenM-S16)	1087482		Anti-CBASS protein Acb1 (Acb1)	152	0.0
+O48400	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Inhibitor of histone-like protein HU (Gene 46 protein) (Gp46) (Gene product 46)	77	0.0
+O48448	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Tail completion protein gp17 (Gene product 17) (gp17) (Head-tail joining protein gp17) (Tail-to-head joining protein)	134	0.0
+O55246	Xanthomonas phage phiLf (Bacteriophage phi-Lf)	28365		Head virion protein G6P (Coat protein D) (G6P) (pVI)	95	0.0
+O64191	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		DSR anti-defense 1 (DSAD1)	120	0.0
+O64204	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Holin (Gene product 11) (gp11)	141	0.0
+O64301	Escherichia phage RB69 (Bacteriophage RB69)	12353		Sliding-clamp-loader large subunit (EC 3.6.4.-) (Clamp loader gp44 subunit) (Gene product 44) (gp44)	320	0.0
+O80288	Bacteriophage PS34	83127		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 19) (gp19) (Lysis protein) (Lysozyme) (Muramidase)	167	0.0
+O80299	Escherichia phage If1 (Bacteriophage If1)	10868		Gene 1 protein (G1P) (pI)	353	0.0
+P03614	Enterobacteria phage fr (Bacteriophage fr)	12017		Capsid protein (CP) (Coat protein)	130	0.0
+P03660	Salmonella phage IKe (Bacteriophage IKe)	10867		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	421	0.0
+P03686	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		DNA replication protein 17 (Gene product 17) (gp17) (Protein p17)	166	0.0
+P03688	Escherichia phage lambda (Bacteriophage lambda)	2681611		Replication protein O	333	0.0
+P03696	Escherichia phage T7 (Bacteriophage T7)	10760		Single-stranded DNA-binding protein (SSB protein) (2.5 protein) (Gene product 2.5) (gp2.5)	232	0.0
+P03732	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail tube terminator protein (TrP) (Gene product U) (gpU) (Minor tail protein U) (Tail sheath-stabilizing protein) (Tail-to-head joining protein) (THJP)	131	0.0
+P03734	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail assembly protein G (Gene product G) (gpG) (Minor tail protein G) (Tail assembly chaperone) (TAC)	140	0.0
+P03781	Escherichia phage T7 (Bacteriophage T7)	10760		Nucleotide kinase gp1.7 (Gene product 1.7) (Gp1.7) (EC 2.7.4.-)	196	0.0
+P04522	Enterobacteria phage T4 (Bacteriophage T4)	10665		Exonuclease subunit 2 (EC 3.1.11.-) (Gene product 46) (gp46)	560	0.0
+P04529	Enterobacteria phage T4 (Bacteriophage T4)	10665		Recombination and repair protein	391	0.0
+P04532	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tail fiber assembly helper protein (Gene product 57) (gp57)	80	0.0
+P04533	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anti-CBASS protein Acb1 (Acb1) (Gene product 57B) (gp57B)	152	0.0
+P04547	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA beta-glucosyltransferase (BGT) (Beta-GT) (EC 2.4.1.27)	351	0.0
+P06225	Bacillus phage SP02 (Bacteriophage SP02)	10723		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-)	648	0.0
+P06951	Bacillus phage PZA (Bacteriophage PZA)	10757		DNA terminal protein (Gene product 3) (gp3) (Protein p3)	266	0.0
+P07606	Bacillus phage phi3T (Bacteriophage phi-3T)	10736		Thymidylate synthase (TS) (TSase) (EC 2.1.1.45)	279	0.0
+P07876	Enterobacteria phage K3 (Bacteriophage K3)	10674		Receptor-recognizing protein gp38 (Gene product 38) (gp38) (Long tail fiber adhesin)	260	0.0
+P08231	Enterobacteria phage M1 (Bacteriophage M1)	10676		Long tail fiber protein Gp37 (Protein Gp37) (Receptor-recognizing protein) [Cleaved into: Mature tail fiber protein Gp37; Intramolecular chaperone]	251	0.0
+P11107	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Probable helicase D10 (EC 3.6.4.-) (Protein D10)	450	0.0
+P13332	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tail sheath protein (TSP) (Gene product 18) (gp18)	659	0.0
+P13333	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tail tube protein gp19 (Gene product 19) (gp19)	163	0.0
+P13339	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate tail-tube junction protein gp48 (Baseplate-tube cap) (Gene product 48) (gp48)	364	0.0
+P15075	Enterobacteria phage T4 (Bacteriophage T4)	10665		Head completion nuclease (EC 3.1.-.-) (Head completion protein Gp50) (Protein Gp4)	150	0.0
+P15316	Streptococcus pyogenes phage H4489A	12366		Hyaluronoglucosaminidase (Hyaluronidase) (EC 3.2.1.35)	371	0.0
+P15419	Enterobacteria phage I2-2 (Bacteriophage I2-2)	10869		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	344	0.0
+P16117	Enterobacteria phage 434 (Bacteriophage 434)	10712		Repressor protein CI	95	0.0
+P16938	Enterobacteria phage LP7 (Bacteriophage LP7)	10750		Terminase, large subunit (DNA-packaging protein gp2) [Includes: Endonuclease (EC 3.1.21.-); ATPase (EC 3.6.4.-)]	475	0.0
+P19060	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate wedge protein gp6 (Gene product 6) (gp6)	660	0.0
+P22536	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Spike protein P5 (Protein P5)	340	0.0
+P25426	Mycobacterium phage FRAT1 (Mycobacteriophage FRAT1)	12388		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	333	0.0
+P32267	Enterobacteria phage T4 (Bacteriophage T4)	10665		10 kDa anti-sigma factor (10 kDa RNA polymerase-associated protein) (Audrey Stevens' inhibitor)	90	0.0
+P33486	Lactococcus phage mv1 (Lactococcus delbrueckii bacteriophage mv1)	33769		Lysozyme (EC 3.2.1.17) (Endolysin) (MV1 lysin) (Muramidase)	202	0.0
+P36273	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Head-tail preconnector protein GP5 (EC 3.4.21.-) (Putative peptidase GP5) [Cleaved into: Scaffold protein GP6 (Head protein GP6)]	501	0.0
+P42540	Acholeplasma phage L2 (Bacteriophage L2)	46014		Probable integrase/recombinase (EC 2.7.7.-) (EC 3.1.-.-) (ORF5)	289	0.0
+P46083	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		Hemagglutinin component HA-17 type C (ANTP17) (HA 17 kDa subunit) (HA2)	146	0.0
+P68930	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Proximal tail tube connector protein (Gene product 11) (gp11) (Lower collar protein) (Protein p11)	293	0.0
+P69532	Enterobacteria phage M13 (Bacteriophage M13)	1977402		Head virion protein G6P (Coat protein D) (G6P) (pVI)	112	0.0
+Q00901	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		Mono-ADP-ribosyltransferase C3 (EC 2.4.2.-) (Exoenzyme C3)	244	0.0
+Q09YD1	Lactococcus phage P008	83129		Gene product 38 (gp38) (AbiQ resistance protein) (ORF38)	71	0.0
+Q38036	Enterobacteria phage phiK (Bacteriophage phi-K)	10848		Internal scaffolding protein B (EC 3.4.-.-) (Scaffolding protein B) (GPB)	117	0.0
+Q38100	Lactococcus phage r1t (Bacteriophage r1t)	43685		Crossover junction endodeoxyribonuclease rusA (EC 3.1.21.10) (Holliday junction nuclease rusA) (Holliday junction resolvase)	131	0.0
+Q38162	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Lytic conversion lipoprotein	77	0.0
+Q38424	Enterobacteria phage T2 (Bacteriophage T2)	2060721		NAD(+)--arginine ADP-ribosyltransferase (EC 2.4.2.31) (Alt protein) [Cleaved into: Mature NAD(+)--arginine ADP-ribosyltransferase]	698	0.0
+Q38442	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Minor head protein GP7 (Accessory head protein gp7)	308	0.0
+Q38504	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Single-stranded DNA-binding protein (SSB) (Gene product 5) (gp5) (Protein p5)	124	0.0
+Q38582	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Major capsid protein (Gene product 13) (gp13)	324	0.0
+Q6H952	Synechococcus phage S-WHM1	65015		Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	351	0.0
+Q6R6U4	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Holin	227	0.0
+Q8LTE1	Escherichia virus Qbeta (Bacteriophage Q-beta)	39803		Minor capsid protein A1 (A1 read-through protein)	329	0.0
+Q9T216	Streptomyces phage phiC31 (Bacteriophage phi-C31)	10719		Recombination directionality factor (RDF) (Gene product 3) (gp3)	244	0.0
+Q9ZX92	Streptomyces phage phiC31 (Bacteriophage phi-C31)	10719		Probable flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Gp16)	237	0.0
+A0A0A8J8S8	Klebsiella phage K64-1 (Bacteriophage K64-1)	1439894		Depolymerase, capsule K21-specific (Probable tail spike protein)	651	0.0
+A0A0U3C9T3	Klebsiella phage vB_KpnP_IME205 (Bacteriophage vB_KpnP_IME205)	1770232		Depolymerase 1, capsule K47-specific (Dpo43) (Gene product 43) (gp43) (Probable tail spike protein)	641	0.0
+A0A0U3DL17	Klebsiella phage vB_KpnP_IME205 (Bacteriophage vB_KpnP_IME205)	1770232		Depolymerase 1, capsule K47-specific (Dpo42) (Gene product 42) (gp42) (Probable tail spike protein)	793	0.0
+A0A1C8HPQ3	Pseudomonas phage PaMx33	1815974		Anti-CBASS protein 2 (Acb2)	93	0.0
+A0A385DT68	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Portal protein (Gene product 20) (gp20)	806	0.0
+A0A5P1KKQ4	Klebsiella phage SH-KP152226 (Bacteriophage SH-KP152226)	2590872		Depolymerase, capsule K47-specific (Dep42) (Gene product 42) (gp42) (Probable tail spike protein)	793	0.0
+A0A7U3TBV6	Cyanophage S-2L (Cyanobacteria phage S-2L)	260586		N6-succino-2-amino-2'-deoxyadenylate synthase (EC 6.3.4.25) (2-amino-2'-deoxyadenylo-succinate synthase) (PurZ)	359	0.0
+A0A868BQY3	Erwinia phage FBB1	2776772		Anti-CBASS protein Acb1 (Acb1)	152	0.0
+F8WQ30	Bacillus phage SP10 (Bacillus phage SP-10)	941058		5-hmdU DNA kinase (5-hydroxymethyluracil DNA kinase) (P-loop kinase) (gp186)	637	0.0
+M1EBB2	Salmonella phage S16 (Salmonella phage vB_SenM-S16)	1087482		Receptor-recognizing protein gp38 (Gene product 38) (gp38) (Long tail fiber adhesin)	249	0.0
+O21946	Escherichia phage SV14 (Bacteriophage SV14)	47488		Single-stranded DNA-binding protein (SSB protein) (Gp32) (Helix-destabilizing protein)	113	0.0
+O48446	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Head completion protein gp16 (Connector protein gp16) (Gene product 16) (Gp16) (Stopper protein gp16)	109	0.0
+O55247	Xanthomonas phage phiLf (Bacteriophage phi-Lf)	28365		Gene 1 protein (G1P) (pI)	440	0.0
+O64235	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-)	607	0.0
+O64238	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Probable flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Gp48)	235	0.0
+P03042	Escherichia phage lambda (Bacteriophage lambda)	2681611		Transcriptional activator II	97	0.0
+P03049	Salmonella phage P22 (Bacteriophage P22)	10754		Regulatory protein mnt	83	0.0
+P03634	Escherichia phage G4 (Bacteriophage G4)	10843		Internal scaffolding protein B (EC 3.4.-.-) (Scaffolding protein B) (GPB)	120	0.0
+P03641	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Capsid protein F (F protein) (GPF)	427	0.0
+P03646	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Minor spike protein H (H protein) (Pilot protein)	328	0.0
+P03697	Escherichia phage lambda (Bacteriophage lambda)	2681611		Exonuclease (EC 3.1.11.3)	226	0.0
+P03714	Escherichia phage lambda (Bacteriophage lambda)	2681611		Head-tail connector protein FII (Head-tail joining protein) (Minor capsid protein FII)	117	0.0
+P03733	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail tube protein (TTP) (Gene product V) (gpV) (Major tail protein V)	246	0.0
+P04331	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Tail knob protein gp9 (Distal tube protein) (Gene product 9) (gp9) (Protein p9)	599	0.0
+P04445	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Transcription factor 1	99	0.0
+P06812	Bacillus phage Nf (Bacteriophage Nf)	2992639		DNA terminal protein (Gene product 3) (gp3) (Protein p3)	266	0.0
+P07075	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anaerobic ribonucleoside-triphosphate reductase-activating protein (EC 1.97.1.-) (Class III anaerobic ribonucleotide reductase small component)	156	0.0
+P08232	Enterobacteria phage Ox2 (Bacteriophage Ox2)	10691		Long tail fiber protein Gp37 (Protein Gp37) (Receptor-recognizing protein) [Cleaved into: Mature tail fiber protein Gp37; Intramolecular chaperone]	251	0.0
+P08320	Enterobacteria phage P4 (Bacteriophage P4)	10680		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	439	0.0
+P09797	Enterobacteria phage T6 (Bacteriophage T6)	10666		Single-stranded DNA-binding protein (SSB protein) (Gp32) (Helix-destabilizing protein)	302	0.0
+P09915	Bacillus phage rho11s (Bacteriophage rho-11s)	10735		Orphan methyltransferase M.Rho11sI (M.Rho11sI) (EC 2.1.1.37) (Bsu P11s) (Cytosine-specific methyltransferase Rho11sI) (Modification methylase Rho11sI)	503	0.0
+P0DJY5	Escherichia phage Mu (Bacteriophage Mu)	2681603		Tail fiber assembly protein U' (Gene product U') (gpU')	177	0.0
+P0DTD9	Rhodothermus phage RM378 (Bacteriophage RM378)	148943		RNA ligase (EC 6.5.1.-)	438	0.0
+P0DTN7	Klebsiella phage B1 (Bacteriophage B1)	2823852		Depolymerase, capsule K2-specific (DepoB1) (B1dep) (Tail spike protein)	907	0.0
+P0DTN8	Klebsiella phage RAD2 (Bacteriophage RAD2)	2831671		Depolymerase, capsule K2-specific (DpK2) (Gene product 2) (gp2) (Tail spike protein)	907	0.0
+P10439	Enterobacteria phage PA-2 (Bacteriophage PA-2)	10738		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	165	0.0
+P10929	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate wedge protein gp11 (Gene product 11) (gp11)	219	0.0
+P11126	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Major inner protein P1	769	0.0
+P11187	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase) (Protein p15)	258	0.0
+P11188	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Antiholin (Gene product 14) (gp14) (Lysis inhibitor 14-131) (Protein p14) [Includes: Holin (Lysis protein 14-129)]	131	0.0
+P13319	Enterobacteria phage T4 (Bacteriophage T4)	10665		Ribonuclease H (RNase H) (EC 3.1.26.4)	305	0.0
+P13331	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tail tube terminator protein (TrP) (Gene product 3) (gp3) (Tail sheath-stabilizing protein) (Tail-to-head joining protein) (THJP)	176	0.0
+P13849	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Major capsid protein (Gene product 8) (gp8) (Major head protein) (Protein p8)	448	0.0
+P15418	Enterobacteria phage I2-2 (Bacteriophage I2-2)	10869		Gene 1 protein (G1P) (pI)	365	0.0
+P27378	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Adsorption protein P2 (Protein P2)	591	0.0
+P37317	Shigella phage Sf6 (Shigella flexneri bacteriophage VI) (Bacteriophage SfVI)	10761		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	385	0.0
+P41064	Escherichia phage 186 (Bacteriophage 186)	29252		Replication gene A protein (EC 3.1.-.-) (GpA)	694	0.0
+P49859	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Portal protein (GP3)	424	0.0
+P51719	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Capsid assembly scaffolding protein (Gene product 17) (Gp17) (Head morphogenesis protein) (Scaffold protein) [Cleaved into: Maturation protease (EC 3.4.21.-)]	298	0.0
+P54307	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Terminase small subunit (G1P) (Terminase, small subunit gp1)	147	0.0
+P68928	Bacillus phage SF6 (Bacteriophage SF6)	10773		Terminase small subunit (G1P) (Terminase, small subunit)	145	0.0
+P69542	Enterobacteria phage fd (Bacteriophage fd)	2847073		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	87	0.0
+P69545	Enterobacteria phage fd (Bacteriophage fd)	2847073		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	410	0.0
+P85500	Pseudomonas phage PAJU2	504346		Capsid polyprotein (ORF3 protein) (EC 3.4.-.-) [Cleaved into: Capsid protein]	667	0.0
+P85501	Pseudomonas phage PAJU2	504346		Tape measure protein (TMP) (ORF10 protein) (Structural protein 1)	917	0.0
+Q05259	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Probable flavin-dependent thymidylate synthase (FDTS) (EC 2.1.1.148) (FAD-dependent thymidylate synthase) (Gp48)	243	0.0
+Q37873	Enterobacteria phage 82 (Bacteriophage 82)	10705		Crossover junction endodeoxyribonuclease rusA (EC 3.1.21.10) (Holliday junction nuclease rusA) (Holliday junction resolvase)	120	0.0
+Q37886	Bacillus phage B103 (Bacteriophage B103)	2994042		Histone-like protein p6 (Double-stranded DNA-binding protein) (Double-stranded DNA-binding protein p6) (Gene product 6) (gp6) (Histone-like binding protein) (Nucleoid-associated protein p6) (Protein p6)	100	0.0
+Q37896	Bacillus phage B103 (Bacteriophage B103)	2994042		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase) (Protein p15)	263	0.0
+Q37975	Listeria phage A118 (Bacteriophage A118)	40521		Putative antiholin	96	0.0
+Q38061	Pseudomonas phage PP7 (Bacteriophage PP7)	12023		Maturation protein A (MP) (Assembly protein) (A protein)	449	0.0
+Q38156	Escherichia phage T1 (Bacteriophage T1)	2492962		DNA N-6-adenine-methyltransferase (DAM) (EC 2.1.1.72) (Orphan methyltransferase M.EcoT1Dam) (M.EcoT1Dam)	238	0.0
+Q38361	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	374	0.0
+Q38433	Enterobacteria phage T6 (Bacteriophage T6)	10666		NAD(+)--arginine ADP-ribosyltransferase (EC 2.4.2.31) (Alt protein) [Cleaved into: Mature NAD(+)--arginine ADP-ribosyltransferase]	698	0.0
+Q6QGD6	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Decoration protein (Capsid protein pb10)	164	0.0
+Q6QGJ5	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Probable thymidylate synthase (EC 2.1.1.45)	279	0.0
+Q6QGP7	Escherichia phage T5 (Enterobacteria phage T5)	2695836		L-alanyl-D-glutamate peptidase (EC 3.4.24.-) (Endolysin) (Lysozyme)	137	0.0
+Q6XQ98	Escherichia phage T1 (Bacteriophage T1)	2492962		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	162	0.0
+Q7Y2D9	Pseudomonas phage phiKMV	204270		DNA-directed RNA polymerase (EC 2.7.7.6)	816	0.0
+Q853W0	Mycobacterium phage Omega (Mycobacteriophage Omega)	2907835		Protein Ku (Gp206) (Omega-Ku)	282	0.0
+Q8SD42	Pseudomonas phage phiKZ	2905945		Major capsid protein (Gp120)	747	0.0
+Q8W5V1	Yersinia phage PY54 (Bacteriophage PY54)	172667		Protelomerase (EC 3.1.22.-) (Hairpin telomere resolvase) (TelY)	617	0.0
+Q9G0B4	Escherichia phage AR1 (Bacteriophage AR1)	66711		Receptor-recognizing protein gp38 (Gene product 38) (gp38) (Long tail fiber adhesin)	259	0.0
+Q9LBR5	Clostridium botulinum D phage (Clostridium botulinum D bacteriophage)	29342		Hemagglutinin component HA-70 type D (HA3)	623	0.0
+Q9MCC1	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Tail tube protein (TTP) (Gene product 11) (gp11) (Major tail protein) (MTP)	301	0.0
+Q9MCD0	Bacillus phage GA-1 (Bacteriophage GA-1)	2679898		Single-stranded DNA-binding protein (SSB) (Gene product 5) (gp5) (Protein p5)	170	0.0
+Q9MCN8	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Crossover junction endodeoxyribonuclease rusA (EC 3.1.21.10) (Gp67) (Holliday junction nuclease rusA) (Holliday junction resolvase)	120	0.0
+Q9T1T5	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase) (P13)	146	0.0
+Q9T1W1	Escherichia phage Mu (Bacteriophage Mu)	2681603		Major capsid protein (Gene product 34) (gp34) (Gene product T) (gpT) (Major head protein)	305	0.0
+Q9ZXB7	Enterobacteria phage H19B (Bacteriophage H19B)	69932		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	177	0.0
+A0A2H5BHG5	Acinetobacter phage SH-Ab 15497	2060946		dATP/dGTP diphosphohydrolase (EC 3.6.1.9) (dATP/dGTP pyrophosphohydrolase)	385	0.0
+A0A2L0V130	Salmonella phage PMBT28	2081904		N6-succino-2-amino-2'-deoxyadenylate synthase (EC 6.3.4.25) (2-amino-2'-deoxyadenylo-succinate synthase) (PurZ)	367	0.0
+A0A385DV85	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Cargo protein 1 (C1) (Gene product 45) (gp45)	842	0.0
+A0A3T0ZBY1	Klebsiella phage KN3-1 (Bacteriophage KN3-1)	2282630		Depolymerase 1, capsule KN3-specific (KN3dep) (Probable tail spike protein)	792	0.0
+D1L2W4	Klebsiella phage KP32 (Bacteriophage KP32)	674082		Tail tubular protein A (TTPA) (Depolymerase) (EC 3.2.1.-) (Gene product 31) (gp31)	192	0.0
+D3WAD3	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Distal tail protein (Dit) (Gene product 15) (Gp15)	298	0.0
+E5EYS5	Acinetobacter phage Ac42 (Acinetobacter phage 42)	762660		Anti-CBASS protein Acb1 (Acb1) (Gene product 57B) (gp57B)	150	0.0
+O21945	Enterobacteria phage RB70 (Bacteriophage RB70)	36338		Single-stranded DNA-binding protein (SSB protein) (Gp32) (Helix-destabilizing protein)	117	0.0
+O64333	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail tip assembly protein K (Gene product 19) (gp19) (Probable endopeptidase) (EC 3.4.-.-) (Tail assembly protein K)	243	0.0
+O64362	Escherichia phage N15 (Bacteriophage N15)	1604876		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 54) (gp54) (Lysis protein) (Lysozyme) (Muramidase)	178	0.0
+O80292	Bacteriophage PS119	83128		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 19) (gp19) (Lysis protein) (Lysozyme) (Muramidase)	167	0.0
+O80302	Escherichia phage If1 (Bacteriophage If1)	10868		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	322	0.0
+P00471	Enterobacteria phage T4 (Bacteriophage T4)	10665		Thymidylate synthase (TS) (TSase) (EC 2.1.1.45)	286	0.0
+P00513	Escherichia phage T7 (Bacteriophage T7)	10760		Protein kinase 0.7 (EC 2.7.11.1) (Gene product 0.7) (Gp0.7) (Protein kinase gp0.7)	359	0.0
+P00641	Escherichia phage T7 (Bacteriophage T7)	10760		Endonuclease I (EC 3.1.21.2) (Gene product 3) (Gp3) (Junction-resolving enzyme gp3)	149	0.0
+P03006	Salmonella phage P22 (Bacteriophage P22)	10754		Replicative DNA helicase (EC 5.6.2.3) (DNA 5'-3' helicase gp12) (Replication protein gp12)	458	0.0
+P03620	Salmonella phage IKe (Bacteriophage IKe)	10867		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (Major coat protein) (pVIII)	82	0.0
+P03624	Pseudomonas phage Pf3 (Bacteriophage Pf3)	10872		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	483	0.0
+P03665	Enterobacteria phage M13 (Bacteriophage M13)	1977402		Virion export protein (Gene 4 protein) (G4P)	426	0.0
+P03699	Escherichia phage lambda (Bacteriophage lambda)	2681611		Excisionase	72	0.0
+P03729	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail tip assembly protein K (Probable endopeptidase) (EC 3.4.-.-) (Tail assembly protein K)	199	0.0
+P03772	Escherichia phage lambda (Bacteriophage lambda)	2681611		Serine/threonine-protein phosphatase (EC 3.1.3.16)	221	0.0
+P03775	Escherichia phage T7 (Bacteriophage T7)	10760		Protein Ocr (Gene product 0.3) (Gp0.3) (Overcome classical restriction) (Ocr)	117	0.0
+P04519	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA alpha-glucosyltransferase (AGT) (Alpha-GT) (EC 2.4.1.26)	400	0.0
+P04520	Enterobacteria phage T4 (Bacteriophage T4)	10665		DNA primase (EC 2.7.7.-) (DNA priming protein)	342	0.0
+P04521	Enterobacteria phage T4 (Bacteriophage T4)	10665		Exonuclease subunit 1 (EC 3.1.11.-) (Gene product 47) (gp47)	339	0.0
+P06956	Escherichia phage P1 (Bacteriophage P1)	2886926		Recombinase cre	343	0.0
+P07535	Bacillus phage PZA (Bacteriophage PZA)	10757		Portal protein (Connector protein) (Gene product 10) (gp10) (Gene product 19) (gp19) (Head-to-tail connector) (Probable portal protein) (Protein p10) (Upper collar protein)	309	0.0
+P07537	Bacillus phage PZA (Bacteriophage PZA)	10757		Preneck appendage protein (Gene product 12) (gp12) (Protein p12) [Cleaved into: gp12*]	854	0.0
+P07540	Bacillus phage PZA (Bacteriophage PZA)	10757		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase) (Protein p15)	258	0.0
+P07693	Enterobacteria phage T3 (Bacteriophage T3)	10759		S-Adenosylmethionine lyase (ADOMetase) (Adenosylmethionine lyase) (SAMase) (EC 4.4.1.42)	152	0.0
+P07717	Enterobacteria phage T3 (Bacteriophage T3)	10759		DNA ligase (EC 6.5.1.1) (Polydeoxyribonucleotide synthase [ATP])	346	0.0
+P09425	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate wedge protein gp25 (Outer wedge of baseplate protein) (Protein Gp25)	132	0.0
+P0DTK6	Pseudomonas phage M6	2911432		Glycinyltransferase (Amino acid:DNA transferase) (AADT) (gp51)	291	0.0
+P0DTL7	Escherichia phage Mu (Bacteriophage Mu)	2681603		Spanin, outer lipoprotein subunit (o-spanin) (gene product 23.1) (gp23.1)	113	0.0
+P10311	Escherichia phage P1 (Bacteriophage P1)	2886926		DNA-invertase (Site-specific recombinase)	186	0.0
+P10479	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Protein P1)	553	0.0
+P10930	Enterobacteria phage T4 (Bacteriophage T4)	10665		Short tail fiber protein gp12 (Gene product 12) (gp12)	527	0.0
+P11109	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Probable exonuclease subunit 2 (EC 3.1.11.-) (D13)	612	0.0
+P11156	Enterobacteria phage T4 (Bacteriophage T4)	10665		Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1) (Protein B2) (Ribonucleotide reductase)	388	0.0
+P18056	Enterobacteria phage T4 (Bacteriophage T4)	10665		Highly immunogenic outer capsid protein (Hoc)	376	0.0
+P19062	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate wedge protein gp8 (Gene product 8) (gp8)	334	0.0
+P19896	Enterobacteria phage T4 (Bacteriophage T4)	10665		Capsid vertex protein (Gene product 24) (gp24) [Cleaved into: Mature capsid vertex protein (gp24*)]	427	0.0
+P20709	Staphylococcus phage L54a (Bacteriophage L54a)	10727		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	354	0.0
+P22535	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Major capsid protein P3 (Protein P3)	395	0.0
+P27077	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	380	0.0
+P30314	Bacillus phage SP01 (Bacteriophage SP01)	2884427		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-)	924	0.0
+P36932	Escherichia phage P2 (Bacteriophage P2)	2905681		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	337	0.0
+P39504	Enterobacteria phage T4 (Bacteriophage T4)	10665		Spanin, inner membrane subunit (i-spanin)	117	0.0
+P41063	Escherichia phage 186 (Bacteriophage 186)	29252		SOS operon TUM protein (ORF95 protein) (Protein TUM95)	146	0.0
+P57020	Salmonella phage P22 (Bacteriophage P22)	10754		Antitermination protein Q	207	0.0
+P62692	Lactococcus phage c2	2681624		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase)	226	0.0
+P69202	Salmonella phage P22 (Bacteriophage P22)	10754		Repressor protein C2	216	0.0
+P79679	Escherichia phage Mu (Bacteriophage Mu)	2681603		Tail tube protein (TTP) (Gene product 40) (gp40) (Gene product M) (gpM)	118	0.0
+Q01076	Salmonella phage P22 (Bacteriophage P22)	10754		Internal virion protein gp20 (Ejection protein gp20) (E protein gp20)	471	0.0
+Q05254	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-)	595	0.0
+Q05262	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Putative adenosylcobalamin-dependent ribonucleoside-triphosphate reductase (EC 1.17.4.2) (Gp50)	682	0.0
+Q38199	Escherichia phage D108 (Bacteriophage D108)	665033		Serine recombinase gin (EC 3.1.22.-) (EC 6.5.1.-) (G-segment invertase) (Gin)	197	0.0
+Q38494	Escherichia phage Mu (Bacteriophage Mu)	2681603		GemA protein (Gene product 16) (gp16)	183	0.0
+Q38581	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Decoration protein gp12 (Gene product 12) (gp12)	64	0.0
+Q3T4L9	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Holin (Protein P35)	117	0.0
+Q6QGE1	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Tail tube terminator protein p142 (TrP-142) (Tail protein p142) (Tail-to-head joining protein p142) (THJP)	161	0.0
+Q6QGE2	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Tail tube protein pb6 (TTP-pb6) (Major tail protein pb6) (MTP pb6) (Tail protein pb6)	464	0.0
+Q6QGE9	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Baseplate hub protein pb3 (BHP-pb3) (Tail protein pb3)	949	0.0
+Q6WHE1	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Major capsid protein (Gene product 23) (Major head protein) (gp23) [Cleaved into: Mature major capsid protein (gp23*)]	514	0.0
+Q7Y4Y9	Escherichia phage RB69 (Bacteriophage RB69)	12353		Deoxynucleotide monophosphate kinase (DNK) (dNMP kinase) (EC 2.7.4.-) (Gp1)	244	0.0
+Q856K7	Mycobacterium phage Corndog (Mycobacteriophage Corndog)	205875		Protein Ku (Cd-Ku) (Gp87)	284	0.0
+Q9LBR4	Clostridium botulinum D phage (Clostridium botulinum D bacteriophage)	29342		Hemagglutinin component HA-17 type D (ANTP17) (HA 17 kDa subunit) (HA2)	146	0.0
+Q9MBW4	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Terminase, small subunit (DNA-packaging protein gp1)	161	0.0
+Q9T1V0	Escherichia phage Mu (Bacteriophage Mu)	2681603		Tail fiber protein S (Gene product 49) (gp49) (Gene product S) (gpS)	504	0.0
+Q9T1V1	Escherichia phage Mu (Bacteriophage Mu)	2681603		Baseplate protein gp48 (Gene product 48) (gp48) (Gene product R) (gpR)	180	0.0
+Q9T1W5	Escherichia phage Mu (Bacteriophage Mu)	2681603		Portal protein (Gene product 29) (gp29) (Gene product H) (gpH) (Head-tail connector)	512	0.0
+A0A0A8JA06	Klebsiella phage K64-1 (Bacteriophage K64-1)	1439894		Probable tail spike protein (Depolymerase, capsule K35-specific) [Cleaved into: Mature tail spike protein; Intramolecular chaperone]	779	0.0
+A0A8G1LR08	Bacillus phage 010DV004	2869562		Anti-Pycsar protein Apyc1 (Apyc1)	257	0.0
+A7XXB7	Thermus virus P23-45 (Thermus thermophilus phage P23-45)	2914006		Terminase, large subunit (DNA-packaging protein) (Gene product 85) (gp85) [Includes: ATPase (EC 3.6.4.-); Endonuclease (EC 3.1.21.-)]	485	0.0
+B3FIW8	Pseudomonas phage 201phi2-1 (Pseudomonas chlororaphis phage 201phi2-1)	198110		Chimallin (ChmA) (Phage nucleus enclosure protein) (PhuN) (gene product 105) (gp105)	631	0.0
+B6V311	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Thoeris anti-defense 2 (Tad2)	89	0.0
+C0HM52	Bacteriophage TS2126	272473		RNA ligase 1 (EC 6.5.1.3) (TS2126 RNA ligase 1)	395	0.0
+D1L2U8	Klebsiella phage KP32 (Bacteriophage KP32)	674082		Endolysin (EC 3.5.1.28) (Gene product 15) (gp15) (N-acetylmuramoyl-L-alanine amidase)	151	0.0
+D1L302	Klebsiella phage KP34 (Bacteriophage KP34)	674081		Depolymerase, capsule K63-specific (DepoKP34) (Gene product 57) (gp57) (KP34gp57) (Probable tail spike protein)	630	0.0
+E1XTK6	Salmonella phage ViI	1987993		Serinyltransferase (Amino acid:DNA transferase) (AADT) (gp247)	411	0.0
+F8SJR0	Pseudomonas phage PhiPA3 (Pseudomonas aeruginosa phage PhiPA3)	998086		Phage tubulin-like protein (PhuZ) (EC 3.6.5.-) (Phage tubulin/FtsZ) (Tubulin-like protein TubZ)	315	0.0
+H9C181	Pectobacterium phage ZF40 (Bacteriophage ZF40)	1127516		Anti-CRISPR protein AcrF8 (AcrIF8)	92	0.0
+I7K316	Yersinia phage phiR1-RT	1206558		Anti-CBASS protein Acb1 (Acb1) (Gene product 142) (gp142)	153	0.0
+O48472	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Putative antiholin	82	0.0
+O48500	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase)	148	0.0
+O64205	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Endolysin B (Gene 12 protein) (Gp12) (Mycolylarabinogalactan esterase) (EC 3.1.-.-)	254	0.0
+O64332	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail tip protein L (Gene product 18) (gp18)	251	0.0
+P03616	Pseudomonas phage PRR1 (Bacteriophage PRR1)	12024		Capsid protein (CP) (Coat protein)	131	0.0
+P03627	Pseudomonas phage Pf3 (Bacteriophage Pf3)	10872		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	278	0.0
+P03643	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Major spike protein G (G protein) (GPG)	175	0.0
+P03655	Enterobacteria phage fd (Bacteriophage fd)	2847073		Gene 1 protein (G1P) (pI)	348	0.0
+P03658	Salmonella phage IKe (Bacteriophage IKe)	10867		Gene 1 protein (G1P) (pI)	365	0.0
+P03667	Salmonella phage IKe (Bacteriophage IKe)	10867		Virion export protein (Gene 4 protein) (G4P)	437	0.0
+P03689	Escherichia phage lambda (Bacteriophage lambda)	2681611		Helicase loader (Lambda P helicase loader) (Replication protein P)	233	0.0
+P03709	Escherichia phage lambda (Bacteriophage lambda)	2681611		DNA-packaging protein FI	132	0.0
+P03725	Escherichia phage T7 (Bacteriophage T7)	10760		Internal virion protein gp15 (Gene product 15) (Gp15)	747	0.0
+P03728	Escherichia phage T7 (Bacteriophage T7)	10760		Portal protein (Gene product 8) (Gp8) (Head-to-tail connector)	536	0.0
+P03764	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail fiber protein (stf) (Gene product 27) (gp27)	774	0.0
+P04382	Enterobacteria phage T4 (Bacteriophage T4)	10665		Dihydrofolate reductase (DHFR) (EC 1.5.1.3)	193	0.0
+P04527	Enterobacteria phage T4 (Bacteriophage T4)	10665		Sliding-clamp-loader small subunit (Clamp loader gp62 subunit) (Gene product 62) (gp62)	187	0.0
+P06155	Enterobacteria phage phi80 (Bacteriophage phi-80)	10713		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	402	0.0
+P06950	Bacillus phage PZA (Bacteriophage PZA)	10757		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 2) (gp2) (Protein p2)	572	0.0
+P06955	Bacillus phage PZA (Bacteriophage PZA)	10757		Histone-like protein p6 (Double-stranded DNA-binding protein) (Double-stranded DNA-binding protein p6) (Gene product 6) (gp6) (Histone-like binding protein) (Nucleoid-associated protein p6) (Protein p6)	96	0.0
+P07538	Bacillus phage PZA (Bacteriophage PZA)	10757		Morphogenesis protein 1 (Gene product 13) (gp13) (Protein p13) [Includes: Lysozyme-like glycosidase (EC 3.2.1.-); Probable metalloendopeptidase (EC 3.4.-.-)]	365	0.0
+P07539	Bacillus phage PZA (Bacteriophage PZA)	10757		Antiholin (Gene product 14) (gp14) (Lysis inhibitor 14-131) (Protein p14) [Includes: Holin (Lysis protein 14-129)]	131	0.0
+P07659	Enterobacteria phage T3 (Bacteriophage T3)	10759		DNA-directed RNA polymerase (EC 2.7.7.6)	884	0.0
+P08233	Enterobacteria phage Ox2 (Bacteriophage Ox2)	10691		Receptor-recognizing protein gp38 (Gene product 38) (gp38) (Long tail fiber adhesin)	266	0.0
+P08386	Bacillus phage PZA (Bacteriophage PZA)	10757		DNA replication protein 16.7 (Gene product 16.7) (gp16.7) (Protein p16.7)	130	0.0
+P0DOE3	Bacillus phage phi3T (Bacteriophage phi-3T)	10736		AimR transcriptional regulator (Arbitrium communication peptide receptor)	378	0.0
+P0DTK3	Pseudomonas phage M6	2911432		Deoxyuridylate hydroxymethyltransferase (Deoxyuridylate hydroxymethylase) (EC 2.1.2.-) (dUMP hydroxymethylase) (dUMP-HMase) (gp58)	351	0.0
+P0DW57	Bacillus phage SBSphiJ7	2930344		Thoeris anti-defense 1 (Tad1)	142	0.0
+P11128	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Fusion protein P6	168	0.0
+P13338	Enterobacteria phage T4 (Bacteriophage T4)	10665		Late transcription coactivator (Gene product 33) (gp33) (RNA polymerase-associated protein Gp33)	112	0.0
+P15415	Enterobacteria phage I2-2 (Bacteriophage I2-2)	10869		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	434	0.0
+P15416	Enterobacteria phage I2-2 (Bacteriophage I2-2)	10869		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (Major coat protein) (pVIII)	84	0.0
+P16011	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate wedge protein gp53 (Gene product 53) (gp53)	196	0.0
+P16407	Escherichia phage HK022 (Bacteriophage HK022)	10742		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	357	0.0
+P19088	Enterobacteria phage T6 (Bacteriophage T6)	10666		DNA ligase (EC 6.5.1.1) (Polydeoxyribonucleotide synthase [ATP])	487	0.0
+P19727	Escherichia phage T7 (Bacteriophage T7)	10760		Minor capsid protein (Gene product 10B) (Gp10B) (Minor head protein)	398	0.0
+P19728	Enterobacteria phage T3 (Bacteriophage T3)	10759		Minor capsid protein (Gene product 10B) (Gp10B) (Minor head protein)	433	0.0
+P20311	Enterobacteria phage T3 (Bacteriophage T3)	10759		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 5) (Gp5)	704	0.0
+P25129	Pseudomonas phage Pf1 (Bacteriophage Pf1)	2011081		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	437	0.0
+P25131	Pseudomonas phage Pf1 (Bacteriophage Pf1)	2011081		Putative Gene 1 protein (G1P) (Protein PftO) (pI)	424	0.0
+P27381	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		DNA packaging ATPase P9 (Protein P9)	227	0.0
+P27753	Escherichia phage P1 (Bacteriophage P1)	2886926		Probable terminase, large subunit (EC 3.1.-.-) (DNA-packaging protein B) (PACase B protein) (Terminase B protein) (Terminase large subunit)	494	0.0
+P31278	Escherichia phage alpha3 (Bacteriophage alpha-3)	10849		Internal scaffolding protein B (EC 3.4.-.-) (Scaffolding protein B) (GPB)	117	0.0
+P39234	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate puncturing device gp5.4 (Gene product 5.4) (gp5.4)	97	0.0
+P51715	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		DNA N-6-adenine-methyltransferase (DAM) (EC 2.1.1.72) (ORF13) (Orphan methyltransferase M.HinHP1Dam) (M.HinHP1Dam)	173	0.0
+P51728	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	186	0.0
+P68802	Staphylococcus phage S phi-C (Bacteriophage S phi-C)	10721		Staphylokinase (Neutral proteinase) (Protease III) (SakSTAR)	163	0.0
+P68920	Escherichia phage 933W (Bacteriophage 933W)	10730		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	177	0.0
+P69547	Enterobacteria phage M13 (Bacteriophage M13)	1977402		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	410	0.0
+Q01074	Salmonella phage P22 (Bacteriophage P22)	10754		Internal virion protein gp7 (Ejection protein gp7) (E protein gp7)	229	0.0
+Q01267	Escherichia phage Mu (Bacteriophage Mu)	2681603		Protease I (Gene product 32) (gp32) (Gene product I) (gpI)	361	0.0
+Q0QZ08	Synechococcus phage syn9	382359		Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	351	0.0
+Q331T6	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		DNA-binding protein TubR (Centromere-binding protein) (CBP)	81	0.0
+Q331T8	Clostridium botulinum C phage (Clostridium botulinum C bacteriophage)	12336		Regulator protein TubY	239	0.0
+Q37883	Bacillus phage B103 (Bacteriophage B103)	2994042		DNA terminal protein (Gene product 3) (gp3) (Protein p3)	266	0.0
+Q37893	Bacillus phage B103 (Bacteriophage B103)	2994042		Pre-neck appendage protein (Gene product 12) (gp12) (Late protein GP12) (NP1) (Protein p12)	860	0.0
+Q37894	Bacillus phage B103 (Bacteriophage B103)	2994042		Morphogenesis protein 1 (Late protein GP13) [Includes: Lysozyme-like glycosidase (EC 3.2.1.-); Probable metalloendopeptidase (EC 3.4.-.-)]	365	0.0
+Q37972	Xanthomonas phage phiLf (Bacteriophage phi-Lf)	28365		Attachment protein G3P (Gene 3 protein) (G3P) (Minor coat protein) (pIII)	367	0.0
+Q38067	Pseudomonas phage Pf1 (Bacteriophage Pf1)	2011081		Putative integrase	333	0.0
+Q38621	Escherichia phage Mu (Bacteriophage Mu)	2681603		Translational activator com (Gene product 54) (gp54) (Gene product com) (gpCom)	62	0.0
+Q3ZFI3	Enterobacteria phage K11 (Bacteriophage K11)	532077		Endolysin (EC 3.5.1.28) (Gene product 3.5) (gp3.5) (N-acetylmuramoyl-L-alanine amidase)	151	0.0
+Q6H956	Synechococcus phage S-RSM2	264653		Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	351	0.0
+Q6QGE8	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Distal tail protein pb9 (DTP-pb9) (Dit) (Tail protein pb9)	204	0.0
+Q6QGH9	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Putative replication origin binding protein (D2 helicase)	928	0.0
+Q6QGS2	Escherichia phage T5 (Enterobacteria phage T5)	2695836		DNA-(apurinic or apyrimidinic site) endonuclease (EC 3.1.-.-) (AP endonuclease) (Apurinic-apyrimidinic endonuclease) (Protein 015)	114	0.0
+Q6WHI1	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Anti-CBASS protein Acb1 (Acb1) (Gene product 57B) (gp57B)	151	0.0
+Q6WI70	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 43) (Gp43)	850	0.0
+Q775D6	Bordetella phage BPP-1	2885909		Tail fiber receptor-binding protein (Major tropism determinant protein)	381	0.0
+Q7Y2C9	Pseudomonas phage phiKMV	204270		Peptidoglycan hydrolase gp36 (EC 3.2.1.17) (Gene product 36) (Gp36)	898	0.0
+Q9MBY2	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Head completion protein gp6 (Connector protein gp6) (Gene product 6) (Gp6)	108	0.0
+Q9T1U9	Escherichia phage Mu (Bacteriophage Mu)	2681603		Tail fiber assembly protein U (Gene product 50) (gp50) (Gene product U) (gpU)	175	0.0
+Q9T1V2	Escherichia phage Mu (Bacteriophage Mu)	2681603		Baseplate protein gp47 (Gene product 47) (gp47) (Gene product W) (gpW)	360	0.0
+Q9T1V3	Escherichia phage Mu (Bacteriophage Mu)	2681603		Baseplate protein gp46 (Gene product 46) (gp46) (Gene product V) (gpV)	145	0.0
+A0A142F121	Klebsiella phage KpV71 (Bacteriophage KpV71)	1796998		Depolymerase, capsule K1-specific (EC 4.-.-.-) (Dep_kpv71) (Gene product 52) (gp52) (Probable tail spike protein)	651	0.0
+A0A2H5BHJ5	Acinetobacter phage SH-Ab 15497	2060946		DNA polymerase DpoZ	624	0.0
+D3KFX4	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Baseplate protein gp16 (Gene product 16) (Gp16) (Tail-associated lysine-like protein)	375	0.0
+D9ICP2	Escherichia phage RB16	2681599		Anti-CBASS protein Acb1 (Acb1) (Gene product 57B) (gp57B)	173	0.0
+E3SEW0	Shigella phage SP18	645664		Anti-CBASS protein Acb1 (Acb1) (Gene product 57B) (gp57B)	151	0.0
+O21970	Escherichia phage P1 (Bacteriophage P1)	2886926		Defense against restriction protein A (DarA)	639	0.0
+O64131	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Abasic site processing protein YoqW (EC 4.-.-.-) (Peptidase YoqW) (EC 3.4.-.-)	224	0.0
+O64174	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Ribonucleoside-diphosphate reductase subunit beta (EC 1.17.4.1) (Ribonucleotide reductase small subunit)	329	0.0
+O64203	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Endolysin A (EC 3.-.-.-) (Gene 10 protein) (Gp10) (Lysis protein) (Lysozyme)	493	0.0
+O64328	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail assembly protein G (Gene product 14) (gp14) (Gene product G) (gpG) (Minor tail protein G) (Tail assembly chaperone) (TAC)	140	0.0
+P00476	Bacillus phage SPR (Bacteriophage SPR)	10725		Orphan methyltransferase M.SPRI (M.SPRI) (EC 2.1.1.37) (Cytosine-specific methyltransferase SPRI) (Modification methylase SPRI)	439	0.0
+P03619	Escherichia phage If1 (Bacteriophage If1)	10868		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (Major coat protein) (pVIII)	74	0.0
+P03702	Escherichia phage lambda (Bacteriophage lambda)	2681611		Host-nuclease inhibitor protein gam	138	0.0
+P03713	Escherichia phage lambda (Bacteriophage lambda)	2681611		Major capsid protein (Gene product E) (gpE) (Major head protein)	341	0.0
+P03735	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail assembly protein GT (Gene product 15) (gp15) (Gene product GT) (gpGT) (Minor tail protein GT)	279	0.0
+P03742	Enterobacteria phage T4 (Bacteriophage T4)	10665		Long-tail fiber protein gp35 (Gene product 35) (gp35)	372	0.0
+P04890	Salmonella phage P22 (Bacteriophage P22)	10754		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	387	0.0
+P06023	Escherichia phage Mu (Bacteriophage Mu)	2681603		Putative DNA ends protecting protein gam (Gene product 10) (gp10)	174	0.0
+P06723	Escherichia phage 186 (Bacteriophage 186)	29252		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	336	0.0
+P07929	Enterobacteria phage S13 (Bacteriophage S13)	10844		Internal scaffolding protein B (EC 3.4.-.-) (Scaffolding protein B) (GPB)	120	0.0
+P08794	Escherichia phage D108 (Bacteriophage D108)	665033		Methylcarbamoylase mom (Adenine modification enzyme mom) (Gene product mom) (gpMom) (Modification of Mu) (Mom)	245	0.0
+P09035	Enterobacteria phage T2 (Bacteriophage T2)	2060721		Single-stranded DNA-binding protein (SSB protein) (Gp32) (Helix-destabilizing protein)	302	0.0
+P09962	Salmonella phage P22 (Bacteriophage P22)	10754		Antiholin (Lysis inhibitor 13-108)	108	0.0
+P09963	Salmonella phage P22 (Bacteriophage P22)	10754		Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase)	146	0.0
+P0DJY6	Escherichia phage Mu (Bacteriophage Mu)	2681603		Tail fiber protein S' (Gene product S') (gpS')	328	0.0
+P0DOK7	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Spanin, outer lipoprotein subunit (o-spanin) (Lysis protein Rz1) (Outer membrane lipoprotein Rz1)	62	0.0
+P0DTK4	Pseudomonas phage M6	2911432		DNA-directed DNA polymerase (EC 2.7.7.7)	664	0.0
+P0DTL0	Bacillus phage SBSphiJ	2045370		Anti-Pycsar protein Apyc1 (Apyc1)	257	0.0
+P10927	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate protein gp9 (Gene product 9) (gp9)	288	0.0
+P11112	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tail completion protein gp15 (Gene product 15) (gp15) (Tail connector protein 15) (Tail terminator protein)	272	0.0
+P13341	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate tail-tube junction protein gp54 (Gene product 54) (gp54)	320	0.0
+P15853	Bacillus phage phi15 (Bacteriophage phi-15)	10755		DNA replication protein 16.7 (Gene product 16.7) (gp16.7) (Protein p16.7)	130	0.0
+P17309	Enterobacteria phage T4 (Bacteriophage T4)	10665		Lysis inhibition accessory protein (Protein rIII)	82	0.0
+P17311	Enterobacteria phage T4 (Bacteriophage T4)	10665		Terminase, small subunit (Gene product 16) (gp16) (Packaging protein Gp16)	164	0.0
+P18147	Enterobacteria phage K11 (Bacteriophage K11)	532077		DNA-directed RNA polymerase (EC 2.7.7.6)	906	0.0
+P19386	Streptococcus phage Cp-9 (Bacteriophage Cp-9)	10749		Lysozyme (EC 3.2.1.17) (CP-9 lysin) (Endolysin) (Muramidase)	339	0.0
+P21442	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	337	0.0
+P23207	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Receptor-binding protein pb5 (RBP-pb5) (Tail protein pb5)	640	0.0
+P23541	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Protein A2	135	0.0
+P26746	Salmonella phage P22 (Bacteriophage P22)	10754		Head-to-tail adapter gp4 (Gene product 4) (Gp4) (Internal virion protein gp4) (Peptidoglycan hydrolase gp4)	166	0.0
+P27078	Enterobacteria phage 434 (Bacteriophage 434)	10712		Integrase (EC 2.7.7.-) (EC 3.1.-.-)	356	0.0
+P27358	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Spanin, inner membrane subunit (i-spanin) (Lysis protein Rz)	153	0.0
+P27359	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Lysis protein) (Lysozyme) (Muramidase)	165	0.0
+P27391	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Minor capsid protein P30 (Protein P) (GpP)	84	0.0
+P31654	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Deoxyuridylate hydroxymethyltransferase (Deoxyuridylate hydroxymethylase) (EC 2.1.2.-) (Gp29) (dUMP hydroxymethylase) (dUMP-HMase)	383	0.0
+P32270	Enterobacteria phage T4 (Bacteriophage T4)	10665		ATP-dependent DNA helicase dda (EC 5.6.2.3) (DNA 5'-3' helicase Dda)	439	0.0
+P39230	Enterobacteria phage T4 (Bacteriophage T4)	10665		Protein spackle	97	0.0
+P39232	Enterobacteria phage T4 (Bacteriophage T4)	10665		Antitoxin Dmd	60	0.0
+P51771	Escherichia phage P2 (Bacteriophage P2)	2905681		Endolysin (EC 4.2.2.n2) (Lysis protein) (Lysozyme) (Protein gpK) (Transglycosylase)	165	0.0
+P68580	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Sublancin-168-processing and transport ATP-binding protein sunT (EC 3.4.22.-) (EC 7.-.-.-)	705	0.0
+P68586	Bacillus phage phi3T (Bacteriophage phi-3T)	10736		Orphan methyltransferase M.Phi3TI (M.Phi3TI) (EC 2.1.1.37) (Cytosine-specific methyltransferase Phi3TI) (Modification methylase Phi3TI)	443	0.0
+P69486	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		External scaffolding protein D (Scaffolding protein D) (GPD)	152	0.0
+P69541	Enterobacteria phage M13 (Bacteriophage M13)	1977402		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (M13 procoat) (Major coat protein) (pVIII)	73	0.0
+Q02582	Escherichia phage HK022 (Bacteriophage HK022)	10742		Antitermination protein Q	207	0.0
+Q37882	Bacillus phage B103 (Bacteriophage B103)	2994042		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (Gene product 2) (gp2) (Protein p2)	572	0.0
+Q37895	Bacillus phage B103 (Bacteriophage B103)	2994042		Antiholin (Gene product 14) (gp14) (Protein p14) [Includes: Holin]	132	0.0
+Q38042	Enterobacteria phage phiK (Bacteriophage phi-K)	10848		Major spike protein G (G protein) (GPG)	187	0.0
+Q38617	Xanthomonas phage phiLf (Bacteriophage phi-Lf)	28365		Replication-associated protein G2P (Rep) (EC 3.1.21.-) (EC 6.5.1.1) (G2P) (Gene 2 protein)	346	0.0
+Q6JM09	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		SSB protein (Gene product 34) (Gp34) (Single-stranded DNA binding protein)	119	0.0
+Q6QGT3	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Protein A1	556	0.0
+Q7Y2C0	Pseudomonas phage phiKMV	204270		SAR-endolysin (EC 3.2.1.17) (Endolysin) (Gene product 45) (gp45) (KMV45) (Lysis protein) (Lysozyme) (Muramidase)	160	0.0
+Q7Y4H2	Synechococcus phage S-PM2	238854		Photosystem II D2 protein (PSII D2 protein) (EC 1.10.3.9) (Photosystem Q(A) protein)	353	0.0
+Q9MCT0	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Head completion protein gp7 (Connector protein gp7) (Gene product 7) (Gp7) (Stopper protein gp7)	112	0.0
+Q9T1Q3	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Probable DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (P45)	993	0.0
+Q9T1W6	Escherichia phage Mu (Bacteriophage Mu)	2681603		Probable terminase, large subunit gp28 (EC 3.1.-.-) (Gene product 28) (gp28) (Gene product E) (gpE) (Pacase, large subunit) (Packaging protein E)	551	0.0
+A0A1L4BKP6	Thermus phage G20c (Thermus thermophilus phage G20c)	1406341		Terminase, small subunit (DNA-packaging protein gp79) (Gene product 79) (gp79)	171	0.0
+A0A385DTC5	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Head fiber trimeric protein (Capsid fiber trimeric protein) (Gene product 21) (gp21)	97	0.0
+A0A385DVU6	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Major capsid protein (MCP) (Gene product 32) (gp32)	504	0.0
+A0A3S5IBH4	Klebsiella phage KN1-1 (Bacteriophage KN1-1)	2282629		Depolymerase, capsule KN1-specific (KN1dep) (Probable tail spike protein)	820	0.0
+A0A3T0ZBZ8	Klebsiella phage KN4-1 (Bacteriophage KN4-1)	2282631		Depolymerase, capsule KN4-specific (KN4dep) (Probable tail spike protein)	850	0.0
+A0A516KNH9	Bacillus phage vB_BveM-Goe7	2593639		Anti-Pycsar protein Apyc1 (Apyc1)	259	0.0
+A0A7U3TBV3	Cyanophage S-2L (Cyanobacteria phage S-2L)	260586		dATP/dGTP diphosphohydrolase (EC 3.6.1.9) (dATP/dGTP pyrophosphohydrolase)	105	0.0
+A0AAE9G628	Bacillus phage SPR (Bacteriophage SPR)	10725		Tail tube protein	264	0.0
+A7XXB6	Thermus virus P23-45 (Thermus thermophilus phage P23-45)	2914006		Terminase, small subunit (DNA-packaging protein gp84) (Gene product 84) (gp84)	171	0.0
+A8E264	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Probable portal protein	574	0.0
+A9CRA7	Staphylococcus phage phiMR11	379501		Major capsid protein (Gene product 44) (gp44) (Major head protein)	274	0.0
+B6UL32	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		SaV protein (Gene product 26) (Gp26)	128	0.0
+B6V2P4	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Tail sheath protein (TSP)	571	0.0
+C9DG08	Delftia phage PhiW-14 (Deftia acidovorans bacteriophage phiW-14)	665032		5-hmdU DNA kinase (5-hydroxymethyluracil DNA kinase) (P-loop kinase) (gp37)	261	0.0
+O03978	Pneumococcus phage Dp-1 (Bacteriophage Dp-1)	59241		Holin	74	0.0
+O21877	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Probable head completion protein 2 (Connector protein gp9) (Gene product 9) (gp9) (Putative stopper protein gp9) (Stopper protein gp9)	112	0.0
+O21878	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Probable tail terminator protein (Gene product 10) (gp10)	121	0.0
+O21880	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Chaperone protein gp12 (Gene product 12) (gp12) (Probable chaperone protein gp12)	91	0.0
+O21883	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Distal tail protein (Dit) (Gene product 15) (Gp15)	298	0.0
+O22008	Shigella phage SfV (Shigella flexneri bacteriophage V) (Bacteriophage SfV)	55884		Bactoprenol-linked glucose translocase (Flippase)	120	0.0
+O64076	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		DNA-directed RNA polymerase YonO (EC 2.7.7.6) (DNA-dependent RNA polymerase YonO)	839	0.0
+O64209	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Probable capsid assembly scaffolding protein (Gene product 16) (gp16) (Head morphogenesis protein) (Scaffold protein)	173	0.0
+O64252	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Putative non-heme haloperoxidase (EC 1.11.1.-)	278	0.0
+O64313	Escherichia phage P2 (Bacteriophage P2)	2905681		Tail assembly protein E (Gene product E) (gpE) (Tail assembly chaperone) (TAC)	91	0.0
+O64322	Escherichia phage N15 (Bacteriophage N15)	1604876		Major capsid protein (Gene product 8) (Major head protein)	341	0.0
+O64326	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail tube terminator protein (TrP) (Gene product 12) (gp12) (Tail-to-head joining protein) (THJP)	132	0.0
+O64331	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail tip protein M (Gene product 17) (gp17)	115	0.0
+O64334	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail tip assembly protein I (Gene product 20) (gp20)	192	0.0
+O80294	Escherichia phage If1 (Bacteriophage If1)	10868		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	96	0.0
+P00638	Escherichia phage T7 (Bacteriophage T7)	10760		Exonuclease (Exonuclease gp6) (Gene product 6) (Gp6) (EC 3.1.11.3)	300	0.0
+P03043	Enterobacteria phage 434 (Bacteriophage 434)	10712		Regulatory protein CII	97	0.0
+P03044	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protease inhibitor III	54	0.0
+P03625	Pseudomonas phage Pf3 (Bacteriophage Pf3)	10872		Head virion protein G6P (Coat protein D) (G6P) (pVI)	93	0.0
+P03644	Escherichia phage G4 (Bacteriophage G4)	10843		Major spike protein G (G protein) (GPG)	177	0.0
+P03670	Salmonella phage IKe (Bacteriophage IKe)	10867		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	88	0.0
+P03704	Escherichia phage T7 (Bacteriophage T7)	10760		Bacterial RNA polymerase inhibitor (Gene product 2) (Gp2)	64	0.0
+P03737	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail tip protein M	109	0.0
+P03740	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail fiber assembly protein	194	0.0
+P03802	Escherichia phage T7 (Bacteriophage T7)	10760		Holin (Gene product 17.5) (Gp17.5)	67	0.0
+P05460	Enterobacteria phage P4 (Bacteriophage P4)	10680		Polarity suppression protein (Amber mutation-suppressing protein)	190	0.0
+P05481	Enterobacteria phage phi80 (Bacteriophage phi-80)	10713		Major capsid protein (Gene product 5) (Gene product E) (Major head protein)	341	0.0
+P06948	Bacillus phage PZA (Bacteriophage PZA)	10757		Protein p56	56	0.0
+P06949	Bacillus phage PZA (Bacteriophage PZA)	10757		DNA replication protein 1 (Gene product 1C) (gp1C)	97	0.0
+P06952	Bacillus phage PZA (Bacteriophage PZA)	10757		Late genes activator p4 (Gene product 4) (gp4) (Protein p4)	125	0.0
+P07393	Enterobacteria phage GA (Bacteriophage GA)	12018		RNA-directed RNA polymerase beta chain (EC 2.7.7.48) (RNA replicase beta chain)	532	0.0
+P07394	Enterobacteria phage GA (Bacteriophage GA)	12018		Maturation protein A (MP) (Assembly protein) (A protein)	390	0.0
+P07531	Bacillus phage PZA (Bacteriophage PZA)	10757		Major capsid protein (Gene product 8) (gp8) (Major head protein) (Protein p8)	448	0.0
+P07533	Bacillus phage PZA (Bacteriophage PZA)	10757		Capsid assembly scaffolding protein (Gene product 7) (gp7) (Head morphogenesis protein) (Protein p7) (Scaffold protein)	98	0.0
+P07695	Escherichia phage P2 (Bacteriophage P2)	2905681		Regulatory protein cox	91	0.0
+P07875	Enterobacteria phage T2 (Bacteriophage T2)	2060721		Receptor-recognizing protein gp38 (Gene product 38) (gp38) (Long tail fiber adhesin)	262	0.0
+P07879	Enterobacteria phage T4 (Bacteriophage T4)	10665		15 kDa RNA polymerase-binding protein (P15k)	129	0.0
+P07932	Enterobacteria phage S13 (Bacteriophage S13)	10844		Major spike protein G (G protein) (GPG)	175	0.0
+P07933	Enterobacteria phage S13 (Bacteriophage S13)	10844		Minor spike protein (H protein) (Pilot protein)	328	0.0
+P08389	Bacillus phage PZA (Bacteriophage PZA)	10757		DNA replication protein 17 (Gene product 17) (gp17) (Protein p17)	174	0.0
+P08795	Escherichia phage D108 (Bacteriophage D108)	665033		D108-specific protein (12 kDa protein)	148	0.0
+P0DJZ3	Pseudomonas phage phiKMV	204270		Probable spanin, outer lipoprotein subunit	89	0.0
+P10305	Enterobacteria phage T3 (Bacteriophage T3)	10759		Spanin, inner membrane subunit (i-spanin) (Gene product 18.5) (Gp18.5)	147	0.0
+P10308	Enterobacteria phage T3 (Bacteriophage T3)	10759		Tail fiber protein (Gene product 17) (Gp17) (Tail fiber protein gp17)	557	0.0
+P13302	Enterobacteria phage T4 (Bacteriophage T4)	10665		Internal protein III (IpIII)	193	0.0
+P13310	Enterobacteria phage T4 (Bacteriophage T4)	10665		Valyl--tRNA ligase modifier (Phage factor tau) (Tau peptide)	115	0.0
+P13320	Enterobacteria phage T4 (Bacteriophage T4)	10665		Double-stranded DNA-binding protein (DsDNA-binding protein A)	89	0.0
+P13870	Enterobacteria phage 82 (Bacteriophage 82)	10705		Antitermination protein Q	229	0.0
+P14113	Salmonella phage P22 (Bacteriophage P22)	10754		Restriction inhibitor protein ral (Antirestriction protein)	64	0.0
+P15556	Enterobacteria phage T4 (Bacteriophage T4)	10665		Nucleoid disruption protein	151	0.0
+P15794	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Major capsid protein P2 (Protein II)	269	0.0
+P15850	Bacillus phage phi15 (Bacteriophage phi-15)	10755		DNA replication protein 17 (Gene product 17) (gp17) (Protein p17)	153	0.0
+P17637	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Single-stranded DNA-binding protein (Protein P12)	160	0.0
+P19189	Chlamydia phage 1 (Bacteriophage Chp1)	2003327		Replication-associated protein ORF4 (EC 3.1.21.-) (EC 6.5.1.1) (Rep)	399	0.0
+P19193	Chlamydia phage 1 (Bacteriophage Chp1)	2003327		Minor spike protein H (H protein) (Pilot protein) (Protein VP2) (VP2)	263	0.0
+P21679	Escherichia phage 186 (Bacteriophage 186)	29252		Probable baseplate hub protein (Gene D protein) (GpD) (Late control gene D protein)	389	0.0
+P25475	Escherichia phage P2 (Bacteriophage P2)	2905681		Head completion/stabilization protein (GpL)	169	0.0
+P27392	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Protein P16 (GpS) (Protein S)	117	0.0
+P28813	Escherichia phage P1 (Bacteriophage P1)	2886926		Terminase A protein (DNA-packaging protein A) (PACase A protein)	397	0.0
+P32276	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anti-DarT factor NADAR (ADP-ribosylglycohydrolase AdfN) (EC 3.2.2.-) (Uncharacterized 17.1 kDa protein in Gp30-rIII intergenic region)	152	0.0
+P39510	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anti-restriction endonuclease (Anti-rgl nuclease)	92	0.0
+P51704	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Repressor protein CI	191	0.0
+P51772	Escherichia phage P2 (Bacteriophage P2)	2905681		Baseplate protein X (Gene X protein) (GpX)	67	0.0
+P57022	Salmonella phage P22 (Bacteriophage P22)	10754		Bactoprenol glucosyl transferase (EC 2.4.1.-)	310	0.0
+P68650	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Major capsid protein (Gene product 7) (Gene product E) (gpE) (Major head protein)	342	0.0
+P68654	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Terminase, small subunit (Gp1)	182	0.0
+P68662	Enterobacteria phage 82 (Bacteriophage 82)	10705		Putative nuclease ybcO (EC 3.1.-.-)	96	0.0
+P68924	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein rexA	279	0.0
+P69170	Enterobacteria phage R17 (Bacteriophage R17)	12026		Capsid protein (CP) (Coat protein)	129	0.0
+P69702	Enterobacteria phage T4 (Bacteriophage T4)	10665		Translation repressor protein	122	0.0
+P79677	Escherichia phage Mu (Bacteriophage Mu)	2681603		Putative sheath terminator protein (Gene product 38) (gp38)	67	0.0
+P85225	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Putative tail sheath protein	569	0.0
+P85227	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Virion protein 3 (Gene product 40) (gp40)	181	0.0
+P85228	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Virion protein 4	147	0.0
+P85989	Serratia phage KSP90 (Serratia marcescens bacteriophage KSP90)	552528		Major capsid protein (Virion protein D)	441	0.0
+P85991	Serratia phage KSP90 (Serratia marcescens bacteriophage KSP90)	552528		Ig-like virion protein (Virion protein E)	258	0.0
+Q05223	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Probable major capsid protein gp17 (Gene product 17) (gp17) (Major head protein gp17)	326	0.0
+Q05231	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Tail assembly protein Gp24 (Gene product 24) (Gp24) (Minor tail protein Gp24)	132	0.0
+Q05328	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Endolysin B (Gene 12 protein) (Gp12) (Mycolylarabinogalactan esterase) (EC 3.1.-.-)	254	0.0
+Q37884	Bacillus phage B103 (Bacteriophage B103)	2994042		Late genes activator (Early protein GP4)	125	0.0
+Q37885	Bacillus phage B103 (Bacteriophage B103)	2994042		Single-stranded DNA-binding protein (SSB) (Gene product 5) (gp5) (Protein p5)	122	0.0
+Q37890	Bacillus phage B103 (Bacteriophage B103)	2994042		Tail knob protein gp9 (Distal tube protein) (Gene product 9) (gp9) (Protein p9)	598	0.0
+Q37891	Bacillus phage B103 (Bacteriophage B103)	2994042		Portal protein (Gene product 10) (gp10) (Head-to-tail connector) (Upper collar protein)	308	0.0
+Q37993	Streptococcus phage Cp-1 (Bacteriophage Cp-1)	10747		Major capsid protein (Gene product 9) (gp9) (Major head protein)	365	0.0
+Q38167	Escherichia phage T5 (Enterobacteria phage T5)	2695836		5'-deoxynucleotidase (EC 3.1.3.89) (Deoxynucleoside-5'-monophosphatase) (5'-dNMPase) (Protein dmp)	244	0.0
+Q38492	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp14 (E15) (Gene product 14) (gp14)	100	0.0
+Q38580	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Capsid assembly scaffolding protein (Gene product 11) (Gp11) (Head morphogenesis protein) (Scaffold protein)	214	0.0
+Q38584	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Head completion protein gp15 (HCP) (Connector protein gp15) (Gene product 15) (Gp15)	102	0.0
+Q4Z971	Staphylococcus phage Twort (strain DSM 17442 / HER 48) (Bacteriophage Twort)	2908167		Gene product 168 (gp168)	74	0.0
+Q58MU6	Prochlorococcus phage P-SSM2	268746		Phycoerythrobilin synthase (EC 1.3.7.6) ((3Z)-phycoerythrobilin:ferredoxin oxidoreductase)	233	0.0
+Q6QGE0	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Tail completion protein p143 (Tail protein p143)	255	0.0
+Q6QGF0	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Straight fiber protein pb4 (pb4) (Tail protein pb4)	688	0.0
+Q6QGM3	Escherichia phage T5 (Enterobacteria phage T5)	2695836		H-N-H endonuclease F-TflI (EC 3.1.21.-) (HNH endodeoxyribonuclease F-TflI) (HNH endonuclease F-TflI)	194	0.0
+Q6WHH0	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Probable baseplate hub protein gp334	423	0.0
+Q6WI88	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Capsid vertex protein (Gene product 24) (gp24)	298	0.0
+Q853F7	Mycobacterium phage Bxz1 (Mycobacteriophage Bxz1)	205877		Tail sheath protein (TSP) (Gene product 124) (gp124)	581	0.0
+Q9T1S4	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Major capsid protein (Gene product 24) (gp24) (Major head protein)	423	0.0
+Q9T1W7	Escherichia phage Mu (Bacteriophage Mu)	2681603		Probable terminase, small subunit gp27 (Gene product 27) (gp27) (Gene product D) (gpD) (Pacase, small subunit) (Packaging protein D)	191	0.0
+Q9XJG4	Escherichia phage P1 (Bacteriophage P1)	2886926		Single-stranded DNA-binding protein (SSB-P1)	162	0.0
+Q9XJR1	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Protein P6 (Protein VI)	127	0.0
+Q9XJR5	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Protein P8 (Protein VIII)	75	0.0
+Q9XJS3	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Probable replication protein P12 (EC 3.1.-.-) (Protein XII)	634	0.0
+A0A0S0N8M3	Pseudomonas phage PaMx11	1175657		Flavin-dependent lyase (gp47)	286	0.0
+A0A2L0V161	Salmonella phage PMBT28	2081904		dATP/dGTP diphosphohydrolase (EC 3.6.1.9) (dATP/dGTP pyrophosphohydrolase)	290	0.0
+A0A385DTA3	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Portal vertex auxiliary protein (Gene product 57) (gp57)	104	0.0
+A0A385DVC3	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Ring protein 4/5 (R4) (Gene product 34) (gp34)	238	0.0
+A0A385DVM6	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Tail hub protein B (THB) (Gene product 39) (gp39)	114	0.0
+A0A385DVT8	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Cargo protein 2 (Gene product 46) (gp46)	534	0.0
+A4ZFA6	Staphylococcus phage 80alpha	53369		Terminase small subunit	146	0.0
+B0ZSF2	Halomonas phage phiHAP-1 (isolate -/Gulf of Mexico/-/2001) (Bacteriophage phiHAP-1)	1283337		Probable portal protein	518	0.0
+B4YNE6	Sputnik virophage	543939		Collagen-like protein V6	310	0.0
+B7SSM6	Bacillus phage Nf (Bacteriophage Nf)	2992639		Double-stranded DNA-binding protein (Gene product 6) (gp6) (Nucleoid-associated protein p6) (Protein p6)	100	0.0
+C9DGK1	Delftia phage PhiW-14 (Deftia acidovorans bacteriophage phiW-14)	665032		Deoxyuridylate hydroxymethyltransferase (Deoxyuridylate hydroxymethylase) (EC 2.1.2.-) (dUMP hydroxymethylase) (dUMP-HMase)	357	0.0
+D3WAC2	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Probable HNH endonuclease (EC 3.1.-.-) (Gene product 3) (gp3)	94	0.0
+D3WAC7	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Probable head completion protein 1 (HCP1) (Connector protein gp8)	104	0.0
+D6RRG1	Pseudomonas phage KPP10 (Bacteriophage KPP10)	582345		Major capsid protein (Gene product 4) (gp4) (Major head protein)	351	0.0
+E1XTG9	Salmonella phage ViI	1987993		Tail sheath protein (TSP)	631	0.0
+O21956	Enterobacteria phage RB18 (Bacteriophage RB18)	10692		Single-stranded DNA-binding protein (Gp32) (Helix-destabilizing protein)	50	0.0
+O21957	Enterobacteria phage RB27 (Bacteriophage RB27)	69609		Single-stranded DNA-binding protein (Gp32) (Helix-destabilizing protein)	50	0.0
+O22001	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Excisionase (Gp36)	56	0.0
+O64094	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		AimR transcriptional regulator (Arbitrium communication peptide receptor) (YopK protein)	386	0.0
+O64319	Escherichia phage N15 (Bacteriophage N15)	1604876		Portal protein [Cleaved into: Protein B*]	530	0.0
+O80164	Escherichia phage RB69 (Bacteriophage RB69)	12353		Sliding clamp (DNA polymerase accessory protein Gp45) (DNA polymerase clamp) (Gene product 45) (gp45)	228	0.0
+P03648	Escherichia phage St-1 (Bacteriophage St-1)	10845		Minor spike protein (H protein) (Pilot protein)	103	0.0
+P03668	Pseudomonas phage Pf3 (Bacteriophage Pf3)	10872		Putative assembly protein ORF430 (ORF430)	430	0.0
+P03672	Pseudomonas phage Pf3 (Bacteriophage Pf3)	10872		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	78	0.0
+P03674	Salmonella phage IKe (Bacteriophage IKe)	10867		Head virion protein G6P (Coat protein D) (G6P) (pVI)	116	0.0
+P03683	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Gene product 5.5 (gp5.5) (Gene product 5B) (gp5B) (Protein p5.5)	66	0.0
+P03693	Escherichia phage T7 (Bacteriophage T7)	10760		Terminase, small subunit gp18 (DNA-packaging protein A) (Gene product 18) (Gp18)	89	0.0
+P03698	Escherichia phage lambda (Bacteriophage lambda)	2681611		Recombination protein bet	261	0.0
+P03718	Enterobacteria phage T4 (Bacteriophage T4)	10665		Internal protein I (IpI)	95	0.0
+P03746	Escherichia phage T7 (Bacteriophage T7)	10760		Tail tubular protein gp11 (Gene product 11) (Gp11)	196	0.0
+P03751	Escherichia phage T7 (Bacteriophage T7)	10760		Protein 7.3 (Gene product 7.3) (Gp7.3)	99	0.0
+P03785	Escherichia phage T7 (Bacteriophage T7)	10760		Inhibitor of toxin/antitoxin system (Gene product 4.5) (Gp4.5)	89	0.0
+P03788	Escherichia phage T7 (Bacteriophage T7)	10760		Spanin, outer lipoprotein subunit (o-spanin) (Gene product 18.7) (Gp18.7) (Protein 18.7)	83	0.0
+P03801	Escherichia phage T7 (Bacteriophage T7)	10760		Protein 6.7 (Gene product 6.7) (Gp6.7)	88	0.0
+P04538	Enterobacteria phage T4 (Bacteriophage T4)	10665		Prohead assembly protein gp68 (Gene product 68) (gp68) [Cleaved into: Protein gp68*]	141	0.0
+P06221	Enterobacteria phage SP6 (Bacteriophage SP6)	2907955		DNA-directed RNA polymerase (EC 2.7.7.6)	874	0.0
+P07234	Enterobacteria phage GA (Bacteriophage GA)	12018		Capsid protein (CP) (Coat protein)	130	0.0
+P07235	Enterobacteria phage phi21 (Bacteriophage phi-21)	10737		Restriction inhibitor protein ral (Antirestriction protein)	76	0.0
+P07534	Bacillus phage PZA (Bacteriophage PZA)	10757		Tail knob protein gp9 (Distal tube protein) (Gene product 9) (gp9) (Protein p9)	599	0.0
+P07541	Bacillus phage PZA (Bacteriophage PZA)	10757		DNA packaging protein (ATPase gp16) (EC 3.6.4.-) (Gene product 16) (gp16) (Protein p16)	332	0.0
+P07579	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Major outer capsid protein (Protein P8)	149	0.0
+P08707	Escherichia phage 186 (Bacteriophage 186)	29252		Repressor protein CI	192	0.0
+P08765	Escherichia phage alpha3 (Bacteriophage alpha-3)	10849		External scaffolding protein D (Scaffolding protein D) (GPD)	150	0.0
+P09964	Salmonella phage P22 (Bacteriophage P22)	10754		Regulatory protein cro (Antirepressor)	61	0.0
+P10302	Enterobacteria phage T3 (Bacteriophage T3)	10759		Spanin, outer lipoprotein subunit (o-spanin) (Gene product 18.7) (Gp18.7) (Protein 18.7)	83	0.0
+P10393	Enterobacteria phage K3 (Bacteriophage K3)	10674		Holin (Lysis protein)	218	0.0
+P10427	Bacillus phage phi105 (Bacteriophage phi-105)	10717		Uncharacterized immunity region protein 3	82	0.0
+P11108	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Probable exonuclease subunit 1 (EC 3.1.11.-) (D12)	325	0.0
+P11123	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Assembly protein P7	161	0.0
+P13121	Escherichia phage P1 (Bacteriophage P1)	2886926		Repressor protein C1	283	0.0
+P14815	Enterobacteria phage phi80 (Bacteriophage phi-80)	10713		Replication protein 15	302	0.0
+P14819	Enterobacteria phage phi80 (Bacteriophage phi-80)	10713		Repressor protein CI	236	0.0
+P19192	Chlamydia phage 1 (Bacteriophage Chp1)	2003327		Capsid protein VP1 (Protein VP1) (VP1)	596	0.0
+P20323	Enterobacteria phage T3 (Bacteriophage T3)	10759		Portal protein (Gene product 8) (Gp8) (Head-to-tail connector)	535	0.0
+P20376	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Probable ssDNA-binding protein (Protein D11)	257	0.0
+P20406	Escherichia phage T7 (Bacteriophage T7)	10760		Probable RecBCD inhibitor gp5.9 (Gene product 5.9) (Gp5.9)	52	0.0
+P21678	Escherichia phage 186 (Bacteriophage 186)	29252		Regulatory protein CII	169	0.0
+P23214	Shigella phage Sf6 (Shigella flexneri bacteriophage VI) (Bacteriophage SfVI)	10761		O-acetyl transferase (EC 2.3.1.-) (O-antigen acetylase)	333	0.0
+P26699	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable tail fiber assembly protein (GpG)	175	0.0
+P26814	Escherichia phage lambda (Bacteriophage lambda)	2681611		Lipoprotein bor	97	0.0
+P27384	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Penton protein P31 (GpC) (Protein C)	126	0.0
+P31281	Escherichia phage alpha3 (Bacteriophage alpha-3)	10849		Major spike protein G (G protein) (GPG)	187	0.0
+P39250	Enterobacteria phage T4 (Bacteriophage T4)	10665		Endonuclease IV (EC 3.1.21.9) (Deoxyribonuclease IV)	185	0.0
+P49860	Enterobacteria phage HK97 (Bacteriophage HK97)	2681617		Prohead protease (GP4)	225	0.0
+P51727	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Holin (Pinholin)	78	0.0
+P57021	Salmonella phage P22 (Bacteriophage P22)	10754		Bactoprenol-linked glucose translocase	120	0.0
+P68525	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Phage protein nrdI (BnrdI)	129	0.0
+P68574	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		DNA-binding protein HU 2	92	0.0
+P69171	Enterobacteria phage ZR (Bacteriophage ZR)	332942		Capsid protein (CP) (Coat protein)	130	0.0
+P79680	Escherichia phage Mu (Bacteriophage Mu)	2681603		Probable tail assembly protein gp41 (Gene product 41) (gp41) (Tail assembly chaperone)	144	0.0
+P85226	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Putative major capsid protein	464	0.0
+P85502	Pseudomonas phage PAJU2	504346		Structural protein 2 (ORF23 protein)	692	0.0
+P85503	Pseudomonas phage PAJU2	504346		Structural protein 3 (ORF15 protein)	164	0.0
+P85988	Serratia phage KSP20 (Serratia marcescens bacteriophage KSP20)	552527		Major tail tube protein (GpFII-like protein) (Virion protein C)	171	0.0
+Q01259	Escherichia phage Mu (Bacteriophage Mu)	2681603		Putative capsid assembly protein F (Gene product 30) (gp30) (Gene product F) (gpF)	439	0.0
+Q04754	Lactococcus phage LL-H (Lactococcus delbrueckii bacteriophage LL-H)	12348		Major capsid protein (ORF3 protein) (Protein Gp34)	285	0.0
+Q05285	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Endolysin A (EC 3.-.-.-) (Gene 10 protein) (Gp10) (Lysis protein) (Lysozyme)	292	0.0
+Q37889	Bacillus phage B103 (Bacteriophage B103)	2994042		Capsid fiber protein (Gene product 8.5) (gp8.5) (Head fiber protein) (Protein p8.5)	283	0.0
+Q37976	Listeria phage A118 (Bacteriophage A118)	40521		L-alanyl-D-glutamate peptidase (EC 3.4.24.-)	281	0.0
+Q38055	Enterobacteria phage T6 (Bacteriophage T6)	10666		Major capsid protein (Gene product 23) (Major head protein) (gp23) [Cleaved into: Mature major capsid protein (gp23*)]	502	0.0
+Q4Z9G3	Staphylococcus phage Twort (strain DSM 17442 / HER 48) (Bacteriophage Twort)	2908167		Probable portal protein	576	0.0
+Q5XLR1	Enterobacteria phage P7 (Bacteriophage P7)	10682		Terminase A protein (DNA-packaging protein A) (PACase A protein)	397	0.0
+Q6QGD4	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Nicking endonuclease (EC 3.1.21.-)	145	0.0
+Q6QGD9	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Head completion protein (HCP) (p144)	170	0.0
+Q6QGE3	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Baseplate tube protein p140 (p140) (Minor tail protein p140) (Tail protein p140)	298	0.0
+Q6QGE6	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Putative endonuclease (EC 3.1.-.-)	250	0.0
+Q6QGJ4	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Dihydrofolate reductase (EC 1.5.1.3)	177	0.0
+Q6QGM6	Escherichia phage T5 (Enterobacteria phage T5)	2695836		H-N-H endonuclease F-TflII (EC 3.1.21.-) (HNH endodeoxyribonuclease F-TflII) (HNH endonuclease F-TflII)	193	0.0
+Q6QIA5	Burkholderia phage BcepMu (isolate -/United States/Summer/2002) (Bacteriophage BcepMu)	1283335		Probable tape measure protein (TMP) (Gene product 44) (gp44)	846	0.0
+Q71TD7	Escherichia phage P1 (Bacteriophage P1)	2886926		Tail fiber assembly protein U' (Gene product U') (gpU')	177	0.0
+Q7Y2C1	Pseudomonas phage phiKMV	204270		Holin (KMV44) (Pinholin)	66	0.0
+Q7Y5A4	Escherichia phage RB69 (Bacteriophage RB69)	12353		Anti-DarT factor A	212	0.0
+Q7Y5D9	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Collar protein p132 (p132) (Tail protein p132)	140	0.0
+Q859Q5	Enterobacteria phage N4 (Bacteriophage N4)	2886925		Major capsid protein (Gene product 56) (gp56) (Major head protein)	401	0.0
+Q8LTD0	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable spanin, outer lipoprotein subunit (Protein lysC)	96	0.0
+Q8SDJ8	Staphylococcus phage phi13 (Bacteriophage phi-13)	2992645		Staphylokinase	163	0.0
+Q9T1S1	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Peptidoglycan hydrolase gp27 (Gene product 27) (Gp27) (Internal virion protein gp27)	160	0.0
+Q9T1V6	Escherichia phage Mu (Bacteriophage Mu)	2681603		Probable tape measure protein (TMP) (Gene product 42) (gp42) (Gene product Y) (gpY)	690	0.0
+Q9T1V8	Escherichia phage Mu (Bacteriophage Mu)	2681603		Probable tail terminator protein (TrP) (Gene product 37) (gp37) (Gene product K) (gpK)	182	0.0
+Q9T1V9	Escherichia phage Mu (Bacteriophage Mu)	2681603		Gene product J (gpJ) (Gene product 36) (gp36)	141	0.0
+Q9T1W9	Escherichia phage Mu (Bacteriophage Mu)	2681603		Releasin protein (Gene product 25) (gp25)	99	0.0
+Q9XJR3	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Spike protein P1 (Protein I)	335	0.0
+Q9ZXA5	Streptomyces phage phiC31 (Bacteriophage phi-C31)	10719		Probable tape measure protein (TMP) (Gene product 43) (gp43)	729	0.0
+Q9ZXB2	Streptomyces phage phiC31 (Bacteriophage phi-C31)	10719		Probable portal protein	457	0.0
+Q9ZXI0	Escherichia phage AR1 (Bacteriophage AR1)	66711		Major capsid protein (Gene product 23) (Major head protein) (gp23) [Cleaved into: Mature major capsid protein (gp23*)]	521	0.0
+A0A0H5AXT3	Pseudomonas phage KPP21	1678082		Major capsid protein (Major virion protein)	397	0.0
+A0A0U5AF03	Pseudomonas phage KPP22	1772250		Major capsid protein (Major virion protein)	382	0.0
+A0A1C8HSP0	Pseudomonas phage PaMx41	1815976		Major capsid protein	418	0.0
+A0A2L0V166	Salmonella phage PMBT28	2081904		DNA polymerase DpoZ	625	0.0
+A0A385DV73	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Ring protein 3 (R3) (Gene product 35) (gp35)	230	0.0
+A0A385DVL5	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Head fiber dimeric protein (Capsid fiber dimeric protein) (Gene product 29) (gp29)	122	0.0
+A0MZE1	Enterobacteria phage N4 (Bacteriophage N4)	2886925		Probable portal protein (94 kDa protein) (Gene product 59) (gp59) (Head-to-tail connector)	763	0.0
+A7XXB9	Thermus virus P23-45 (Thermus thermophilus phage P23-45)	2914006		Portal protein (Gene product 86) (gp86)	448	0.0
+A7XXC1	Thermus virus P23-45 (Thermus thermophilus phage P23-45)	2914006		Decoration protein (Auxiliary protein) (Gene product 88) (gp88)	146	0.0
+A8CGF6	Salmonella phage P22 (Bacteriophage P22)	10754		Probable spanin, outer lipoprotein subunit (o-spanin) (Rz1 protein)	61	0.0
+B0FIL5	Escherichia phage Phieco32 (Escherichia coli phage phi32)	2679905		DNA-directed DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-) (DNA polymerase gp53)	614	0.0
+B2ZYY5	Staphylococcus phage phiMR25	487152		Putative major capsid protein (Putative major head protein)	302	0.0
+B2ZYZ1	Staphylococcus phage phiMR25	487152		Putative tail protein (Putative major tail protein)	193	0.0
+C0HJH8	Pseudomonas phage KPP25 (Bacteriophage KPP25)	1462608		Major capsid protein (Major structural protein) (Major virion protein)	376	0.0
+C9DG80	Delftia phage PhiW-14 (Deftia acidovorans bacteriophage phiW-14)	665032		Putrescinyltransferase (Amino acid:DNA transferase) (AADT)	310	0.0
+D3WAC4	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Probable capsid maturation protease (EC 3.4.-.-) (Gene product 5) (gp5)	178	0.0
+G3FFN4	Vibrio phage phiVC8	1076759		dATP triphosphohydrolase (dATPase)	170	0.0
+G3FFN8	Vibrio phage phiVC8	1076759		DNA polymerase DpoZ	633	0.0
+O21872	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Probable portal protein (Gene product 4) (gp4) (Putative portal protein)	378	0.0
+O21886	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Receptor binding protein (RBP) (Gene product 18) (Gp18)	264	0.0
+O21902	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		SSB protein (Gene product 34) (Gp34) (Single-stranded DNA binding protein)	119	0.0
+O22007	Shigella phage SfV (Shigella flexneri bacteriophage V) (Bacteriophage SfV)	55884		Bactoprenol glucosyl transferase (EC 2.4.1.-)	307	0.0
+O48459	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Distal tail protein (Dit) (Gene product 19.1) (Gp19.1)	253	0.0
+O64032	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Sublancin immunity protein sunI	105	0.0
+O64036	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Glycosyltransferase SunS (EC 2.4.1.-)	422	0.0
+O64219	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Tail assembly protein Gp25 (Gene 25 protein) (Gp25)	274	0.0
+O64312	Escherichia phage P2 (Bacteriophage P2)	2905681		Tail assembly protein E' (Gene product E') (gpE') (Tail assembly chaperone) (TAC)	142	0.0
+P03050	Salmonella phage P22 (Bacteriophage P22)	10754		Transcriptional repressor arc	53	0.0
+P03618	Enterobacteria phage ZJ/2 (Bacteriophage ZJ-2)	10866		Capsid protein G8P (Coat protein B) (Gene 8 protein) (G8P) (Major coat protein) (pVIII)	50	0.0
+P03626	Pseudomonas phage Pf3 (Bacteriophage Pf3)	10872		Putative Gene 1 protein (G1P) (pI)	301	0.0
+P03642	Escherichia phage G4 (Bacteriophage G4)	10843		Capsid protein F (F protein) (GPF)	427	0.0
+P03647	Escherichia phage G4 (Bacteriophage G4)	10843		Minor spike protein (H protein) (Pilot protein)	337	0.0
+P03703	Escherichia phage lambda (Bacteriophage lambda)	2681611		Restriction inhibitor protein ral (Antirestriction protein)	66	0.0
+P03724	Escherichia phage T7 (Bacteriophage T7)	10760		Internal virion protein gp14 (Gene product 14) (Gp14)	196	0.0
+P03731	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail completion protein Z (Gene product Z) (GpZ) (Minor tail protein Z) (Tail terminator protein)	192	0.0
+P03776	Escherichia phage T7 (Bacteriophage T7)	10760		Gene 0.4 protein (Gene product 0.4) (Gp0.4)	51	0.0
+P03803	Escherichia phage T7 (Bacteriophage T7)	10760		Spanin, inner membrane subunit (i-spanin) (Gene product 18.5) (Gp18.5)	143	0.0
+P04534	Enterobacteria phage T4 (Bacteriophage T4)	10665		Capsid assembly scaffolding protein (Gene product 22) (gp22) (Head morphogenesis protein) (Scaffold protein) [Cleaved into: Internal peptide VII]	269	0.0
+P04536	Enterobacteria phage T4 (Bacteriophage T4)	10665		Exodeoxyribonuclease (EC 3.1.11.1) (3'-5' exonuclease)	227	0.0
+P05461	Enterobacteria phage P4 (Bacteriophage P4)	10680		Glycoprotein 3 (Capsid size determination protein)	244	0.0
+P06153	Bacillus phage phi105 (Bacteriophage phi-105)	10717		Immunity repressor protein	144	0.0
+P06953	Bacillus phage PZA (Bacteriophage PZA)	10757		Single-stranded DNA-binding protein (SSB) (Gene product 5) (gp5) (Protein p5)	124	0.0
+P07243	Enterobacteria phage phi21 (Bacteriophage phi-21)	10737		Probable regulatory protein N	99	0.0
+P08234	Enterobacteria phage M1 (Bacteriophage M1)	10676		Receptor-recognizing protein gp38 (Gene product 38) (gp38) (Long tail fiber adhesin)	262	0.0
+P09675	Enterobacteria phage SP (Bacteriophage SP)	12027		RNA-directed RNA polymerase subunit beta (EC 2.7.7.48) (RNA replicase beta chain)	576	0.0
+P09676	Enterobacteria phage SP (Bacteriophage SP)	12027		Maturation protein A2 (MP) (A2) (Assembly protein) (A protein)	450	0.0
+P09877	Bacillus phage Nf (Bacteriophage Nf)	2992639		Late genes activator (Early protein GP4) (GPF)	125	0.0
+P0DJY3	Escherichia phage T7 (Bacteriophage T7)	10760		Protein suppressor of silencing (Gene product 5.5)	99	0.0
+P0DTK5	Pseudomonas phage M6	2911432		5-hmdU DNA kinase (5-hydroxymethyluracil DNA kinase) (P-loop kinase) (gp54)	187	0.0
+P0DTK8	Pseudomonas phage M6	2911432		Glycyl-dTMP PLP-dependent decarboxylase (gp52)	278	0.0
+P0DTO0	Bacillus phage SBSphiJ4	2930341		Hachiman anti-defense 1 (Had1)	53	0.0
+P0DXF2	Enterobacteria phage T4 (Bacteriophage T4)	10665		Protein UvsW.1	76	0.0
+P11110	Enterobacteria phage T4 (Bacteriophage T4)	10665		Neck protein gp13 (Gene product 13) (gp13)	309	0.0
+P11129	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Spike protein P3	648	0.0
+P13300	Enterobacteria phage T4 (Bacteriophage T4)	10665		Thymidine kinase (EC 2.7.1.21)	193	0.0
+P13312	Enterobacteria phage T4 (Bacteriophage T4)	10665		Endoribonuclease RegB (EC 3.1.-.-) (Gp61.9)	153	0.0
+P13583	Salmonella phage P22 (Bacteriophage P22)	10754		Spanin, inner membrane subunit (i-spanin) (Gene product 15) (Gp15) (Lysis protein Rz)	145	0.0
+P14739	Bacillus phage PBS2 (Bacteriophage PBS2)	10684		Uracil-DNA glycosylase inhibitor	84	0.0
+P16937	Enterobacteria phage LP7 (Bacteriophage LP7)	10750		Terminase, small subunit (DNA-packaging protein gp3)	162	0.0
+P19903	Enterobacteria phage fr (Bacteriophage fr)	12017		Lysis protein	71	0.0
+P22502	Escherichia phage P2 (Bacteriophage P2)	2905681		Tail tube protein (TTP) (Protein FII)	172	0.0
+P22562	Halobacterium phage phiH (Bacteriophage phi-H)	169684		Repressor protein	89	0.0
+P25477	Escherichia phage P2 (Bacteriophage P2)	2905681		Capsid proteins (GpN) [Cleaved into: Minor capsid protein H1; Minor capsid protein H2; Major capsid protein N* (Major head protein)]	357	0.0
+P25480	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable portal protein (GpQ)	344	0.0
+P26596	Lactococcus phage F4-1 (Lactococcus lactis bacteriophage F4-1)	12387		Tail tube protein (TTP) (Major tail protein) (MTP)	301	0.0
+P26700	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable tail fiber protein (GpH)	669	0.0
+P26812	Lactococcus phage F4-1 (Lactococcus lactis bacteriophage F4-1)	12387		Tape measure protein (TMP)	367	0.0
+P27379	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Packaging efficiency factor P6	166	0.0
+P27383	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Protein P17	86	0.0
+P27390	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Protein P34 (Protein O) (GpO)	68	0.0
+P39262	Enterobacteria phage T4 (Bacteriophage T4)	10665		dCTP pyrophosphatase (dCTPase) (EC 3.6.1.12) (Deoxycytidine-triphosphatase)	171	0.0
+P39503	Enterobacteria phage T4 (Bacteriophage T4)	10665		Spanin, outer lipoprotein subunit (o-spanin)	99	0.010101010101010102
+P51720	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Major capsid protein (Gene product 18) (gp18) (Major head protein) (ORF18)	336	0.0
+P51768	Escherichia phage P2 (Bacteriophage P2)	2905681		Baseplate protein W (Gene W protein) (GpW)	115	0.0
+P51769	Escherichia phage P2 (Bacteriophage P2)	2905681		Putative antiholin (Protein lysA)	141	0.0
+P51770	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable spanin, inner membrane subunit (i-spanin) (Protein lysB)	141	0.0
+P59935	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Putative 5'(3')-deoxyribonucleotidase (EC 3.1.3.-)	170	0.0
+P68523	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		5'(3')-deoxyribonucleotidase (EC 3.1.3.-)	172	0.0
+P68570	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Disulfide bond formation protein A (Disulfide oxidoreductase A) (Thiol-disulfide oxidoreductase A)	137	0.0
+P68578	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Bacteriocin sublancin-168	56	0.0
+P68668	Shigella phage SfII (Shigella flexneri bacteriophage II) (Bacteriophage SfII)	66284		Bactoprenol glucosyl transferase (EC 2.4.1.-)	309	0.0
+P68676	Xanthomonas phage phiLf (Bacteriophage phi-Lf)	28365		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	98	0.0
+P68923	Enterobacteria phage VT2-Sa (Bacteriophage VT2-Sa)	97081		Antitermination protein Q	144	0.0
+P68926	Enterobacteria phage 434 (Bacteriophage 434)	10712		Excisionase	72	0.0
+P85990	Serratia phage KSP20 (Serratia marcescens bacteriophage KSP20)	552527		Major capsid protein (Major capsid protein B) (Major head protein)	348	0.0
+P85993	Serratia phage KSP20 (Serratia marcescens bacteriophage KSP20)	552527		Major tail sheath protein (Virion protein A)	393	0.0
+Q01437	Enterobacteria phage T4 (Bacteriophage T4)	10665		Transcription regulatory protein motB	162	0.0
+Q01751	Escherichia phage RB69 (Bacteriophage RB69)	12353		Translation repressor protein	122	0.0
+Q04395	Bacillus phage Nf (Bacteriophage Nf)	2992639		Tail knob protein gp9 (Distal tube protein) (Gene product 9) (gp9) (Protein p9) (Tail protein)	598	0.0
+Q04755	Lactococcus phage mv4 (Lactococcus delbrueckii bacteriophage mv4)	12392		Major capsid protein (ORF3 protein) (Protein Gp34)	286	0.0
+Q05222	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Probable capsid assembly scaffolding protein (Gene product 22) (gp22) (Head morphogenesis protein) (Scaffold protein)	173	0.0
+Q05232	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Tail assembly protein Gp25 (Gene 25 protein) (Gp25)	272	0.0
+Q08402	Bacillus phage SP01 (Bacteriophage SP01)	2884427		E3 protein (Gene 44 protein)	237	0.0
+Q24LI4	Clostridium phage phiCD119 (strain Clostridium difficile/United States/Govind/2006) (Bacteriophage phiCD119)	2883936		Tail sheath protein (TSP)	356	0.0
+Q37887	Bacillus phage B103 (Bacteriophage B103)	2994042		Capsid assembly scaffolding protein (Gene product 7) (gp7) (Head morphogenesis protein) (Protein p7) (Scaffold protein)	101	0.0
+Q37897	Bacillus phage B103 (Bacteriophage B103)	2994042		DNA packaging protein (ATPase gp16) (EC 3.6.4.-) (Gene product 16) (gp16) (Protein p16)	321	0.0
+Q37977	Listeria phage A500 (Bacteriophage A500)	40522		Antiholin	96	0.0
+Q38135	Lactococcus phage r1t (Bacteriophage r1t)	43685		N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)	270	0.0
+Q38653	Listeria phage A511 (Bacteriophage A511)	40523		Endolysin (EC 3.5.1.28) (Probable N-acetylmuramoyl-L-alanine amidase)	341	0.0
+Q6KGI8	Salmonella phage Felix O1 (isolate Felix O1-VT1) (Bacteriophage Felix O1)	1283336		Major capsid protein (Gene product 58) (gp58) (Major head protein)	368	0.0
+Q6QGD3	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Putative endonuclease (EC 3.1.-.-)	277	0.0
+Q6QGL2	Escherichia phage T5 (Enterobacteria phage T5)	2695836		H-N-H endonuclease F-TflIV (EC 3.1.21.-) (HNH endodeoxyribonuclease F-TflIV) (HNH endonuclease F-TflIV)	227	0.0
+Q6WHE6	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Portal protein (gp20)	511	0.0
+Q6WI75	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Sliding clamp (DNA polymerase accessory protein Gp45) (DNA polymerase clamp) (Gene product 45) (gp45)	221	0.0
+Q6XQ99	Escherichia phage T1 (Bacteriophage T1)	2492962		Holin (Pinholin)	71	0.0
+Q6XQC4	Escherichia phage T1 (Bacteriophage T1)	2492962		Tape measure protein (TMP) (Gene product 38) (gp38)	957	0.0
+Q858H1	Salmonella phage epsilon15	215158		Portal protein (Head-to-tail connector)	556	0.0
+Q8SBJ2	Escherichia phage RB69 (Bacteriophage RB69)	12353		Anti-DarT factor NADAR (ADP-ribosylglycohydrolase AdfN) (EC 3.2.2.-)	137	0.0
+Q9AZ38	Enterobacteria phage HK620 (Bacteriophage HK620)	155148		Probable excisionase hkaC	66	0.0
+Q9FZW7	Bacillus phage GA-1 (Bacteriophage GA-1)	2679898		Major capsid protein (Gene product 8) (gp8) (Major head protein)	472	0.0
+Q9G050	Bdellovibrio phage phiMH2K (Bacteriophage phiMH2K)	145579		Replication-associated protein VP4 (Rep) (VP4) (EC 3.1.21.-) (EC 6.5.1.1)	315	0.0
+Q9HH35	Methanothermobacter phage psiM100	173824		Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase (EC 2.1.1.-)	222	0.0
+Q9MCD1	Bacillus phage Nf (Bacteriophage Nf)	2992639		Single-stranded DNA-binding protein (SSB) (Gene product 5) (gp5) (Protein p5)	122	0.0
+Q9T1D7	Shigella phage SfX (Shigella flexneri bacteriophage X) (Bacteriophage SfX)	10874		Bactoprenol-linked glucose translocase	120	0.0
+Q9T1Q8	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Probable excisionase (p40)	126	0.0
+Q9T1S9	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Portal protein (Gene product 19) (Gp19) (Head-to-tail connector)	720	0.0
+Q9T1U3	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Probable antitermination protein Q (P5)	148	0.0
+Q9XJR6	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Protein P3 (Protein III)	104	0.0
+Q9ZXI1	Escherichia phage AR1 (Bacteriophage AR1)	66711		Capsid assembly scaffolding protein (Gene product 22) (gp22) (Head morphogenesis protein) (Major prohead-scaffolding core protein Gp22) (Scaffold protein) [Cleaved into: Internal peptide VII]	269	0.0
+A0A088C4D9	Shewanella phage 1/4	1458859		Gabija anti-defense 1 (Gad1)	348	0.0
+A0A0S0MX59	Pseudomonas phage PaMx11	1175657		5-NmdU N-acetyltransferase	140	0.0
+A0A219YHC2	Klebsiella phage K5-2 (Bacteriophage K5-2)	1932361		Depolymerase 2, capsule K5-specific (Gene product 38) (gp38) (K5 depolymerase) (Probable tail spike protein)	685	0.0
+A0A385DT87	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Ring protein 2 (R2) (Gene product 40) (gp40)	225	0.0
+A0A385DT91	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Ring protein 1 (R1) (Gene product 43) (gp43)	236	0.0
+A0A385DTH1	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Tail hub protein A (THA) (Gene product 38) (gp38)	215	0.0
+A0A7S6R611	Klebsiella phage P560 (Bacteriophage P560)	2777230		Depolymerase, capsule KL47-specific (P560Dep) (Probable tail spike protein)	802	0.0
+B0ZSF3	Halomonas phage phiHAP-1 (isolate -/Gulf of Mexico/-/2001) (Bacteriophage phiHAP-1)	1283337		Major capsid protein (Gene product 5) (gp5) (Major head protein)	602	0.0
+D3WAD2	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Probable tape measure protein (TMP) (Gene product 14) (gp14)	999	0.0
+F8SJT5	Pseudomonas phage PhiPA3 (Pseudomonas aeruginosa phage PhiPA3)	998086		Chimallin (ChmA) (Phage nucleus enclosure protein) (PhuN) (gene product 53) (gp53)	602	0.0
+O21870	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Terminase large subunit (DNA-packaging protein) (Gene product 2) (gp2) [Includes: Endonuclease (EC 3.1.-.-); ATPase (EC 3.6.4.-)]	540	0.0
+O21942	Shigella phage SfII (Shigella flexneri bacteriophage II) (Bacteriophage SfII)	66284		Bactoprenol-linked glucose translocase	120	0.0
+O64207	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Portal protein (Gene product 14) (gp14) (Portal vertex protein)	485	0.0
+O64218	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Tail assembly protein Gp24 (Gene product 24) (Gp24) (Minor tail protein Gp24)	134	0.0
+O64240	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Putative adenosylcobalamin-dependent ribonucleoside-triphosphate reductase (EC 1.17.4.2) (Gp50)	693	0.0
+O64314	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable tape measure protein (TMP) (Gene product T) (gpT)	815	0.0
+O64324	Escherichia phage N15 (Bacteriophage N15)	1604876		Head-tail joining protein (Gene product 10) (gp10)	117	0.0
+O64325	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail completion protein (Gene product 11) (gp11) (Tail connector protein) (Tail terminator protein)	184	0.0
+O80298	Escherichia phage If1 (Bacteriophage If1)	10868		Head virion protein G6P (Coat protein D) (G6P) (pVI)	113	0.0
+O80300	Escherichia phage If1 (Bacteriophage If1)	10868		Virion export protein (Gene 4 protein) (G4P)	429	0.0
+P03609	Escherichia phage MS2 (Bacteriophage MS2)	12022		Lysis protein (L protein)	75	0.0
+P03716	Escherichia phage T7 (Bacteriophage T7)	10760		Capsid assembly scaffolding protein (Gene product 9) (Gp9) (Head morphogenesis protein) (Scaffold protein)	307	0.0
+P03730	Escherichia phage lambda (Bacteriophage lambda)	2681611		Tail tip assembly protein I	223	0.0
+P03739	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tail fiber assembly protein (Gene product 38) (gp38) (Receptor recognizing protein)	183	0.0
+P03743	Enterobacteria phage T4 (Bacteriophage T4)	10665		Long-tail fiber protein gp36 (Gene product 36) (gp36)	221	0.0
+P03759	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein rexB	144	0.0
+P03780	Escherichia phage T7 (Bacteriophage T7)	10760		Inhibitor of dGTPase (Gene product 1.2) (Gp1.2) (Inhibitor of dGTPase gp1.2)	85	0.0
+P04889	Salmonella phage P22 (Bacteriophage P22)	10754		Excisionase	116	0.0
+P07040	Escherichia phage D108 (Bacteriophage D108)	665033		Repressor c protein (Repc) (CI)	174	0.0
+P08767	Escherichia phage alpha3 (Bacteriophage alpha-3)	10849		Capsid protein F (F protein) (GPF)	431	0.0
+P08986	Enterobacteria phage T4 (Bacteriophage T4)	10665		Immunity protein	83	0.0
+P09673	Enterobacteria phage SP (Bacteriophage SP)	12027		Capsid protein (CP) (Coat protein)	132	0.0
+P10307	Enterobacteria phage T3 (Bacteriophage T3)	10759		Holin (Lysis protein)	67	0.014925373134328358
+P10438	Enterobacteria phage PA-2 (Bacteriophage PA-2)	10738		Spanin, inner membrane subunit (i-spanin) (Lysis protein)	64	0.0
+P13316	Enterobacteria phage T4 (Bacteriophage T4)	10665		Autonomous glycyl radical cofactor	120	0.0
+P13336	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate hub assembly protein gp28 (Gene product 28) (gp28)	177	0.0
+P13337	Enterobacteria phage T4 (Bacteriophage T4)	10665		Tape measure protein (TMP) (Gene product 29) (gp29) (Tail length regulator)	590	0.0
+P14110	Salmonella phage P22 (Bacteriophage P22)	10754		Regulatory protein C3 (CIII)	52	0.0
+P14814	Enterobacteria phage phi80 (Bacteriophage phi-80)	10713		Probable helicase loader (Replication protein 14)	229	0.0
+P15238	Rhizobium phage 16-3 (Bacteriophage 16-3)	10704		Repressor protein C	263	0.0
+P15420	Enterobacteria phage I2-2 (Bacteriophage I2-2)	10869		Virion export protein (Gene 4 protein) (G4P)	428	0.0
+P15966	Enterobacteria phage fr (Bacteriophage fr)	12017		Maturation protein A (MP) (Assembly protein) (A protein)	393	0.0
+P17171	Enterobacteria phage T4 (Bacteriophage T4)	10665		Head formation protein (Protein Gp40) (Protein sp)	114	0.0
+P17313	Enterobacteria phage T4 (Bacteriophage T4)	10665		Capsid assembly protein Gp31	111	0.0
+P18029	Enterobacteria phage T2 (Bacteriophage T2)	2060721		Deoxycytidylate 5-hydroxymethyltransferase (Deoxycytidylate hydroxymethylase) (EC 2.1.2.8) (HMase) (dCMP hydroxymethylase) (dCMP HMase)	246	0.0
+P19693	Enterobacteria phage T3 (Bacteriophage T3)	10759		Major capsid protein (Gene product 10A) (Gp10A) (Major head protein)	347	0.0
+P20322	Enterobacteria phage T3 (Bacteriophage T3)	10759		Protein 7.3 (Gene product 7.3) (Gp7.3) (Host specificity protein B)	106	0.0
+P21703	Enterobacteria phage P7 (Bacteriophage P7)	10682		DNA-invertase (Site-specific recombinase)	186	0.0
+P22588	Escherichia phage P1 (Bacteriophage P1)	2886926		Major tail fiber protein S	247	0.0
+P22915	Enterobacteria phage T4 (Bacteriophage T4)	10665		Middle transcription regulatory protein motA	211	0.0
+P24796	Escherichia phage D108 (Bacteriophage D108)	665033		GemA protein (Gene product 16) (gp16)	183	0.0
+P26748	Salmonella phage P22 (Bacteriophage P22)	10754		Scaffolding protein (Gene product 8) (gp8)	303	0.0
+P26749	Salmonella phage P22 (Bacteriophage P22)	10754		Tail hub protein gp10	472	0.0
+P34700	Enterobacteria phage JP34 (Bacteriophage JP34)	12019		Capsid protein (CP) (Coat protein)	130	0.0
+P34702	Enterobacteria phage JP34 (Bacteriophage JP34)	12019		Lysis protein	63	0.0
+P35926	Escherichia phage P1 (Bacteriophage P1)	2886926		Recombination enhancement function protein	186	0.0
+P39229	Enterobacteria phage T4 (Bacteriophage T4)	10665		Anti-DarT factor A	208	0.0
+P39418	Enterobacteria phage T4 (Bacteriophage T4)	10665		Uncharacterized 9.5 kDa protein in dexA-dda intergenic region	81	0.0
+P39514	Enterobacteria phage T4 (Bacteriophage T4)	10665		Defective intron-associated endonuclease 3 (EC 3.1.-.-) (I-TevIII)	97	0.0
+P51717	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Probable portal protein (ORF15)	345	0.0
+P51767	Escherichia phage P2 (Bacteriophage P2)	2905681		Baseplate protein J (Gene J protein) (GpJ)	302	0.0
+P69594	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Protein K	56	0.0
+P85229	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Virion protein 5	140	0.0
+P85992	Serratia phage KSP90 (Serratia marcescens bacteriophage KSP90)	552528		Tail tube protein (Virion protein F)	177	0.0
+Q01261	Escherichia phage Mu (Bacteriophage Mu)	2681603		Putative capsid assembly protein G (Gene product G) (gpG)	156	0.0
+Q04765	Lactococcus phage LL-H (Lactococcus delbrueckii bacteriophage LL-H)	12348		Structural protein (ORF1 protein) (ORF371)	371	0.0
+Q05220	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Portal protein (Gene product 14) (gp14) (Portal vertex protein)	486	0.0
+Q05229	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Major tail protein Gp23 (Major coat protein)	198	0.0
+Q05246	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Excisionase (Gene product 36) (Gp36)	56	0.0
+Q24LJ4	Clostridium phage phiCD119 (strain Clostridium difficile/United States/Govind/2006) (Bacteriophage phiCD119)	2883936		Portal protein (Portal vertex protein)	451	0.0
+Q37888	Bacillus phage B103 (Bacteriophage B103)	2994042		Major capsid protein (Gene product 8) (gp8) (Major head protein) (Protein p8)	449	0.0
+Q37989	Streptococcus phage Cp-1 (Bacteriophage Cp-1)	10747		DNA polymerase (EC 2.7.7.7) (EC 3.1.11.-)	568	0.0
+Q38008	Streptococcus phage Cp-1 (Bacteriophage Cp-1)	10747		Holin (Lysis protein)	134	0.0
+Q38305	Lactococcus phage c2	2681624		Probable tape measure protein (TMP) (Gene product 110) (gp110)	706	0.0
+Q38435	Enterobacteria phage T6 (Bacteriophage T6)	10666		Tail tube protein gp19 (Gene product 19) (gp19)	163	0.0
+Q38503	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Protein p56	56	0.0
+Q4Z9F2	Staphylococcus phage Twort (strain DSM 17442 / HER 48) (Bacteriophage Twort)	2908167		Tail sheath protein (TSP)	587	0.0
+Q54699	Streptococcus pyogenes phage H10403	86065		Hyaluronoglucosaminidase (Hyaluronidase) (EC 3.2.1.35)	337	0.0
+Q6QIB0	Burkholderia phage BcepMu (isolate -/United States/Summer/2002) (Bacteriophage BcepMu)	1283335		Tail sheath protein (TSP)	477	0.0
+Q6QIB5	Burkholderia phage BcepMu (isolate -/United States/Summer/2002) (Bacteriophage BcepMu)	1283335		Major capsid protein (Gene product 34) (gp34) (Major head protein)	307	0.0
+Q6TM72	Pseudomonas phage D3112 (Bacteriophage D3112)	2907964		Anti-CRISPR protein 30 (Gene product 30) (gp30)	90	0.0
+Q6UAX6	Klebsiella oxytoca phage phiKO2 (Bacteriophage phiKO2)	255431		Major capsid protein (Gene product 6) (Gp6) (Major head protein) [Cleaved into: Scaffolding domain delta]	428	0.0
+Q6WHE8	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Tail sheath protein (TSP)	671	0.0
+Q6WHG9	Vibrio phage KVP40 (isolate Vibrio parahaemolyticus/Japan/Matsuzaki/1991) (KVP40) (Bacteriophage KVP40)	75320		Protein Gp5	421	0.0
+Q71TD6	Escherichia phage P1 (Bacteriophage P1)	2886926		Tail fiber assembly protein U (Gene product U) (gpU)	175	0.0
+Q7Y2B9	Pseudomonas phage phiKMV	204270		Probable spanin, inner membrane subunit (i-spanin)	109	0.0
+Q7Y5P0	Enterobacteria phage SP6 (Bacteriophage SP6)	2907955		Portal protein (Head-to-tail connector)	515	0.0
+Q8SDA8	Pseudomonas phage phiKZ	2905945		Chimallin (ChmA) (Phage nucleus enclosure protein) (PhuN) (gene product 54) (gp54)	626	0.0
+Q9FZX0	Bacillus phage GA-1 (Bacteriophage GA-1)	2679898		Protein p56	130	0.0
+Q9G053	Bdellovibrio phage phiMH2K (Bacteriophage phiMH2K)	145579		Internal scaffolding protein VP3	151	0.0
+Q9G055	Bdellovibrio phage phiMH2K (Bacteriophage phiMH2K)	145579		Minor spike protein H (H protein) (Pilot protein) (Protein VP2) (VP2)	199	0.0
+Q9G059	Bdellovibrio phage phiMH2K (Bacteriophage phiMH2K)	145579		Capsid protein VP1 (VP1)	533	0.0
+Q9T1D6	Shigella phage SfX (Shigella flexneri bacteriophage X) (Bacteriophage SfX)	10874		Bactoprenol glucosyl transferase (EC 2.4.1.-)	305	0.0
+Q9T1Q4	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Putative nuclease p44 (EC 3.1.-.-)	93	0.0
+Q9XJJ6	Escherichia phage 933W (Bacteriophage 933W)	10730		Spanin, inner membrane subunit (i-spanin) (Lysis protein Rz)	154	0.0
+Q9XJJ7	Escherichia phage 933W (Bacteriophage 933W)	10730		Spanin, outer membrane subunit (o-spanin) (Outer membrane lipoprotein Rz1)	61	0.0
+Q9XJR2	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Protein P5 (Protein V)	160	0.0
+Q9ZXD8	Bacillus phage phi105 (Bacteriophage phi-105)	10717		Probable holin (Lysis protein)	135	0.0
+A0A0A8J8T2	Klebsiella phage K64-1 (Bacteriophage K64-1)	1439894		Depolymerase, capsule K1-specific (Probable tail fiber protein)	888	0.0
+A0A0A8J9B0	Klebsiella phage K64-1 (Bacteriophage K64-1)	1439894		Depolymerase, capsule K30/K69-specific (Probable tail spike protein)	767	0.0
+A0A0S0MVI5	Pseudomonas phage PaMx11	1175657		Glycinyltransferase (Amino acid:DNA transferase) (AADT) (gp46)	292	0.0
+A0A0S0N9S9	Pseudomonas phage PaMx11	1175657		5-hmdU DNA kinase (5-hydroxymethyluracil DNA kinase) (P-loop kinase) (gp49)	189	0.0
+A0A1L4BKQ4	Thermus phage G20c (Thermus thermophilus phage G20c)	1406341		Portal protein (Gene product 81) (gp81)	448	0.0
+A0A1P8VW90	Klebsiella phage vB_KpnP_KpV74 (Bacteriophage vB_KpnP_KpV74)	1933773		Depolymerase, capsule K2-specific (Dep_kpv74) (Gene product 56) (gp56) (Probable tail spike protein)	577	0.0
+A0A217ER65	Bacillus phage vB_BsuM-Goe3	1933063		Anti-Pycsar protein Apyc1 (Apyc1)	259	0.0
+A0A219YHF3	Klebsiella phage K5-4 (Bacteriophage K5-4)	1932362		Depolymerase 2, capsule K5-specific (Gene product 38) (gp38) (K5 depolymerase) (Probable tail spike protein)	684	0.0
+A0A219YHG0	Klebsiella phage K5-4 (Bacteriophage K5-4)	1932362		Depolymerase 1, capsule K8-specific (Gene product 37) (gp37) (Probable tail spike protein)	749	0.0
+A0A385DVS7	Bacteroides phage crAss001 (Bacteroides phage PhiCrAss001)	2301731		Auxiliary capsid protein (Gene product 36) (gp36)	333	0.0
+A0A3T0ZBX8	Klebsiella phage KN3-1 (Bacteriophage KN3-1)	2282630		Depolymerase 2, capsule K56-specific (K56dep) (Probable tail spike protein)	678	0.0
+A0A482GDX1	Escherichia phage vB_EcoM_Goslar	2502409		Chimallin (ChmA) (Phage nucleus enclosure protein) (PhuN) (gene product 189) (gp189)	631	0.0
+A0A7S6R613	Klebsiella phage P510 (Bacteriophage P510)	2777229		Depolymerase, capsule KL64-specific (Gene product 38) (gp38) (P510dep) (Probable tail spike protein)	1017	0.0
+B4YNF0	Sputnik virophage	543939		Putative integrase V10	226	0.0
+B4YNG0	Sputnik virophage	543939		Putative capsid protein V20	595	0.0
+B6V2N4	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Probable portal protein	507	0.0
+D3WAC9	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Probable tail terminator protein (Gene product 10) (gp10)	121	0.0
+D4Z9X5	Escherichia phage AR1 (Bacteriophage AR1)	66711		Capsid vertex protein (Gene product 24) (gp24) [Cleaved into: Mature capsid vertex protein (gp24*)]	427	0.0
+E1XT70	Salmonella phage ViI	1987993		5-hmdU DNA kinase 1 (5-hydroxymethyluracil DNA kinase) (P-loop kinase) (gp67)	220	0.0
+E1XTG6	Salmonella phage ViI	1987993		Portal protein (gp20)	560	0.0
+E1XTJ1	Salmonella phage ViI	1987993		O-seryl-dTMP PLP-dependent decarboxylase	424	0.0
+E1XTK3	Salmonella phage ViI	1987993		5-hmdU DNA kinase 2 (5-hydroxymethyluracil DNA kinase) (P-loop kinase) (gp243)	304	0.0
+I7HHN4	Helicobacter pylori bacteriophage KHP30	1208236		Portal protein (Head-to-tail connector gp8) (Putative portal protein ORF17)	602	0.0
+J9RWN8	Pseudomonas phage JBD67	1225793		Major capsid protein	309	0.0
+O21879	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Tail tube protein (TTP) (Gene product 11) (gp11) (Major tail protein) (MTP)	301	0.0
+O21882	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Probable tape measure protein (TMP) (Gene product 14) (gp14)	999	0.0
+O21884	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Baseplate protein gp16 (Exolysin) (Gene product 16) (Gp16) (Tail lysozyme-like) (Tail-associated lysine-like protein)	375	0.0
+O22000	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Deoxycytidylate deaminase (EC 3.5.4.12) (dCMP deaminase)	128	0.0
+O48410	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Inhibitor of host cell division protein (Gene 56 protein) (Gp56)	79	0.0
+O48470	Bacillus phage SPP1 (Bacteriophage SPP1)	10724		Holin-like protein 24.1 (Gene product 24.1) (gp24.1)	83	0.0
+O64038	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Protein bhlB	88	0.0
+O64145	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Putative single-strand DNA-specific exonuclease yorK (EC 3.1.-.-)	576	0.0
+O64329	Escherichia phage N15 (Bacteriophage N15)	1604876		Tail assembly protein GT (Gene product 15) (gp15) (Gene product GT) (gpGT) (Minor tail protein GT)	250	0.0
+O64330	Escherichia phage N15 (Bacteriophage N15)	1604876		Tape measure protein (TMP) (Gene product 16) (gp16)	838	0.0
+O80286	Bacteriophage PS34	83127		Antitermination protein Q	207	0.0
+P00585	Escherichia phage MS2 (Bacteriophage MS2)	12022		RNA-directed RNA polymerase beta chain (EC 2.7.7.48) (RNA replicase beta chain)	545	0.0
+P03036	Enterobacteria phage 434 (Bacteriophage 434)	10712		Regulatory protein cro (Antirepressor)	71	0.0
+P03041	Salmonella phage P22 (Bacteriophage P22)	10754		Transcriptional activator protein C1	92	0.0
+P03046	Escherichia phage Mu (Bacteriophage Mu)	2681603		Protein kil (Gene product 5) (gp5) (Protein cim)	74	0.0
+P03611	Enterobacteria phage f2 (Bacteriophage f2)	12016		Capsid protein (CP) (Coat protein)	129	0.0
+P03638	Escherichia phage G4 (Bacteriophage G4)	10843		External scaffolding protein D (Scaffolding protein D) (GPD)	152	0.0
+P03645	Escherichia phage St-1 (Bacteriophage St-1)	10845		Major spike protein (G protein) (GPG)	103	0.009708737864077669
+P03650	Escherichia phage alpha3 (Bacteriophage alpha-3)	10849		Minor spike protein (H protein) (Pilot protein)	330	0.0
+P03664	Enterobacteria phage fd (Bacteriophage fd)	2847073		Virion export protein (Gene 4 protein) (G4P)	426	0.0
+P03671	Pseudomonas phage Pf1 (Bacteriophage Pf1)	2011081		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	144	0.0
+P03690	Enterobacteria phage T4 (Bacteriophage T4)	10665		Protein rIIA	725	0.0
+P03701	Escherichia phage lambda (Bacteriophage lambda)	2681611		Outer membrane protein lom (ORF 206A)	206	0.0
+P03715	Enterobacteria phage T4 (Bacteriophage T4)	10665		Small outer capsid protein (Soc)	80	0.0
+P03719	Enterobacteria phage T4 (Bacteriophage T4)	10665		Internal protein II (IpII)	100	0.0
+P03747	Escherichia phage T7 (Bacteriophage T7)	10760		Tail tubular protein gp12 (Gene product 12) (Gp12)	794	0.0
+P03758	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein kil	89	0.0
+P04537	Enterobacteria phage T4 (Bacteriophage T4)	10665		Recombination protein uvsY	137	0.0
+P04891	Salmonella phage P22 (Bacteriophage P22)	10754		Probable regulatory protein N	100	0.0
+P06903	Escherichia phage D108 (Bacteriophage D108)	665033		Negative regulator of transcription (Ner)	73	0.0
+P07233	Enterobacteria phage GA (Bacteriophage GA)	12018		Lysis protein	63	0.0
+P07238	Enterobacteria phage PA-2 (Bacteriophage PA-2)	10738		Outer membrane porin protein LC	365	0.0
+P07532	Bacillus phage PZA (Bacteriophage PZA)	10757		Capsid fiber protein (Gene product 8.5) (gp8.5) (Head fiber protein) (Protein p8.5)	280	0.0
+P07696	Escherichia phage P2 (Bacteriophage P2)	2905681		Replication gene B protein (GpB)	166	0.0
+P07931	Enterobacteria phage S13 (Bacteriophage S13)	10844		Capsid protein F (F protein) (GPF)	427	0.0
+P0DJY4	Escherichia phage Mu (Bacteriophage Mu)	2681603		Probable tail assembly protein FS-gp41	188	0.0
+P0DJY8	Streptococcus pyogenes phage T12 (Bacteriophage T12)	35344		Exotoxin type A (Erythrogenic toxin) (SPE A) (Scarlet fever toxin)	251	0.0
+P0DTK7	Pseudomonas phage M6	2911432		Radical SAM Nalpha-GlyT isomerase (gp53) (rSAM glycinyl-thymine isomerase)	480	0.0
+P0DX89	Pseudomonas phage JBD67	1225793		Anti-CBASS protein 2 (Acb2)	108	0.0
+P10312	Escherichia phage P2 (Bacteriophage P2)	2905681		Probable baseplate hub protein (Gene D protein) (GpD)	387	0.0
+P11111	Enterobacteria phage T4 (Bacteriophage T4)	10665		Neck protein gp14 (Gene product 14) (gp14)	256	0.0
+P13335	Enterobacteria phage T4 (Bacteriophage T4)	10665		Baseplate hub assembly protein gp26 (Gene product 26) (gp26) (Hub protein 26)	208	0.0
+P15240	Staphylococcus phage 42D (Bacteriophage P42D)	10715		Staphylokinase (Sak42D)	163	0.0
+P15417	Enterobacteria phage I2-2 (Bacteriophage I2-2)	10869		DNA-Binding protein G5P (G5P) (GPV) (Single-stranded DNA-binding protein) (pV)	108	0.0
+P15965	Enterobacteria phage fr (Bacteriophage fr)	12017		RNA-directed RNA polymerase beta chain (EC 2.7.7.48) (RNA replicase beta chain)	545	0.0
+P18030	Enterobacteria phage T6 (Bacteriophage T6)	10666		Deoxycytidylate 5-hydroxymethyltransferase (Deoxycytidylate hydroxymethylase) (EC 2.1.2.8) (HMase) (dCMP hydroxymethylase) (dCMP HMase)	246	0.0
+P19348	Escherichia phage Bf23 (Enterobacteria phage BF23)	10707		Protein A2-A3	138	0.0
+P20313	Enterobacteria phage T3 (Bacteriophage T3)	10759		Single-stranded DNA-binding protein (SSB protein) (Helix-destabilizing protein)	232	0.0
+P20324	Enterobacteria phage T3 (Bacteriophage T3)	10759		Capsid assembly scaffolding protein (Capsid assembly protein) (Gene product 9) (Gp9) (Head morphogenesis protein) (Scaffold protein) (Scaffolding protein)	310	0.0
+P22501	Escherichia phage P2 (Bacteriophage P2)	2905681		Tail sheath protein (TSP) (Major tail sheath protein) (Protein FI)	396	0.0
+P26701	Escherichia phage P2 (Bacteriophage P2)	2905681		Baseplate protein I (Gene I protein) (GpI)	176	0.0
+P27382	Enterobacteria phage PRD1 (Bacteriophage PRD1)	10658		Infectivity protein P11	207	0.0
+P32762	Streptococcus pneumoniae phage HB-3	10728		Lytic amidase (EC 3.5.1.28) (N-acetylmuramoyl-L-alanine amidase)	318	0.0
+P36272	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Portal protein B (GpB) (Minor capsid protein B)	530	0.0
+P36275	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Head decoration protein (Head protein GPshp)	115	0.0
+P51711	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Replication protein (EC 3.1.-.-)	775	0.0
+P51773	Escherichia phage P2 (Bacteriophage P2)	2905681		Holin	93	0.0
+P68572	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Disulfide bond formation protein B (Thiol-disulfide oxidoreductase B) (Disulfide oxidoreductase B)	148	0.0
+P68656	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Head completion protein gp3 (Gene product 3) (gp3) (Head-stabilizing protein) (Head-tail joining protein)	68	0.0
+P68660	Escherichia phage lambda (Bacteriophage lambda)	2681611		Head completion protein (HCP) (Head-tail joining protein W) (gpW)	68	0.0
+P69172	Enterobacteria phage phiX174 (Isolate Sanger) (Bacteriophage phi-X174)	1217068		Protein C	86	0.0
+P85987	Serratia phage KSP100 (Serratia marcescens bacteriophage KSP100)	552529		Major capsid protein (Virion protein G)	306	0.0
+Q01146	Salmonella phage P22 (Bacteriophage P22)	10754		Internal virion protein gp16 (Ejection protein gp16) (E protein gp16)	609	0.0
+Q01743	Escherichia phage RB69 (Bacteriophage RB69)	12353		Sliding-clamp-loader small subunit (Clamp loader gp62 subunit) (Gene product 62) (gp62)	187	0.0
+Q04763	Lactococcus phage LL-H (Lactococcus delbrueckii bacteriophage LL-H)	12348		Capsid assembly scaffolding protein (Head morphogenesis protein) (Minor structural protein Gp20) (ORF2 protein) (Scaffold protein)	178	0.0
+Q04764	Lactococcus phage mv4 (Lactococcus delbrueckii bacteriophage mv4)	12392		Capsid assembly scaffolding protein (Head morphogenesis protein) (Minor structural protein Gp20) (ORF2 protein) (Scaffold protein)	180	0.0
+Q05286	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Repressor-like immunity protein (Gp71)	183	0.0
+Q05296	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Holin (Gene product 11) (gp11)	131	0.0
+Q06419	Escherichia phage P2 (Bacteriophage P2)	2905681		Replication gene A protein (EC 3.1.-.-) (GpA)	761	0.0
+Q37892	Bacillus phage B103 (Bacteriophage B103)	2994042		Proximal tail tube connector protein (Gene product 11) (gp11) (Lower collar protein) (Protein p11)	293	0.0
+Q37979	Listeria phage A500 (Bacteriophage A500)	40522		L-alanyl-D-glutamate peptidase (EC 3.4.24.-)	289	0.0
+Q38039	Enterobacteria phage phiK (Bacteriophage phi-K)	10848		External scaffolding protein D (Scaffolding protein D) (GPD)	150	0.0
+Q38041	Enterobacteria phage phiK (Bacteriophage phi-K)	10848		Capsid protein F (F protein) (GPF)	431	0.0
+Q38066	Pseudomonas phage Pf1 (Bacteriophage Pf1)	2011081		Head virion protein G6P (Coat protein D) (G6P) (pVI)	141	0.0
+Q38134	Lactococcus phage r1t (Bacteriophage r1t)	43685		Holin	75	0.0
+Q775C3	Bordetella phage BPP-1	2885909		Probable portal protein (Gene product 21) (gp21) (Head-to-tail connector)	555	0.0
+Q7Y2D5	Pseudomonas phage phiKMV	204270		Portal protein (Head-to-tail connector)	510	0.0
+Q7Y5B1	Escherichia phage RB69 (Bacteriophage RB69)	12353		Small outer capsid protein (Soc)	78	0.0
+Q857H2	Mycobacterium phage Bxz2 (Mycobacteriophage Bxz2)	205870		Putative adenosylcobalamin-dependent ribonucleoside-triphosphate reductase (EC 1.17.4.2) (Gp50)	672	0.0
+Q859K6	Staphylococcus phage 44AHJD	204086		Portal protein (Connector protein) (Gene product 19) (gp19) (Head-to-tail connector) (Probable portal protein) (Upper collar protein)	249	0.0
+Q9T1X1	Escherichia phage Mu (Bacteriophage Mu)	2681603		Spanin, inner membrane subunit (i-spanin) (gene product 23) (gp23)	128	0.0
+D3WAC0	Lactococcus phage p2 (Lactococcus lactis bacteriophage p2)	254252		Terminase small subunit (Gene product 1) (gp1)	174	0.0
+G9M952	Staphylococcus phage S24-1	1010614		Major capsid protein (Major head protein)	403	0.0
+I7H893	Helicobacter pylori bacteriophage KHP30	1208236		Coiled-coil domain-containing protein ORF13	186	0.0
+O34055	Streptococcus phage O1205 (Streptococcus bacteriophage phi-O1205)	85154		Putative autolysin regulatory protein ArpU	138	0.0
+O48425	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Protein ninF	58	0.0
+O48428	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Protein ninH	64	0.0
+O64222	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Minor tail protein Gp28	596	0.0
+P11130	Pseudomonas phage phi6 (Bacteriophage phi-6)	2928686		Protein P13	72	0.0
+P15236	Escherichia phage 186 (Bacteriophage 186)	29252		Protein fil	75	0.0
+P18683	Escherichia phage HK022 (Bacteriophage HK022)	10742		Transcription termination factor nun	112	0.0
+P22499	Escherichia phage P1 (Bacteriophage P1)	2886926		Modulator protein	82	0.0
+P24795	Escherichia phage D108 (Bacteriophage D108)	665033		Uncharacterized protein gp14 (E15) (Gene product 14) (gp14)	96	0.0
+P42267	Escherichia phage RB69 (Bacteriophage RB69)	12353		Nucleoid disruption protein (Nuclear disruption protein)	152	0.0
+P42549	Acholeplasma phage L2 (Bacteriophage L2)	46014		Uncharacterized 26.1 kDa protein (ORF14)	238	0.0
+P68936	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Gene product 16.9 (gp16.9) (Protein p16.9)	108	0.0
+P69174	Escherichia phage 933W (Bacteriophage 933W)	10730		Protein ninG	201	0.0
+Q05233	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Minor tail protein Gp26	837	0.0
+Q05278	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Minor tail protein Gp6	313	0.0
+Q38490	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp13 (E14) (Gene product 13) (gp13)	60	0.0
+Q38662	Salmonella phage P22 (Bacteriophage P22)	10754		Protein ninB	145	0.0
+Q6QGG9	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Putative transcription factor D5	255	0.0
+Q6Y7S3	Staphylococcus phage K	221915		Major capsid protein (Major head protein)	463	0.0
+Q9AYZ1	Enterobacteria phage HK620 (Bacteriophage HK620)	155148		DNA transfer protein gp7	230	0.0
+Q9T1T7	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Putative lysis protein S (p11)	94	0.0
+Q9XJQ3	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Protein ninF	56	0.0
+Q9ZWX5	Escherichia phage 933W (Bacteriophage 933W)	10730		Protein ninE	64	0.0
+B0ZSH1	Halomonas phage phiHAP-1 (isolate -/Gulf of Mexico/-/2001) (Bacteriophage phiHAP-1)	1283337		Probable tape measure protein (TMP) (Gene product 23) (gp23)	861	0.0011614401858304297
+B4YNE8	Sputnik virophage	543939		Structural protein V8	184	0.0
+I7H0H9	Helicobacter pylori bacteriophage KHP30	1208236		Major structural protein ORF14	381	0.0
+O22005	Shigella phage SfV (Shigella flexneri bacteriophage V) (Bacteriophage SfV)	55884		Probable tail fiber assembly protein (P37)	167	0.0
+O22010	Shigella phage SfV (Shigella flexneri bacteriophage V) (Bacteriophage SfV)	55884		Excisionase	147	0.0
+O48499	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Protein D14	160	0.0
+O64206	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Gene 13 protein (Gp13)	595	0.0
+P03687	Salmonella phage P22 (Bacteriophage P22)	10754		DNA replication protein gp18	271	0.0
+P03767	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ninD	57	0.0
+P03769	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ninF	56	0.0
+P03791	Escherichia phage T7 (Bacteriophage T7)	10760		Protein 1.4 (Gene product 1.4) (Gp1.4)	51	0.0
+P04132	Escherichia phage P2 (Bacteriophage P2)	2905681		Repressor protein C	99	0.0
+P06954	Bacillus phage PZA (Bacteriophage PZA)	10757		Gene product 5B (gp5B) (Protein p5B)	65	0.0
+P16516	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Gene product 16.6 (gp16.6) (Protein p16.6)	54	0.0
+P51734	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Putative tail protein gp30 (Gene product 30) (gp30)	174	0.0
+P69176	Escherichia phage 933W (Bacteriophage 933W)	10730		Protein ninH	64	0.0
+P69190	Enterobacteria phage RB32 (Bacteriophage RB32)	45406		Nucleoid disruption protein (Nuclear disruption protein)	152	0.0
+P85230	Enterococcus phage phiEF24C (Enterococcus bacteriophage phi-EF24C)	442493		Virion protein 6	112	0.0
+Q04766	Lactococcus phage mv4 (Lactococcus delbrueckii bacteriophage mv4)	12392		Structural protein (ORF1 protein) (ORF371)	123	0.0
+Q04775	Lactococcus phage mv4 (Lactococcus delbrueckii bacteriophage mv4)	12392		Uncharacterized protein ORF5	113	0.0
+Q37898	Bacillus phage B103 (Bacteriophage B103)	2994042		Early protein GP17	129	0.0
+Q38278	Lactococcus phage c2	2681624		Gene product 19 (gp19) (AbiQ resistance protein) (E19)	107	0.0
+Q38669	Salmonella phage P22 (Bacteriophage P22)	10754		Protein ninH	67	0.0
+Q859K5	Staphylococcus phage 44AHJD	204086		Major capsid protein (Gene product 20) (gp20) (Major head protein)	408	0.0
+Q8HAD9	Salmonella phage ST64T (Bacteriophage ST64T)	173443		DNA transfer protein gp7	229	0.0
+Q9G052	Bdellovibrio phage phiMH2K (Bacteriophage phiMH2K)	145579		Protein VP5	84	0.0
+Q9T1R1	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Probable tail fiber assembly protein (P37)	155	0.0
+Q9T1R3	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Putative DNA transfer protein p35	625	0.0
+Q9T1R5	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Putative DNA transfer protein p33	462	0.0
+Q9T1R6	Acyrthosiphon pisum secondary endosymbiont phage 1 (Bacteriophage APSE-1)	2682836		Putative DNA transfer protein p32	209	0.0
+Q9T1W0	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp35 (Gene product 35) (gp35)	136	0.0
+Q9T1X0	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp24 (Gene product 24) (gp24)	64	0.0
+B4YNE7	Sputnik virophage	543939		Uncharacterized protein V7	236	0.0
+D6RRG7	Pseudomonas phage KPP10 (Bacteriophage KPP10)	582345		Structural protein ORF10	173	0.0
+I7H0I4	Helicobacter pylori bacteriophage KHP30	1208236		Coiled-coil domain-containing protein ORF29	271	0.0
+O48424	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Protein ninE	58	0.0
+O64202	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Minor tail protein Gp6	322	0.0
+O64210	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Probable major capsid protein gp17 (Gene product 17) (gp17) (Major head protein gp17)	318	0.0
+O64220	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Minor tail protein Gp26	837	0.0
+O64363	Escherichia phage N15 (Bacteriophage N15)	1604876		Protein gp55	181	0.0
+P03756	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ea22	182	0.0
+P03768	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ninE (Nin60)	60	0.0
+P11191	Salmonella phage P22 (Bacteriophage P22)	10754		Anti-RecBCD protein 2 (Protein abc2)	97	0.0
+P16518	Bacillus phage phi29 (Bacteriophage phi-29)	2884424		Gene product 16.8 (gp16.8) (Protein p16.8)	105	0.0
+P23208	Escherichia phage T5 (Enterobacteria phage T5)	2695836		Probable terminase, small subunit	160	0.0
+P34081	Bacillus phage SP01 (Bacteriophage SP01)	2884427		DNA endonuclease I-HmuI (EC 3.1.-.-) (HNH homing endonuclease I-HmuI)	174	0.0
+P39487	Enterobacteria phage T4 (Bacteriophage T4)	10665		Uncharacterized 14.7 kDa protein in Gp60-mobA intergenic region	126	0.0
+P41062	Escherichia phage 186 (Bacteriophage 186)	29252		Uncharacterized 37.8 kDa protein in gpa 5'region	334	0.0
+P42268	Enterobacteria phage RB70 (Bacteriophage RB70)	36338		Nucleoid disruption protein (Nuclear disruption protein)	147	0.0
+P51731	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Probable tape measure protein (TMP) (Gene product 27) (gp27)	689	0.0
+P68576	Bacillus phage SPbeta (Bacillus phage SPBc2) (Bacteriophage SP-beta)	2932878		Stress response protein SCP1	104	0.0
+P68652	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Protein ninB	146	0.0
+P68934	Bacillus phage phi15 (Bacteriophage phi-15)	10755		Gene product 16.8 (gp16.8) (Protein p16.8)	105	0.0
+Q05219	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Gene 13 protein (Gp13)	593	0.0
+Q05234	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Minor tail protein Gp27	336	0.0
+Q05235	Mycobacterium phage L5 (Mycobacteriophage L5)	31757		Minor tail protein Gp28	596	0.0
+Q37871	Enterobacteria phage 82 (Bacteriophage 82)	10705		Protein ninE	56	0.0
+Q38362	Mycobacterium phage D29 (Mycobacteriophage D29)	28369		Major tail protein Gp23 (Major coat protein)	198	0.0
+Q38477	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp6 (E5) (Gene product 6) (gp6)	76	0.0
+Q38625	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp18 (E18) (E18 protein) (Gene product 18)	72	0.0
+Q38663	Salmonella phage P22 (Bacteriophage P22)	10754		Protein ninD	57	0.0
+B4YNF9	Sputnik virophage	543939		Structural protein V19	218	0.0
+G9M973	Staphylococcus phage S13'	1010615		Major capsid protein (Major head protein)	403	0.0
+O21894	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		SaV protein (Gene product 26) (Gp26)	128	0.0
+O48403	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Putative gene 49 protein	117	0.0
+O48414	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Putative gene 60 protein	73	0.0
+O48429	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Antitermination protein Q	144	0.0
+P03654	Escherichia phage G4 (Bacteriophage G4)	10843		K protein	56	0.0
+P03765	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ninB	146	0.0
+P03771	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ninH	68	0.0
+P03787	Escherichia phage T7 (Bacteriophage T7)	10760		Fusion protein 5.5/5.7	169	0.0
+P06226	Bacillus phage SP01 (Bacteriophage SP01)	2884427		Gene 33 protein	101	0.0
+P09677	Enterobacteria phage SP (Bacteriophage SP)	12027		Minor capsid protein A1	331	0.0
+P15854	Bacillus phage phi15 (Bacteriophage phi-15)	10755		Gene product 16.6 (gp16.6) (Protein p16.6)	54	0.0
+P19183	Chlamydia phage 1 (Bacteriophage Chp1)	2003327		Protein ORF5	96	0.0
+P20836	Enterobacteria phage T3 (Bacteriophage T3)	10759		Bacterial RNA polymerase inhibitor (Gene product 2) (Gp2)	54	0.0
+P21680	Escherichia phage 186 (Bacteriophage 186)	29252		Protein dhr	66	0.0
+P42548	Acholeplasma phage L2 (Bacteriophage L2)	46014		Uncharacterized 81.3 kDa protein (ORF13)	738	0.0
+P51733	Haemophilus phage HP1 (strain HP1c1) (Bacteriophage HP1)	1289570		Putative baseplate protein gp29 (Gene 29 protein) (Gp29)	393	0.0
+Q04774	Lactococcus phage mv4 (Lactococcus delbrueckii bacteriophage mv4)	12392		Uncharacterized protein ORF4	144	0.0
+Q38480	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp8 (E7) (Gene product 8) (gp8)	139	0.0
+Q38664	Salmonella phage P22 (Bacteriophage P22)	10754		Protein ninE	58	0.0
+Q38667	Salmonella phage P22 (Bacteriophage P22)	10754		Protein ninG	203	0.0
+Q6KGH8	Salmonella phage Felix O1 (isolate Felix O1-VT1) (Bacteriophage Felix O1)	1283336		Probable tape measure protein (TMP)	742	0.0
+Q9T1W8	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp26 (Gene product 26) (gp26)	96	0.0
+Q9XJQ2	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Protein ninE	60	0.0
+A9CRB8	Staphylococcus phage phiMR11	379501		Putative tail protein (Putative uncharacterized protein orf50)	186	0.0
+B4YNF2	Sputnik virophage	543939		Uncharacterized protein V12	152	0.0
+E1XTG1	Salmonella phage ViI	1987993		Major capsid protein (Major head protein)	440	0.0
+O21869	Lactococcus phage SK1 (Lactococcus lactis bacteriophage SK1)	2905675		Terminase small subunit (Gene product 1) (gp1)	174	0.0
+O48427	Enterobacteria phage H19B (Bacteriophage H19B)	69932		Protein ninG	201	0.0
+P03037	Salmonella phage P22 (Bacteriophage P22)	10754		Antirepressor protein ant	300	0.0
+P03770	Escherichia phage lambda (Bacteriophage lambda)	2681611		Protein ninG	204	0.0
+P08385	Bacillus phage PZA (Bacteriophage PZA)	10757		Gene product 16.6 (gp16.6) (Protein p16.6)	54	0.0
+P0DUE5	Enterobacteria phage VT1-Sakai	462299		DinI-like protein	82	0.0
+P19194	Chlamydia phage 1 (Bacteriophage Chp1)	2003327		Internal scaffolding protein VP3 (Protein VP3) (VP3)	145	0.0
+P42265	Enterobacteria phage T6 (Bacteriophage T6)	10666		Nucleoid disruption protein (Nuclear disruption protein)	151	0.0
+P59217	Shigella phage SfV (Shigella flexneri bacteriophage V) (Bacteriophage SfV)	55884		Putative terminase large subunit	577	0.0
+Q04768	Lactococcus phage LL-H (Lactococcus delbrueckii bacteriophage LL-H)	12348		Uncharacterized protein ORF4	144	0.0
+Q04769	Lactococcus phage LL-H (Lactococcus delbrueckii bacteriophage LL-H)	12348		Uncharacterized protein ORF5 (ORF118)	118	0.0
+Q24LI1	Clostridium phage phiCD119 (strain Clostridium difficile/United States/Govind/2006) (Bacteriophage phiCD119)	2883936		Probable tape measure protein (TMP)	944	0.0
+Q37907	Pseudomonas phage D3 (Bacteriophage D3)	2932880		Regulatory protein cro (Antirepressor)	73	0.0
+Q38479	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp7 (E6) (Gene product 7) (gp7)	87	0.0
+Q38482	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp9 (E8) (Gene product 9) (gp9)	99	0.0
+Q38488	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp12 (E13) (Gene product 12) (gp12)	176	0.0
+Q38646	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp19 (E19 protein) (Gene product 19) (gp19)	120	0.0
+Q38666	Salmonella phage P22 (Bacteriophage P22)	10754		Protein ninF	58	0.0
+Q9T1L9	Enterobacteria phage VT2-Sa (Bacteriophage VT2-Sa)	97081		Protein ninE	60	0.0
+Q9T1X4	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp15 (Gene product 15) (gp15)	88	0.0
+Q9T1X7	Escherichia phage Mu (Bacteriophage Mu)	2681603		Uncharacterized protein gp11 (Gene product 11) (gp11)	176	0.0
+Q9XJQ4	Enterobacteria phage P21 (Bacteriophage 21) (Bacteriophage P21)	10711		Protein ninG	204	0.0
+Q9XJR9	Pseudoalteromonas phage PM2 (Bacteriophage PM2)	2905728		Protein P9 (Protein IX)	218	0.0
+V5XVW4	Staphylococcus phage S25-3	1041526		Major capsid protein (Major head protein)	463	0.0

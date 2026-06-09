@@ -1,0 +1,245 @@
+{
+  "esmc_600m": {
+    "rho": 0.961266791608454,
+    "rho_within": {
+      "cellular": 0.9048348039707553,
+      "random": 0.08458889228003783,
+      "shuffled_nv": 0.30720764199893597,
+      "shuffled_v": 0.23261847099439137,
+      "viral": 0.894464618841699
+    },
+    "n": 66790,
+    "pc1_var": 0.7310243248939514,
+    "pc2_var": 0.034238919615745544,
+    "group_counts": {
+      "cellular": 42576,
+      "viral": 8814,
+      "shuffled_nv": 5197,
+      "shuffled_v": 5203,
+      "random": 5000
+    },
+    "group_mean_ppl": {
+      "cellular": 4.489495754241943,
+      "viral": 13.015121459960938,
+      "shuffled_nv": 18.132915496826172,
+      "shuffled_v": 18.502357482910156,
+      "random": 21.317638397216797
+    },
+    "strip": {
+      "Random uniform": {
+        "n": 5000,
+        "median": 21.139266488597144
+      },
+      "Shuffled virus": {
+        "n": 5203,
+        "median": 18.611666718017805
+      },
+      "Shuffled cellular": {
+        "n": 5197,
+        "median": 18.19887387286664
+      },
+      "Human virus": {
+        "n": 5203,
+        "median": 15.285314804596249
+      },
+      "Plant virus": {
+        "n": 954,
+        "median": 14.885131772833486
+      },
+      "Invertebrate virus": {
+        "n": 1395,
+        "median": 13.296103312816893
+      },
+      "Bacteriophage": {
+        "n": 1262,
+        "median": 7.142443729386116
+      },
+      "Fungi": {
+        "n": 5000,
+        "median": 5.1376980302691315
+      },
+      "Insects": {
+        "n": 5000,
+        "median": 5.016082558361143
+      },
+      "Plants": {
+        "n": 5000,
+        "median": 3.825645561210104
+      },
+      "Archaea": {
+        "n": 17379,
+        "median": 3.612069426542341
+      },
+      "Human": {
+        "n": 5197,
+        "median": 3.190787686637112
+      },
+      "Bacteria": {
+        "n": 5000,
+        "median": 2.915727880926637
+      }
+    }
+  },
+  "progen2_base": {
+    "rho": 0.9025824158587532,
+    "rho_within": {
+      "cellular": 0.8153170958066663,
+      "random": -0.43306058691258786,
+      "shuffled_nv": 0.5340958214825644,
+      "shuffled_v": 0.3112968833542464,
+      "viral": 0.8596791016215928
+    },
+    "n": 66790,
+    "pc1_var": 0.5452677607536316,
+    "pc2_var": 0.12514573335647583,
+    "group_counts": {
+      "cellular": 42576,
+      "viral": 8814,
+      "shuffled_nv": 5197,
+      "shuffled_v": 5203,
+      "random": 5000
+    },
+    "group_mean_ppl": {
+      "cellular": 7.243215084075928,
+      "viral": 13.97547721862793,
+      "shuffled_nv": 18.278072357177734,
+      "shuffled_v": 18.72577476501465,
+      "random": 22.051088333129883
+    },
+    "strip": {
+      "Random uniform": {
+        "n": 5000,
+        "median": 21.876048355705873
+      },
+      "Shuffled virus": {
+        "n": 5203,
+        "median": 18.85627555954561
+      },
+      "Shuffled cellular": {
+        "n": 5197,
+        "median": 18.340036661829654
+      },
+      "Plant virus": {
+        "n": 954,
+        "median": 16.85901031178924
+      },
+      "Invertebrate virus": {
+        "n": 1395,
+        "median": 16.83186636481431
+      },
+      "Human virus": {
+        "n": 5203,
+        "median": 16.276447183178664
+      },
+      "Bacteriophage": {
+        "n": 1262,
+        "median": 15.495123556000205
+      },
+      "Fungi": {
+        "n": 5000,
+        "median": 8.619586573596969
+      },
+      "Insects": {
+        "n": 5000,
+        "median": 7.845897370665318
+      },
+      "Archaea": {
+        "n": 17379,
+        "median": 6.169548237764079
+      },
+      "Plants": {
+        "n": 5000,
+        "median": 4.818983747338517
+      },
+      "Human": {
+        "n": 5197,
+        "median": 3.964390481255943
+      },
+      "Bacteria": {
+        "n": 5000,
+        "median": 3.4776386336820515
+      }
+    }
+  },
+  "evodiff_oadm_640m": {
+    "rho": 0.951390217610385,
+    "rho_within": {
+      "cellular": 0.9112492291070842,
+      "random": -0.20401242965925276,
+      "shuffled_nv": 0.5080356799001605,
+      "shuffled_v": 0.29094469141024665,
+      "viral": 0.7142722574082095
+    },
+    "n": 66790,
+    "pc1_var": 0.27384960651397705,
+    "pc2_var": 0.10569655150175095,
+    "group_counts": {
+      "cellular": 42576,
+      "viral": 8814,
+      "shuffled_nv": 5197,
+      "shuffled_v": 5203,
+      "random": 5000
+    },
+    "group_mean_ppl": {
+      "cellular": 10.483658790588379,
+      "viral": 16.08574867248535,
+      "shuffled_nv": 18.126028060913086,
+      "shuffled_v": 18.606842041015625,
+      "random": 21.903352737426758
+    },
+    "strip": {
+      "Random uniform": {
+        "n": 5000,
+        "median": 21.768751390027127
+      },
+      "Shuffled virus": {
+        "n": 5203,
+        "median": 18.730081042627983
+      },
+      "Shuffled cellular": {
+        "n": 5197,
+        "median": 18.195798492246297
+      },
+      "Plant virus": {
+        "n": 954,
+        "median": 17.060259869472823
+      },
+      "Human virus": {
+        "n": 5203,
+        "median": 16.99748570483752
+      },
+      "Invertebrate virus": {
+        "n": 1395,
+        "median": 16.825697142764653
+      },
+      "Bacteriophage": {
+        "n": 1262,
+        "median": 15.699607609305883
+      },
+      "Fungi": {
+        "n": 5000,
+        "median": 12.205469221663066
+      },
+      "Insects": {
+        "n": 5000,
+        "median": 12.008872425023817
+      },
+      "Archaea": {
+        "n": 17379,
+        "median": 10.305967455660785
+      },
+      "Plants": {
+        "n": 5000,
+        "median": 9.955076412554561
+      },
+      "Human": {
+        "n": 5197,
+        "median": 8.03658832040871
+      },
+      "Bacteria": {
+        "n": 5000,
+        "median": 6.873958143313008
+      }
+    }
+  }
+}

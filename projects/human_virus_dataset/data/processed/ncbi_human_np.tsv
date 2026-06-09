@@ -1,0 +1,621 @@
+accession	title	organism	taxid	length
+NP_042692.1	polypeptide	Hepacivirus platyrrhini		2864
+NP_941974.1	glycoprotein precursor	Orthohantavirus sinnombreense		1140
+NP_941976.1	viral RNA polymerase (L protein)	Orthohantavirus sinnombreense		2153
+NP_904321.1	nsp11-pp1a	Severe acute respiratory syndrome-related coronavirus		13
+NP_904322.1	nsp4	SARS coronavirus Tor2		500
+NP_849175.1	hypothetical protein sars7b	Severe acute respiratory syndrome-related coronavirus		44
+NP_849176.1	hypothetical protein sars8a	Severe acute respiratory syndrome-related coronavirus		39
+NP_849177.1	hypothetical protein sars8b	Severe acute respiratory syndrome-related coronavirus		84
+NP_828860.2	nsp1	SARS coronavirus Tor2		180
+NP_828861.2	nsp2	SARS coronavirus Tor2		638
+NP_828862.2	nsp3	SARS coronavirus Tor2		1922
+NP_828863.1	nsp5	SARS coronavirus Tor2		306
+NP_828864.1	nsp6	SARS coronavirus Tor2		290
+NP_828865.1	nsp7	SARS coronavirus Tor2		83
+NP_828866.1	nsp8	SARS coronavirus Tor2		198
+NP_828867.1	nsp9	SARS coronavirus Tor2		113
+NP_828868.1	nsp10	SARS coronavirus Tor2		139
+NP_828869.1	nsp12-pp1ab (RdRp)	Severe acute respiratory syndrome-related coronavirus		932
+NP_828870.1	nsp13	SARS coronavirus Tor2		601
+NP_828871.1	nsp14	SARS coronavirus Tor2		527
+NP_828872.1	nsp15	SARS coronavirus Tor2		346
+NP_828873.2	nsp16	SARS coronavirus Tor2		298
+NP_828849.7	ORF1ab polyprotein	SARS coronavirus Tor2		7073
+NP_828850.1	orf1a polyprotein (pp1a)	Severe acute respiratory syndrome-related coronavirus		4382
+NP_828851.1	E2 glycoprotein precursor	Severe acute respiratory syndrome-related coronavirus		1255
+NP_828852.2	hypothetical protein sars3a	Severe acute respiratory syndrome-related coronavirus		274
+NP_828853.1	hypothetical protein sars3b	Severe acute respiratory syndrome-related coronavirus		154
+NP_828854.1	protein E	Severe acute respiratory syndrome-related coronavirus		76
+NP_828855.1	matrix protein	Severe acute respiratory syndrome-related coronavirus		221
+NP_828856.1	hypothetical protein sars6	Severe acute respiratory syndrome-related coronavirus		63
+NP_828857.1	hypothetical protein sars7a	Severe acute respiratory syndrome-related coronavirus		122
+NP_828858.1	nucleocapsid protein	Severe acute respiratory syndrome-related coronavirus		422
+NP_828859.1	hypothetical protein sars9b	Severe acute respiratory syndrome-related coronavirus		98
+NP_787042.1	p1	Human immunodeficiency virus 1		16
+NP_787043.1	Gag-Pol Transframe peptide	Human immunodeficiency virus 1		56
+NP_789739.1	reverse transcriptase p51 subunit	Human immunodeficiency virus 1		440
+NP_789740.1	Pol	Human immunodeficiency virus 1		995
+NP_705926.1	retropepsin	Human immunodeficiency virus 1		99
+NP_705927.1	reverse transcriptase	Human immunodeficiency virus 1		560
+NP_705928.1	integrase	Human immunodeficiency virus 1		288
+NP_740435.1	VP0	Aichi virus 1		370
+NP_740436.1	VP3	Aichi virus 1		224
+NP_740437.1	VP1	Aichi virus 1		278
+NP_740438.1	2A	Aichi virus 1		111
+NP_740439.1	2B	Aichi virus 1		165
+NP_740440.1	2C	Aichi virus 1		335
+NP_740441.2	3A	Aichi virus 1		95
+NP_740442.2	3B	Aichi virus 1		27
+NP_740443.1	3C	Aichi virus 1		190
+NP_740444.1	3D	Aichi virus 1		468
+NP_663784.1	gag-pol fusion polyprotein	Human immunodeficiency virus 2		1550
+NP_597817.1	G-protein coupled receptor fragment	Human betaherpesvirus 6B		143
+NP_536428.1	Chemokine binding protein	Monkeypox virus		246
+NP_536429.1	Crm-B secreted TNF-alpha-receptor-like protein	Monkeypox virus		348
+NP_536430.1	Ankyrin repeat protein (25)	Monkeypox virus		587
+NP_536431.1	Ankyrin repeat protein (39)	Monkeypox virus		437
+NP_536432.1	D2L	Monkeypox virus Zaire-96-I-16		64
+NP_536433.1	EGF-like domain protein	Monkeypox virus		142
+NP_536434.1	D4L	Monkeypox virus Zaire-96-I-16		83
+NP_536435.1	Zinc finger-like protein (2)	Monkeypox virus		242
+NP_536436.1	Interleukin-18-binding protein	Monkeypox virus		126
+NP_536437.1	Ankyrin repeat protein (2)	Monkeypox virus		660
+NP_536438.1	retroviral pseudoprotease-like protein	Monkeypox virus		64
+NP_536439.1	Ankyrin repeat protein (14)	Monkeypox virus		630
+NP_536440.1	Host range protein	Monkeypox virus		150
+NP_536441.1	Bcl-2-like protein	Monkeypox virus		153
+NP_536442.1	Kelch-like protein (1)	Monkeypox virus		206
+NP_536443.1	C4L/C10L-like family protein	Monkeypox virus		315
+NP_536444.1	Complement control protein (CCP)	Monkeypox virus		216
+NP_536445.1	D15L	Monkeypox virus Zaire-96-I-16		105
+NP_536446.1	D16L	Monkeypox virus Zaire-96-I-16		77
+NP_536447.1	D17L	Monkeypox virus Zaire-96-I-16		98
+NP_536448.1	D18L	Monkeypox virus Zaire-96-I-16		107
+NP_536449.1	Bcl-2-like protein	Monkeypox virus		214
+NP_536450.1	Bcl-2-like protein	Monkeypox virus		117
+NP_536451.1	Bcl-2-like protein	Monkeypox virus		177
+NP_536452.1	Ankyrin-like protein (1)	Monkeypox virus		442
+NP_536453.1	NFkB inhibitor	Monkeypox virus		220
+NP_536454.1	Ankyrin-like protein (3)	Monkeypox virus		284
+NP_536455.1	Serpin	Monkeypox virus		375
+NP_536456.1	C3L	Monkeypox virus Zaire-96-I-16		43
+NP_536457.1	Phospholipase-D-like protein	Monkeypox virus		424
+NP_536458.1	Putative monoglyceride lipase	Monkeypox virus		276
+NP_536459.1	Bcl-2-like protein	Monkeypox virus		149
+NP_536460.1	Caspase-9 inhibitor	Monkeypox virus		219
+NP_536461.1	dUTPase	Monkeypox virus		151
+NP_536462.1	Kelch-like protein (2)	Monkeypox virus		487
+NP_536463.1	Ribonucleotide reductase small subunit	Monkeypox virus		319
+NP_536464.2	Telomere-binding protein I6 (1)	Monkeypox virus		317
+NP_536465.1	CPXV053 protein	Monkeypox virus		73
+NP_536466.1	CPXV054 protein	Monkeypox virus		74
+NP_536467.1	Cytoplasmic protein	Monkeypox virus		64
+NP_536468.1	IMV membrane protein L1R	Monkeypox virus		212
+NP_536469.1	Serine/threonine-protein kinase	Monkeypox virus		439
+NP_536470.1	Protein F11	Monkeypox virus		354
+NP_536471.1	EEV maturation protein	Monkeypox virus		635
+NP_536472.1	Palmytilated EEV membrane protein	Monkeypox virus		372
+NP_536473.1	Protein F14 (1)	Monkeypox virus		73
+NP_536474.1	Protein F15	Monkeypox virus		158
+NP_536475.1	Protein F16 (1)	Monkeypox virus		231
+NP_536476.1	DNA-binding phosphoprotein (1)	Monkeypox virus		101
+NP_536477.1	Poly(A) polymerase catalytic subunit (3)	Monkeypox virus		479
+NP_536478.1	Iev morphogenesis protein	Monkeypox virus		737
+NP_536479.1	Double-stranded RNA binding protein	Monkeypox virus		153
+NP_536480.1	DNA-directed RNA polymerase 30 kDa polypeptide	Monkeypox virus		259
+NP_536481.1	IMV membrane protein E6	Monkeypox virus		567
+NP_536482.1	Myristoylated protein E7	Monkeypox virus		166
+NP_536483.1	Membrane protein E8	Monkeypox virus		273
+NP_536484.1	DNA polymerase (2)	Monkeypox virus		1006
+NP_536485.1	Sulfhydryl oxidase	Monkeypox virus		95
+NP_536486.1	Virion core protein E11	Monkeypox virus		129
+NP_536487.1	Iev morphogenesis protein	Monkeypox virus		665
+NP_536488.1	Glutaredoxin-1	Monkeypox virus		108
+NP_536489.1	Telomere-binding protein I1	Monkeypox virus		312
+NP_536490.1	IMV membrane protein I2	Monkeypox virus		73
+NP_536491.1	DNA-binding phosphoprotein (2)	Monkeypox virus		269
+NP_536492.1	Ribonucleoside-diphosphate reductase (2)	Monkeypox virus		771
+NP_536493.1	IMV membrane protein I5	Monkeypox virus		79
+NP_536494.1	Telomere-binding protein	Monkeypox virus		382
+NP_536495.1	Viral core cysteine proteinase	Monkeypox virus		423
+NP_536496.1	RNA helicase NPH-II (2)	Monkeypox virus		676
+NP_536497.1	Metalloendopeptidase	Monkeypox virus		591
+NP_536498.1	Entry/fusion complex component	Monkeypox virus		111
+NP_536499.1	Late transcription elongation factor	Monkeypox virus		220
+NP_536500.1	Glutaredoxin-2	Monkeypox virus		124
+NP_536501.1	FEN1-like nuclease	Monkeypox virus		434
+NP_536502.1	DNA-directed RNA polymerase 7 kDa subunit	Monkeypox virus		63
+NP_536503.1	Nlpc/p60 superfamily protein	Monkeypox virus		165
+NP_536504.1	Assembly protein G7	Monkeypox virus		371
+NP_536505.1	Late transcription factor VLTF-1	Monkeypox virus		260
+NP_536506.1	Myristylated protein	Monkeypox virus		340
+NP_536507.1	IMV membrane protein L1R	Monkeypox virus		250
+NP_536508.1	Crescent membrane and immature virion formation protein	Monkeypox virus		92
+NP_536509.1	Internal virion L3/FP4 protein	Monkeypox virus		344
+NP_536510.1	Nucleic acid binding protein VP8/L4R	Monkeypox virus		251
+NP_536511.1	Membrane protein CL5	Monkeypox virus		128
+NP_536512.1	IMV membrane protein J1	Monkeypox virus		152
+NP_536513.1	Thymidine kinase	Monkeypox virus		177
+NP_536514.1	Cap-specific mRNA	Monkeypox virus		333
+NP_536515.1	DNA-directed RNA polymerase subunit	Monkeypox virus		185
+NP_536516.1	Myristylated protein	Monkeypox virus		133
+NP_536517.1	DNA-dependent RNA polymerase subunit rpo147	Monkeypox virus		1286
+NP_536518.1	Tyr/ser protein phosphatase	Monkeypox virus		171
+NP_536519.1	Entry-fusion complex essential component	Monkeypox virus		189
+NP_536520.1	IMV heparin binding surface protein	Monkeypox virus		324
+NP_536521.1	RNA polymerase-associated transcription-specificity factor RAP94	Monkeypox virus		795
+NP_536522.1	Late transcription factor VLTF-4 (1)	Monkeypox virus		213
+NP_536523.1	DNA topoisomerase type I	Monkeypox virus		314
+NP_536524.1	Late protein H7	Monkeypox virus		146
+NP_536525.1	mRNA capping enzyme large subunit	Monkeypox virus		845
+NP_536526.1	Virion protein D2	Monkeypox virus		146
+NP_536527.1	Virion core protein D3	Monkeypox virus		233
+NP_536528.1	Uracil DNA glycosylase superfamily	Monkeypox virus		218
+NP_536529.1	NTPase (1)	Monkeypox virus		785
+NP_536530.1	Early transcription factor 70 kDa subunit	Monkeypox virus		637
+NP_536531.1	RNA polymerase subunit RPO18	Monkeypox virus		161
+NP_536532.1	Carbonic anhydrase	Monkeypox virus		304
+NP_536533.1	NUDIX domain protein	Monkeypox virus		213
+NP_536534.1	MutT motif protein	Monkeypox virus		248
+NP_536535.1	Nucleoside triphosphatase I	Monkeypox virus		631
+NP_536536.1	mRNA capping enzyme small subunit	Monkeypox virus		287
+NP_536537.1	Rifampicin resistance protein	Monkeypox virus		551
+NP_536538.1	Late transcription factor VLTF-2 (2)	Monkeypox virus		150
+NP_536539.1	Late transcription factor VLTF-3 (1)	Monkeypox virus		224
+NP_536540.1	S-S bond formation pathway protein	Monkeypox virus		77
+NP_536541.1	Virion core protein P4b	Monkeypox virus		644
+NP_536542.1	A5L protein-like	Monkeypox virus		281
+NP_536543.1	DNA-directed RNA polymerase 19 kDa subunit	Monkeypox virus		161
+NP_536544.1	Virion morphogenesis protein	Monkeypox virus		372
+NP_536545.1	Early transcription factor 82 kDa subunit	Monkeypox virus		710
+NP_536546.1	Intermediate transcription factor VITF-3 (1)	Monkeypox virus		292
+NP_536547.1	IMV membrane protein A9	Monkeypox virus		100
+NP_536548.1	Virion core protein P4a	Monkeypox virus		891
+NP_536549.1	Viral membrane formation protein	Monkeypox virus		318
+NP_536550.1	A12 protein	Monkeypox virus		190
+NP_536551.1	IMV membrane protein A13L	Monkeypox virus		70
+NP_536552.1	IMV membrane protein A14	Monkeypox virus		90
+NP_536553.1	Core protein A15	Monkeypox virus		94
+NP_536554.1	Myristylated protein	Monkeypox virus		377
+NP_536555.1	IMV membrane protein P21	Monkeypox virus		204
+NP_536556.1	DNA helicase	Monkeypox virus		492
+NP_536557.1	Zinc finger-like protein (1)	Monkeypox virus		77
+NP_536558.1	IMV membrane protein A21	Monkeypox virus		115
+NP_536559.1	DNA polymerase processivity factor	Monkeypox virus		426
+NP_536560.1	Holliday junction resolvase	Monkeypox virus		187
+NP_536561.1	Intermediate transcription factor VITF-3 (2)	Monkeypox virus		382
+NP_536562.1	DNA-dependent RNA polymerase subunit rpo132	Monkeypox virus		1164
+NP_536563.1	A26L	Monkeypox virus Zaire-96-I-16		75
+NP_536564.1	A27L	Monkeypox virus Zaire-96-I-16		696
+NP_536565.1	Orthopoxvirus A26L/A30L protein	Monkeypox virus		520
+NP_536566.1	IMV surface fusion protein	Monkeypox virus		110
+NP_536567.1	Envelope protein A28 homolog	Monkeypox virus		146
+NP_536568.1	DNA-directed RNA polymerase 35 kDa subunit	Monkeypox virus		305
+NP_536569.1	IMV membrane protein A30	Monkeypox virus		77
+NP_536570.1	CPXV166 protein	Monkeypox virus		142
+NP_536571.1	ATPase A32	Monkeypox virus		300
+NP_536572.1	EEV glycoprotein (1)	Monkeypox virus		181
+NP_536573.1	EEV glycoprotein (2)	Monkeypox virus		168
+NP_536574.1	MHC class II antigen presentation inhibitor	Monkeypox virus		176
+NP_536575.1	IEV transmembrane phosphoprotein	Monkeypox virus		212
+NP_536576.1	CPXV173 protein	Monkeypox virus		268
+NP_536577.1	CD47-like protein	Monkeypox virus		277
+NP_536578.1	Chemokine binding protein	Monkeypox virus		221
+NP_536579.1	Profilin domain protein	Monkeypox virus		133
+NP_536580.1	Type-I membrane glycoprotein	Monkeypox virus		197
+NP_536581.1	MPXV_gp150	Monkeypox virus		74
+NP_536582.1	Hydroxysteroid dehydrogenase	Monkeypox virus		346
+NP_536583.1	Copper/zinc superoxide dismutase	Monkeypox virus		125
+NP_536584.1	Bcl-2-like protein	Monkeypox virus		240
+NP_536585.1	A48R	Monkeypox virus Zaire-96-I-16		84
+NP_536586.1	Thymidylate kinase	Monkeypox virus		204
+NP_536587.1	DNA ligase (2)	Monkeypox virus		554
+NP_536588.1	M137R	Monkeypox virus		334
+NP_536589.1	B1R	Monkeypox virus Zaire-96-I-16		70
+NP_536590.1	Hemagglutinin	Monkeypox virus		313
+NP_536591.1	Ser/thr kinase	Monkeypox virus		299
+NP_536592.1	Schlafen (1)	Monkeypox virus		503
+NP_536593.1	Ankyrin repeat protein (25)	Monkeypox virus		561
+NP_536594.1	EEV type-I membrane glycoprotein	Monkeypox virus		317
+NP_536595.1	Ankyrin-like protein (46)	Monkeypox virus		176
+NP_536596.1	Virulence protein	Monkeypox virus		182
+NP_536597.1	Soluble interferon-gamma receptor-like protein	Monkeypox virus		267
+NP_536598.1	Intracellular viral protein	Monkeypox virus		221
+NP_536599.1	Ser/thr kinase	Monkeypox virus		282
+NP_536600.1	Serpin	Monkeypox virus		344
+NP_536601.1	Bcl-2-like protein	Monkeypox virus		149
+NP_536602.1	IL-1 receptor homolog	Monkeypox virus		326
+NP_536603.1	B15L	Monkeypox virus Zaire-96-I-16		78
+NP_536604.1	IFN-alpha/beta-receptor-like secreted glycoprotein	Monkeypox virus		352
+NP_536605.1	Ankyrin repeat protein (44)	Monkeypox virus		793
+NP_536606.1	B18R	Monkeypox virus Zaire-96-I-16		70
+NP_536607.1	Serpin	Monkeypox virus		357
+NP_536608.1	Virulence protein	Monkeypox virus		190
+NP_536609.1	B22R family protein	Monkeypox virus		1879
+NP_536610.1	K1R	Monkeypox virus Zaire-96-I-16		70
+NP_536611.1	N-methyl D-aspartate receptor homolog	Monkeypox virus		105
+NP_536612.1	Bcl-2-like protein	Monkeypox virus		153
+NP_536613.1	N2R	Monkeypox virus Zaire-96-I-16		73
+NP_536614.1	Brix domain protein	Monkeypox virus		176
+NP_536615.1	Ankyrin repeat protein (39)	Monkeypox virus		437
+NP_536616.1	Ankyrin repeat protein (25)	Monkeypox virus		587
+NP_536617.1	Crm-B secreted TNF-alpha-receptor-like protein	Monkeypox virus		348
+NP_536618.1	Chemokine binding protein	Monkeypox virus		246
+NP_694863.1	NS1 protein	Human erythrovirus V9		671
+NP_694864.1	7.5-kDa protein	Human erythrovirus V9		74
+NP_694865.1	VP1 protein	Human erythrovirus V9		781
+NP_694866.1	X protein	Human erythrovirus V9		81
+NP_694867.1	VP2 protein	Human erythrovirus V9		554
+NP_694868.1	11-kDa protein	Human erythrovirus V9		103
+NP_579876.2	matrix	Human immunodeficiency virus 1		132
+NP_579880.1	capsid	Human immunodeficiency virus 1		231
+NP_579881.1	nucleocapsid	Human immunodeficiency virus 1		55
+NP_579882.1	p2	Human immunodeficiency virus 1		14
+NP_579883.1	p6	Human immunodeficiency virus 1		52
+NP_579893.2	unnamed protein product	Human immunodeficiency virus 1		28
+NP_579894.2	Envelope surface glycoprotein gp120	Human immunodeficiency virus 1		483
+NP_579895.1	Envelope transmembrane glycoprotein gp41	Human immunodeficiency virus 1		345
+NP_050176.1	putative DNA-directed RNA polymerase II	Human betaherpesvirus 6B		759
+NP_050177.1	hypothetical protein HhV6Bgp002	Human betaherpesvirus 6B		200
+NP_050178.1	hypothetical protein HhV6Bgp003	Human betaherpesvirus 6B		159
+NP_050179.1	hypothetical protein HhV6Bgp004	Human betaherpesvirus 6B		79
+NP_050180.1	transactivator	Human betaherpesvirus 6B		392
+NP_050181.1	hypothetical protein HhV6Bgp006	Human betaherpesvirus 6B		59
+NP_050182.1	hypothetical protein HhV6Bgp007	Human betaherpesvirus 6B		193
+NP_050183.1	membrane protein	Human betaherpesvirus 6B		79
+NP_050184.1	transactivator	Human betaherpesvirus 6B		363
+NP_050185.1	transactivator	Human betaherpesvirus 6B		386
+NP_050186.1	hypothetical protein HhV6Bgp009	Human betaherpesvirus 6B		535
+NP_050187.1	hypothetical protein HhV6Bgp013	Human betaherpesvirus 6B		903
+NP_050188.1	hypothetical protein HhV6Bgp014	Human betaherpesvirus 6B		68
+NP_050189.1	hypothetical protein HhV6Bgp012	Human betaherpesvirus 6B		411
+NP_050190.1	hypothetical protein HhV6Bgp015	Human betaherpesvirus 6B		104
+NP_050191.1	hypothetical protein HhV6Bgp016	Human betaherpesvirus 6B		503
+NP_050193.1	G-protein coupled receptor	Human betaherpesvirus 6B		205
+NP_050194.1	hypothetical protein HhV6Bgp019	Human betaherpesvirus 6B		107
+NP_050195.1	hypothetical protein HhV6Bgp020	Human betaherpesvirus 6B		610
+NP_050196.1	hypothetical protein HhV6Bgp021	Human betaherpesvirus 6B		191
+NP_050197.1	transcription regulator	Human betaherpesvirus 6B		334
+NP_050198.1	immediate-early protein 6	Human betaherpesvirus 6B		294
+NP_050199.1	immediate-early protein 4	Human betaherpesvirus 6B		389
+NP_050200.1	glycoprotein	Human betaherpesvirus 6B		434
+NP_050201.1	putative membrane glycoprotein	Human betaherpesvirus 6B		500
+NP_050202.1	glycoprotein	Human betaherpesvirus 6B		202
+NP_050203.1	glycoprotein	Human betaherpesvirus 6B		299
+NP_050204.1	hypothetical protein HhV6Bgp027	Human betaherpesvirus 6B		88
+NP_050205.1	hypothetical protein HhV6Bgp026	Human betaherpesvirus 6B		57
+NP_050206.1	hypothetical protein HhV6Bgp025	Human betaherpesvirus 6B		316
+NP_050207.1	hypothetical protein HhV6Bgp033	Human betaherpesvirus 6B		295
+NP_050208.1	Polymerase processivity factor	Human betaherpesvirus 6B		366
+NP_050209.1	large ribonuclease reductase	Human betaherpesvirus 6B		804
+NP_050210.1	capsid assembly and DNA maturation	Human betaherpesvirus 6B		299
+NP_050211.1	capsid assembly protein	Human betaherpesvirus 6B		1082
+NP_050212.1	large tegument protein	Human betaherpesvirus 6B		2077
+NP_050213.1	putative capsid protein	Human betaherpesvirus 6B		89
+NP_050214.1	capsid protein	Human betaherpesvirus 6B		470
+NP_050215.1	putative virion protein	Human betaherpesvirus 6B		276
+NP_050216.1	hypothetical protein HhV6Bgp038	Human betaherpesvirus 6B		106
+NP_050217.1	virion protein	Human betaherpesvirus 6B		484
+NP_050218.1	hypothetical protein HhV6Bgp043	Human betaherpesvirus 6B		264
+NP_050219.1	DNA polymerase	Human betaherpesvirus 6B		1012
+NP_050220.1	Glycoprotein B	Human betaherpesvirus 6B		830
+NP_050221.1	transport/capsid assembly	Human betaherpesvirus 6B		726
+NP_050233.1	hypothetical protein HhV6Bgp058	Human betaherpesvirus 6B		258
+NP_050234.1	proteinase	Human betaherpesvirus 6B		528
+NP_050235.1	virion transactivator	Human betaherpesvirus 6B		459
+NP_050236.1	hypothetical protein HhV6Bgp062	Human betaherpesvirus 6B		492
+NP_050237.1	capsid protein	Human betaherpesvirus 6B		296
+NP_050238.1	major capsid protein	Human betaherpesvirus 6B		1345
+NP_050239.1	hypothetical protein HhV6Bgp064	Human betaherpesvirus 6B		772
+NP_050240.1	hypothetical protein HhV6Bgp065	Human betaherpesvirus 6B		350
+NP_050241.1	Putative terminase	Human betaherpesvirus 6B		666
+NP_050242.1	hypothetical protein HhV6Bgp067	Human betaherpesvirus 6B		87
+NP_050243.1	hypothetical protein HhV6Bgp068	Human betaherpesvirus 6B		218
+NP_050244.1	tegument protein	Human betaherpesvirus 6B		442
+NP_050245.1	tegument protein	Human betaherpesvirus 6B		335
+NP_050246.1	hypothetical protein HhV6Bgp071	Human betaherpesvirus 6B		353
+NP_050247.1	hypothetical protein HhV6Bgp072	Human betaherpesvirus 6B		114
+NP_050248.1	Phosphotransferase	Human betaherpesvirus 6B		563
+NP_050259.1	DNA replication	Human betaherpesvirus 6B		480
+NP_050263.1	putative glycoprotein	Human betaherpesvirus 6B		342
+NP_050264.1	glycoprotein	Human betaherpesvirus 6B		292
+NP_050265.1	major immediate-early protein	Human betaherpesvirus 6B		1520
+NP_050266.1	IE-A transactivator	Human betaherpesvirus 6B		1078
+NP_050267.1	probable membrane glycoprotein	Human betaherpesvirus 6B		156
+NP_050268.1	hypothetical protein HhV6Bgp093	Human betaherpesvirus 6B		265
+NP_050269.1	Parvovirus rep homolog	Human betaherpesvirus 6B		490
+NP_050270.1	immediate-early protein IE2	Human betaherpesvirus 6B		1212
+NP_050271.1	spliced envelope glycoprotein	Human betaherpesvirus 6B		616
+NP_050272.1	hypothetical protein HhV6Bgp097	Human betaherpesvirus 6B		106
+NP_050273.1	putative DNA-directed RNA polymerase	Human betaherpesvirus 6B		759
+NP_050274.1	hypothetical protein HhV6Bgp099	Human betaherpesvirus 6B		200
+NP_050275.1	hypothetical protein HhV6Bgp100	Human betaherpesvirus 6B		159
+NP_050276.1	hypothetical protein HhV6Bgp101	Human betaherpesvirus 6B		79
+NP_050277.1	transactivator	Human betaherpesvirus 6B		392
+NP_050278.1	hypothetical protein HhV6Bgp103	Human betaherpesvirus 6B		59
+NP_057855.1	Vpu	Human immunodeficiency virus 1		82
+NP_057849.4	Gag-Pol	Human immunodeficiency virus 1		1435
+NP_047200.1	polyprotein	Aichi virus 1		2433
+NP_057850.1	Pr55(Gag)	Human immunodeficiency virus 1		500
+NP_057851.1	Vif	Human immunodeficiency virus 1		192
+NP_057852.2	Vpr	Human immunodeficiency virus 1		96
+NP_057853.1	Tat	Human immunodeficiency virus 1		86
+NP_057854.1	Rev	Human immunodeficiency virus 1		116
+NP_057856.1	Envelope surface glycoprotein gp160, precursor	Human immunodeficiency virus 1		856
+NP_057857.2	Nef	Human immunodeficiency virus 1		206
+NP_042893.1	U2	Human betaherpesvirus 6A		366
+NP_042894.1	U3	Human betaherpesvirus 6A		373
+NP_042895.1	U4	Human betaherpesvirus 6A		535
+NP_042898.4	U7	Human betaherpesvirus 6A		1227
+NP_042901.2	U10	Human betaherpesvirus 6A		503
+NP_042902.1	pp100	Human betaherpesvirus 6A		870
+NP_042904.2	GCR	Human betaherpesvirus 6A		347
+NP_042905.1	U13	Human betaherpesvirus 6A		106
+NP_042906.1	U14	Human betaherpesvirus 6A		609
+NP_042907.4	U15	Human betaherpesvirus 6A		191
+NP_042910.4	U17	Human betaherpesvirus 6A		334
+NP_042911.1	IE glycoprotein	Human betaherpesvirus 6A		293
+NP_042912.1	U19	Human betaherpesvirus 6A		389
+NP_042913.1	glycoprotein	Human betaherpesvirus 6A		422
+NP_042914.1	glycoprotein	Human betaherpesvirus 6A		433
+NP_042915.1	glycoprotein	Human betaherpesvirus 6A		202
+NP_042916.1	glycoprotein	Human betaherpesvirus 6A		236
+NP_042917.1	glycoprotein	Human betaherpesvirus 6A		87
+NP_042918.1	U25	Human betaherpesvirus 6A		316
+NP_042919.1	U26	Human betaherpesvirus 6A		295
+NP_042920.3	pp41 transactivator	Human betaherpesvirus 6A		393
+NP_042921.1	RR1	Human betaherpesvirus 6A		804
+NP_042922.1	U29	Human betaherpesvirus 6A		299
+NP_042923.3	U30	Human betaherpesvirus 6A		1082
+NP_042924.1	large tegument protein	Human betaherpesvirus 6A		2077
+NP_042925.1	U32	Human betaherpesvirus 6A		88
+NP_042926.1	U33	Human betaherpesvirus 6A		470
+NP_042927.1	U34	Human betaherpesvirus 6A		276
+NP_042928.1	U35	Human betaherpesvirus 6A		106
+NP_042929.1	U36	Human betaherpesvirus 6A		484
+NP_042930.1	U37	Human betaherpesvirus 6A		264
+NP_042931.1	DNA polymerase catalytic subunit	Human betaherpesvirus 6A		1012
+NP_042932.1	glycoprotein B	Human betaherpesvirus 6A		830
+NP_042933.2	U40	Human betaherpesvirus 6A		726
+NP_042934.1	major DNA binding protein	Human betaherpesvirus 6A		1132
+NP_042935.2	transactivator	Human betaherpesvirus 6A		515
+NP_042936.1	helicase/primase complex protein	Human betaherpesvirus 6A		860
+NP_042937.4	U44	Human betaherpesvirus 6A		205
+NP_042938.1	U45	Human betaherpesvirus 6A		376
+NP_042939.1	membrane/secreted protein	Human betaherpesvirus 6A		84
+NP_042940.3	glycoprotein O	Human betaherpesvirus 6A		651
+NP_042941.1	glycoprotein H	Human betaherpesvirus 6A		694
+NP_042942.1	U49	Human betaherpesvirus 6A		252
+NP_042943.1	U50	Human betaherpesvirus 6A		555
+NP_042944.1	GCR	Human betaherpesvirus 6A		301
+NP_042945.1	U52	Human betaherpesvirus 6A		258
+NP_042946.1	protease/assembly protein	Human betaherpesvirus 6A		528
+NP_042947.1	U54	Human betaherpesvirus 6A		458
+NP_042948.1	U55	Human betaherpesvirus 6A		432
+NP_042949.1	U56	Human betaherpesvirus 6A		296
+NP_042950.2	major capsid protein	Human betaherpesvirus 6A		1345
+NP_042951.2	U58	Human betaherpesvirus 6A		772
+NP_042952.1	U59	Human betaherpesvirus 6A		350
+NP_042955.1	U62	Human betaherpesvirus 6A		85
+NP_042956.1	U63	Human betaherpesvirus 6A		216
+NP_042957.1	U64	Human betaherpesvirus 6A		442
+NP_042958.1	U65	Human betaherpesvirus 6A		335
+NP_042960.1	U67	Human betaherpesvirus 6A		353
+NP_042961.1	U68	Human betaherpesvirus 6A		114
+NP_042962.1	ganciclovir kinase	Human betaherpesvirus 6A		562
+NP_042963.1	alkaline exonuclease	Human betaherpesvirus 6A		488
+NP_042964.1	U71	Human betaherpesvirus 6A		77
+NP_042965.1	integral membrane protein	Human betaherpesvirus 6A		344
+NP_042966.1	origin-binding protein	Human betaherpesvirus 6A		780
+NP_042967.1	helicase/primase complex	Human betaherpesvirus 6A		662
+NP_042968.1	U75	Human betaherpesvirus 6A		249
+NP_042969.4	U76	Human betaherpesvirus 6A		646
+NP_042970.1	helicase	Human betaherpesvirus 6A		824
+NP_042972.4	putative replication protein	Human betaherpesvirus 6A		474
+NP_042974.1	uracil-DNA glycosylase	Human betaherpesvirus 6A		255
+NP_042975.1	glycoprotein L	Human betaherpesvirus 6A		250
+NP_042976.2	U83	Human betaherpesvirus 6A		97
+NP_042977.1	U84	Human betaherpesvirus 6A		342
+NP_042978.1	U85	Human betaherpesvirus 6A		290
+NP_042979.4	immediate early protein IE2	Human betaherpesvirus 6A		1452
+NP_042983.4	immediate early protein IE1	Human betaherpesvirus 6A		941
+NP_042984.4	U91	Human betaherpesvirus 6A		153
+NP_042987.1	Rep	Human betaherpesvirus 6A		490
+NP_042988.1	U95	Human betaherpesvirus 6A		1121
+NP_042993.5	glycoprotein gQ	Human betaherpesvirus 6A		656
+NP_050222.1	major DNA binding protein	Human betaherpesvirus 6B		1132
+NP_050223.1	transactivator	Human betaherpesvirus 6B		516
+NP_050224.1	helicase/primase complex	Human betaherpesvirus 6B		860
+NP_050225.1	hypothetical protein HhV6Bgp050	Human betaherpesvirus 6B		231
+NP_050226.1	putative dUTPase	Human betaherpesvirus 6B		376
+NP_050227.1	putative membrane /secreted protein	Human betaherpesvirus 6B		84
+NP_050228.1	glycoprotein O	Human betaherpesvirus 6B		738
+NP_050229.1	glycoprotein H	Human betaherpesvirus 6B		694
+NP_050230.1	putative fusion protein	Human betaherpesvirus 6B		252
+NP_050231.1	viron protein	Human betaherpesvirus 6B		555
+NP_050232.1	G-protein coupled receptor	Human betaherpesvirus 6B		301
+NP_050249.1	Alkaline exonuclease	Human betaherpesvirus 6B		488
+NP_050250.1	Myristylated virion protein	Human betaherpesvirus 6B		81
+NP_050251.1	glycoprotein M	Human betaherpesvirus 6B		344
+NP_050252.1	origin binding protein	Human betaherpesvirus 6B		780
+NP_050253.1	helicase/primase complex	Human betaherpesvirus 6B		662
+NP_050254.1	hypothetical protein HhV6Bgp080	Human betaherpesvirus 6B		249
+NP_050255.1	putative viron protein	Human betaherpesvirus 6B		662
+NP_050256.1	Helicase/primase complex	Human betaherpesvirus 6B		824
+NP_050257.1	hypothetical protein HhV6Bgp082	Human betaherpesvirus 6B		79
+NP_050258.1	hypothetical protein HhV6Bgp083	Human betaherpesvirus 6B		75
+NP_050260.1	Uracyl-DNA glycosylase	Human betaherpesvirus 6B		255
+NP_050261.1	Glycoprotein L	Human betaherpesvirus 6B		250
+NP_050262.1	Intercrine cytokine	Human betaherpesvirus 6B		113
+NP_056837.1	gag polyprotein	Human immunodeficiency virus 2		521
+NP_056839.1	vif protein	Human immunodeficiency virus 2		215
+NP_056840.1	vpx protein	Human immunodeficiency virus 2		113
+NP_056841.1	vpr protein	Human immunodeficiency virus 2		87
+NP_056842.1	tat protein	Human immunodeficiency virus 2		130
+NP_056843.1	rev protein	Human immunodeficiency virus 2		103
+NP_056844.1	env polyprotein	Human immunodeficiency virus 2		860
+NP_056845.1	nef protein	Human immunodeficiency virus 2		257
+NP_040845.1	control protein E1A	Human mastadenovirus F		249
+NP_040848.1	control protein E1B 19K	Human mastadenovirus F		167
+NP_040850.1	control protein E1B 55K	Human mastadenovirus F		476
+NP_040851.1	capsid protein IX	Human mastadenovirus F		132
+NP_040852.1	encapsidation protein IVa2	Human mastadenovirus F		446
+NP_040853.1	DNA polymerase	Human mastadenovirus F		1188
+NP_040854.1	terminal protein precursor pTP	Human mastadenovirus F		646
+NP_040855.1	encapsidation protein 52K	Human mastadenovirus F		380
+NP_040856.1	capsid protein precursor pIIIa	Human mastadenovirus F		576
+NP_040857.1	penton base	Human mastadenovirus F		504
+NP_040858.1	core protein precursor pVII	Human mastadenovirus F		185
+NP_040859.1	core protein V	Human mastadenovirus F		358
+NP_040860.1	core protein precursor pX	Human mastadenovirus F		70
+NP_040861.1	capsid protein precursor pVI	Human mastadenovirus F		267
+NP_040862.1	hexon	Human mastadenovirus F		923
+NP_040863.1	protease	Human mastadenovirus F		205
+NP_040864.1	single-stranded DNA-binding protein	Human mastadenovirus F		473
+NP_040865.1	hexon assembly protein 100K	Human mastadenovirus F		770
+NP_040866.1	protein 33K	Human mastadenovirus F		211
+NP_040867.1	encapsidation protein 22K	Human mastadenovirus F		186
+NP_040868.1	capsid protein precursor pVIII	Human mastadenovirus F		233
+NP_040869.1	membrane glycoprotein E3 CR1-alpha	Human mastadenovirus F		173
+NP_040870.1	membrane glycoprotein E3 CR1-beta	Human mastadenovirus F		276
+NP_040871.1	membrane protein E3 RID-alpha	Human mastadenovirus F		90
+NP_040872.1	membrane protein E3 RID-beta	Human mastadenovirus F		107
+NP_040873.1	control protein E3 14.7K	Human mastadenovirus F		122
+NP_040874.2	protein U, partial	Human mastadenovirus F		52
+NP_040875.1	fiber	Human mastadenovirus F		387
+NP_040876.1	fiber-2	Human mastadenovirus F		547
+NP_040877.2	control protein E4orf6/7	Human mastadenovirus F		122
+NP_040878.2	control protein E4 34K	Human mastadenovirus F		289
+NP_040879.1	control protein E4orf4	Human mastadenovirus F		121
+NP_040880.1	control protein E4orf3	Human mastadenovirus F		116
+NP_040881.1	control protein E4orf2	Human mastadenovirus F		130
+NP_050192.1	antigenic virion protein	Human betaherpesvirus 6B		858
+NP_040910.2	control protein E1A	Human mastadenovirus A		266
+NP_040911.1	control protein E1B 19K	Human mastadenovirus A		163
+NP_040912.1	control protein E1B 55K	Human mastadenovirus A		482
+NP_040913.1	capsid protein IX	Human mastadenovirus A		144
+NP_040914.1	encapsidation protein IVa2	Human mastadenovirus A		452
+NP_040915.2	DNA polymerase	Human mastadenovirus A		1189
+NP_040916.2	protein 13.6K	Human mastadenovirus A		142
+NP_040917.2	terminal protein precursor pTP	Human mastadenovirus A		641
+NP_040918.1	encapsidation protein 52K	Human mastadenovirus A		373
+NP_040919.1	capsid protein precursor pIIIa	Human mastadenovirus A		582
+NP_040920.1	penton base	Human mastadenovirus A		497
+NP_040921.2	core protein V	Human mastadenovirus A		344
+NP_040922.1	core protein precursor pX	Human mastadenovirus A		72
+NP_040923.1	capsid protein precursor pVI	Human mastadenovirus A		265
+NP_040924.1	hexon	Human mastadenovirus A		919
+NP_040925.1	protease	Human mastadenovirus A		206
+NP_040926.1	single-stranded DNA-binding protein	Human mastadenovirus A		484
+NP_040927.1	hexon assembly protein 100K	Human mastadenovirus A		782
+NP_040928.1	capsid protein precursor pVIII	Human mastadenovirus A		233
+NP_040929.1	control protein E3 12.5K	Human mastadenovirus A		105
+NP_040930.1	membrane protein E3 RID-alpha	Human mastadenovirus A		91
+NP_040931.1	membrane protein E3 RID-beta	Human mastadenovirus A		110
+NP_040932.1	control protein E3 14.7K	Human mastadenovirus A		128
+NP_040933.1	fiber	Human mastadenovirus A		587
+NP_040934.1	control protein E4 34K	Human mastadenovirus A		291
+NP_040935.1	control protein E4orf4	Human mastadenovirus A		120
+NP_040936.1	control protein E4orf3	Human mastadenovirus A		116
+NP_597783.2	protein 33K	Human mastadenovirus A		205
+NP_597784.2	control protein E4orf6/7	Human mastadenovirus A		125
+NP_040507.1	control protein E1A	Human mastadenovirus C		289
+NP_040508.1	control protein E1A 243R	Human mastadenovirus C		243
+NP_040510.1	control protein E1B 19K	Human mastadenovirus C		175
+NP_040511.1	control protein E1B 55K	Human mastadenovirus C		495
+NP_040514.1	capsid protein IX	Human mastadenovirus C		140
+NP_040515.1	encapsidation protein IVa2	Human mastadenovirus C		449
+NP_040516.2	DNA polymerase	Human mastadenovirus C		1198
+NP_040517.2	protein 13.6K	Human mastadenovirus C		145
+NP_040518.2	terminal protein precursor pTP	Human mastadenovirus C		671
+NP_040519.1	encapsidation protein 52K	Human mastadenovirus C		415
+NP_040520.1	capsid protein precursor pIIIa	Human mastadenovirus C		585
+NP_040521.1	penton base	Human mastadenovirus C		571
+NP_040522.1	core protein precursor pVII	Human mastadenovirus C		198
+NP_040523.1	core protein V	Human mastadenovirus C		369
+NP_040524.1	capsid protein precursor pVI	Human mastadenovirus C		250
+NP_040525.1	hexon	Human mastadenovirus C		968
+NP_040526.1	protease	Human mastadenovirus C		204
+NP_040527.1	single-stranded DNA-binding protein	Human mastadenovirus C		529
+NP_040528.1	hexon assembly protein 100K	Human mastadenovirus C		805
+NP_040529.1	protein 33K	Human mastadenovirus C		228
+NP_040530.1	capsid protein precursor pVIII	Human mastadenovirus C		227
+NP_040531.1	membrane glycoprotein E3 gp19K	Human mastadenovirus C		159
+NP_040532.1	membrane glycoprotein E3 CR1-beta	Human mastadenovirus C		101
+NP_040533.1	fiber	Human mastadenovirus C		582
+NP_040534.1	control protein E4orf3	Human mastadenovirus C		116
+NP_597753.1	control protein E3 14.7K	Human mastadenovirus C		128
+NP_597754.2	protein U, partial	Human mastadenovirus C		54
+NP_597755.2	control protein E4 34K	Human mastadenovirus C		294
+NP_597756.1	control protein E4orf1	Human mastadenovirus C		128
+NP_040124.1	membrane protein V1	Human alphaherpesvirus 3		108
+NP_040125.2	myristylated tegument protein CIRC	Human alphaherpesvirus 3		221
+NP_040126.1	nuclear protein UL55	Human alphaherpesvirus 3		179
+NP_040127.1	multifunctional expression regulator	Human alphaherpesvirus 3		452
+NP_040128.1	envelope glycoprotein K	Human alphaherpesvirus 3		340
+NP_040129.1	helicase-primase primase subunit	Human alphaherpesvirus 3		1083
+NP_040130.1	tegument protein UL51	Human alphaherpesvirus 3		259
+NP_040131.1	deoxyuridine triphosphatase	Human alphaherpesvirus 3		396
+NP_040132.1	tegument protein VP22	Human alphaherpesvirus 3		302
+NP_040133.1	transactivating tegument protein VP16	Human alphaherpesvirus 3		410
+NP_040134.1	tegument protein VP13/14	Human alphaherpesvirus 3		819
+NP_040135.1	tegument protein VP11/12	Human alphaherpesvirus 3		661
+NP_040136.1	thymidylate synthase	Human alphaherpesvirus 3		301
+NP_040137.1	envelope glycoprotein C	Human alphaherpesvirus 3		560
+NP_040138.1	envelope protein UL43	Human alphaherpesvirus 3		406
+NP_040139.1	DNA polymerase processivity subunit	Human alphaherpesvirus 3		408
+NP_040140.1	tegument host shutoff protein	Human alphaherpesvirus 3		455
+NP_040141.1	ribonucleotide reductase subunit 2	Human alphaherpesvirus 3		306
+NP_040142.1	ribonucleotide reductase subunit 1	Human alphaherpesvirus 3		775
+NP_040143.1	capsid triplex subunit 1	Human alphaherpesvirus 3		483
+NP_040144.1	tegument protein UL37	Human alphaherpesvirus 3		1038
+NP_040145.1	large tegument protein	Human alphaherpesvirus 3		2763
+NP_040146.1	small capsid protein	Human alphaherpesvirus 3		235
+NP_040147.1	nuclear egress membrane protein	Human alphaherpesvirus 3		269
+NP_040148.1	DNA packaging protein UL33	Human alphaherpesvirus 3		156
+NP_040149.1	DNA packaging protein UL32	Human alphaherpesvirus 3		585
+NP_040150.2	nuclear egress lamina protein	Human alphaherpesvirus 3		312
+NP_040151.1	DNA polymerase catalytic subunit	Human alphaherpesvirus 3		1194
+NP_040152.1	single-stranded DNA-binding protein	Human alphaherpesvirus 3		1204
+NP_040153.1	DNA packaging terminase subunit 2	Human alphaherpesvirus 3		770
+NP_040154.2	envelope glycoprotein B	Human alphaherpesvirus 3		931
+NP_040155.1	protein V32	Human alphaherpesvirus 3		143
+NP_040156.1	capsid maturation protease	Human alphaherpesvirus 3		605
+NP_040157.1	DNA packaging tegument protein UL25	Human alphaherpesvirus 3		579
+NP_040158.1	nuclear protein UL24	Human alphaherpesvirus 3		258
+NP_040159.1	thymidine kinase	Human alphaherpesvirus 3		341
+NP_040160.1	envelope glycoprotein H	Human alphaherpesvirus 3		841
+NP_040161.1	tegument protein UL21	Human alphaherpesvirus 3		541
+NP_040162.2	envelope protein UL20	Human alphaherpesvirus 3		222
+NP_040163.1	major capsid protein	Human alphaherpesvirus 3		1396
+NP_040164.1	capsid triplex subunit 2	Human alphaherpesvirus 3		316
+NP_040165.1	DNA packaging terminase subunit 1	Human alphaherpesvirus 3		747
+NP_040166.1	DNA packaging tegument protein UL17	Human alphaherpesvirus 3		676
+NP_040167.1	tegument protein UL16	Human alphaherpesvirus 3		363
+NP_040168.1	tegument protein UL14	Human alphaherpesvirus 3		199
+NP_040169.1	tegument serine/threonine protein kinase	Human alphaherpesvirus 3		510
+NP_040170.1	deoxyribonuclease	Human alphaherpesvirus 3		551
+NP_040171.1	myristylated tegument protein	Human alphaherpesvirus 3		81
+NP_040172.1	envelope glycoprotein M	Human alphaherpesvirus 3		435
+NP_040173.1	DNA replication origin-binding helicase	Human alphaherpesvirus 3		835
+NP_040174.1	helicase-primase subunit	Human alphaherpesvirus 3		771
+NP_040175.1	tegument protein UL7	Human alphaherpesvirus 3		331
+NP_040176.1	capsid portal protein	Human alphaherpesvirus 3		769
+NP_040177.1	helicase-primase helicase subunit	Human alphaherpesvirus 3		881
+NP_040178.2	nuclear protein UL4	Human alphaherpesvirus 3		196
+NP_040179.1	protein V57	Human alphaherpesvirus 3		71
+NP_040180.1	nuclear protein UL3	Human alphaherpesvirus 3		221
+NP_040181.1	uracil-DNA glycosylase	Human alphaherpesvirus 3		305
+NP_040182.1	envelope glycoprotein L	Human alphaherpesvirus 3		159
+NP_040183.1	ubiquitin E3 ligase ICP0	Human alphaherpesvirus 3		467
+NP_040184.1	transcriptional regulator ICP4	Human alphaherpesvirus 3		1310
+NP_040185.1	regulatory protein ICP22	Human alphaherpesvirus 3		278
+NP_040186.1	virion protein US10	Human alphaherpesvirus 3		180
+NP_040187.1	membrane protein US9	Human alphaherpesvirus 3		102
+NP_040188.1	serine/threonine protein kinase US3	Human alphaherpesvirus 3		393
+NP_040189.1	envelope glycoprotein I	Human alphaherpesvirus 3		354
+NP_040190.1	envelope glycoprotein E	Human alphaherpesvirus 3		623
+NP_040191.1	virion protein US10	Human alphaherpesvirus 3		180
+NP_040192.1	regulatory protein ICP22	Human alphaherpesvirus 3		278
+NP_040193.1	transcriptional regulator ICP4	Human alphaherpesvirus 3		1310

@@ -1,0 +1,53 @@
+{
+  "cell_pctl": 90,
+  "min_n_per_family": 50,
+  "families": [
+    "Papillomaviridae",
+    "Retroviridae",
+    "Adenoviridae",
+    "Poxviridae",
+    "Coronaviridae",
+    "Orthoherpesviridae",
+    "Orthomyxoviridae",
+    "Sedoreoviridae"
+  ],
+  "arches": {
+    "ProGen2": {
+      "tau_ref_scale_p90": 14.16350026390812,
+      "tau_alts": {
+        "pooled_p90": 14.166211283276404,
+        "largest_scale_p90": 8.477152991427982
+      },
+      "ref_model": "progen2_base",
+      "models": [
+        "progen2_small",
+        "progen2_base",
+        "progen2_large",
+        "progen2_xlarge"
+      ]
+    },
+    "EvoDiff": {
+      "tau_ref_scale_p90": 16.194024195846435,
+      "tau_alts": {
+        "pooled_p90": 16.94934899662833,
+        "largest_scale_p90": 16.194024195846435
+      },
+      "ref_model": "evodiff_oadm_640m_elbo",
+      "models": [
+        "evodiff_oadm_38m_elbo",
+        "evodiff_oadm_640m_elbo"
+      ]
+    },
+    "ProtT5": {
+      "tau_ref_scale_p90": 366.42170951652867,
+      "tau_alts": {
+        "pooled_p90": 366.42170951652867,
+        "largest_scale_p90": 366.42170951652867
+      },
+      "ref_model": "prott5_xl",
+      "models": [
+        "prott5_xl"
+      ]
+    }
+  }
+}

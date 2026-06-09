@@ -1,0 +1,25 @@
+{
+  "n_viral": 5203,
+  "n_nonviral": 5197,
+  "mask_rate": 0.15,
+  "n_seeds": 3,
+  "viral_mean_perplexity": 15.385658872412375,
+  "viral_std_perplexity": 2.8566153567162416,
+  "nonviral_mean_perplexity": 5.3782523106760545,
+  "nonviral_std_perplexity": 3.5795795601950307,
+  "viral_mean_recovery": 0.1608610974543727,
+  "viral_std_recovery": 0.08487953696513575,
+  "nonviral_mean_recovery": 0.522100768280168,
+  "nonviral_std_recovery": 0.17366807373214332,
+  "mannwhitneyu_perplexity": {
+    "statistic": 25960386.0,
+    "pvalue": 0.0
+  },
+  "mannwhitneyu_recovery": {
+    "statistic": 1244119.5,
+    "pvalue": 0.0
+  },
+  "auroc_perplexity": 0.03992623370325825,
+  "auroc_recovery": 0.04601035185255793,
+  "note": "auroc_perplexity uses -perplexity as viral score (>0.5 = viral has lower perplexity than non-viral). auroc_recovery uses recovery_rate as viral score (>0.5 = viral has higher recovery rate)."
+}

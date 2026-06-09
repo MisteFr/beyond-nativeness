@@ -1,0 +1,36 @@
+{
+  "model": "esm2_35m",
+  "hf_model_name": "facebook/esm2_t12_35M_UR50D",
+  "n_viral": 5203,
+  "n_nonviral": 5197,
+  "mask_rate": 0.15,
+  "n_seeds": 3,
+  "viral_mean_perplexity": 15.649734499155233,
+  "viral_std_perplexity": 2.434955870538984,
+  "nonviral_mean_perplexity": 9.974279645158447,
+  "nonviral_std_perplexity": 3.9841582036263996,
+  "viral_mean_recovery": 0.152993705379092,
+  "viral_std_recovery": 0.0697028316078952,
+  "nonviral_mean_recovery": 0.3098583477970682,
+  "nonviral_std_recovery": 0.13277916590419706,
+  "viral_mean_log_likelihood": -152.6777258233965,
+  "viral_std_log_likelihood": 97.34150361525974,
+  "nonviral_mean_log_likelihood": -108.25302532040571,
+  "nonviral_std_log_likelihood": 71.13289457691272,
+  "mannwhitneyu_perplexity": {
+    "statistic": 23605678.5,
+    "pvalue": 0.0
+  },
+  "mannwhitneyu_recovery": {
+    "statistic": 3983103.5,
+    "pvalue": 0.0
+  },
+  "mannwhitneyu_log_likelihood": {
+    "statistic": 10069250.5,
+    "pvalue": 1.6661166783073463e-112
+  },
+  "auroc_perplexity": 0.8729913593536329,
+  "auroc_recovery": 0.8526958274505342,
+  "auroc_log_likelihood": 0.6276163516474544,
+  "note": "auroc_perplexity: higher PPL = viral (AUC>0.5 means viral has higher PPL). auroc_log_likelihood: lower LL = viral (AUC>0.5 means viral has lower LL)."
+}

@@ -1,0 +1,53 @@
+{
+  "n_viral_positives": 1046,
+  "n_human_negatives": 38,
+  "models": {
+    "esm2_8m": {
+      "full_auc": 0.9668,
+      "human_auc": 0.8861,
+      "delta": -0.0807
+    },
+    "esm2_35m": {
+      "full_auc": 0.9809,
+      "human_auc": 0.9599,
+      "delta": -0.021
+    },
+    "esm2_150m": {
+      "full_auc": 0.9872,
+      "human_auc": 0.9545,
+      "delta": -0.0327
+    },
+    "esm2_650m": {
+      "full_auc": 0.9936,
+      "human_auc": 0.9748,
+      "delta": -0.0187
+    },
+    "esmc_300m": {
+      "full_auc": 0.994,
+      "human_auc": 0.9697,
+      "delta": -0.0243
+    },
+    "esmc_600m": {
+      "full_auc": 0.9942,
+      "human_auc": 0.9789,
+      "delta": -0.0153
+    },
+    "esm3_small": {
+      "full_auc": 0.9891,
+      "human_auc": 0.9707,
+      "delta": -0.0184
+    },
+    "esm3_open": {
+      "full_auc": 0.9888,
+      "human_auc": 0.9557,
+      "delta": -0.0332
+    },
+    "esm3_medium": {
+      "full_auc": 0.9927,
+      "human_auc": 0.9805,
+      "delta": -0.0122
+    }
+  },
+  "min_human_auc": 0.8861,
+  "min_human_auc_model": "esm2_8m"
+}
